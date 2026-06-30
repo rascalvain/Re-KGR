@@ -1,0 +1,2024 @@
+instance of	0
+located in the administrative territorial entity	1
+architectural style	2
+has part	3
+describes	4
+contains	5
+director	6
+cast member	7
+character played	8
+description	9
+semantic equivalent	10
+subject matter	11
+producer	12
+subject is	13
+portrayed by	14
+co-director	15
+document mentions	16
+does not mention	17
+creator of character Thirteenth Aunt	18
+writer	19
+creator	20
+action	21
+participated in	22
+constructive process	23
+official designation	24
+manufacturer	25
+serial number	26
+named after	27
+notable for having ships named after it	28
+place of commissioning	29
+operator	30
+regulation basis	31
+operated for	32
+commanded	33
+was the location of death of	34
+original name	35
+built during	36
+has designation	37
+has part of sequence number	38
+developer	39
+country of origin	40
+educated at	41
+period of attendance	42
+draft pick	43
+selected by	44
+nickname	45
+career length	46
+member of sports team	47
+period of play for Dwight Davis	48
+height	49
+position played	50
+points per game average	51
+career games played	52
+honoree	53
+date of honor	54
+notable for	55
+appointed by	56
+member	57
+appointment year	58
+chairperson	59
+chair year	60
+board member of	61
+activity	62
+alias	63
+produced	64
+period of activity	65
+artist associated with	66
+featured on	67
+property	68
+written by	69
+recorded by	70
+recording date	71
+involved in dispute with	72
+withheld master tapes from	73
+claimed	74
+settlement year	75
+performer	76
+has stated record sales	77
+publisher	78
+distribution format	79
+genre	80
+author	81
+release as	82
+composer	83
+topic of discussion	84
+production style	85
+lyrical theme	86
+references	87
+publication date	88
+record label	89
+rejected by	90
+given to	91
+role	92
+opinion	93
+musical feature	94
+comparison target	95
+musical artist	96
+date of first publication	97
+is	98
+start time	99
+location	100
+alternative name	101
+geographic feature	102
+dissolved by treaty	103
+status after 1923	104
+administration	105
+wanted to annex	106
+part of	107
+advocated for	108
+is similar to	109
+undertook	110
+subject of event	111
+name	112
+established by	113
+located in administrative territorial entity	114
+street address	115
+date of birth	116
+occupation	117
+coach	118
+start age	119
+year of start	120
+achievement	121
+place of birth	122
+country of citizenship	123
+author of	124
+production company	125
+character name	126
+subject of	127
+addresses	128
+themes	129
+statement	130
+has been adapted to	131
+first feature film	132
+motive for occupation	133
+network	134
+premiere time	135
+replacement for	136
+number of works for author	137
+shares profession with	138
+has appeared on	139
+appeared on	140
+reprised in	141
+produced by	142
+gave a stage to	143
+included	144
+asks for	145
+searches for	146
+mentions	147
+follows	148
+checks	149
+concludes	150
+re-evaluates	151
+details	152
+features	153
+determines	154
+managed	155
+applies	156
+identifies	157
+states	158
+date of establishment	159
+founder	160
+original form	161
+first production of	162
+first production year	163
+first production by	164
+date of action	165
+location of action	166
+effect	167
+Russian name	168
+chairman	169
+inception year	170
+purpose	171
+headquarters location	172
+has ties to	173
+has staff	174
+co-star	175
+advisor	176
+advisor start time	177
+date of completion	178
+intended use	179
+architect	180
+known for	181
+is feature of	182
+gives name to	183
+has feature	184
+is a	185
+described by	186
+fused at	187
+frequency	188
+proportion of	189
+always share	190
+may share union on	191
+does not include union of	192
+have	193
+has	194
+may involve union of	195
+variation is based on	196
+are based on	197
+affects	198
+has effect on	199
+survive until	200
+stillbirth rate	201
+die within	202
+is usually caused by	203
+date of first use	204
+organizer	205
+described as	206
+focus of research	207
+breakthrough driven by	208
+subclass of	209
+powered by	210
+former name	211
+inception date	212
+member of sports league	213
+works with	214
+responsible for management of	215
+start date	216
+composed of	217
+selection method	218
+selection limit	219
+selection purpose	220
+participates in	221
+opponent	222
+replaced in 2016 by	223
+member of	224
+administers	225
+administering body	226
+consisted of	227
+originated from	228
+participating team	229
+rostered player	230
+part of the series	231
+is an acronym for	232
+featured artist	233
+featured vocal artist	234
+lyrical themes	235
+thematic focus	236
+lead single of	237
+tribute album to	238
+active years	239
+date of death	240
+note	241
+record sales	242
+single featured on	243
+chart position	244
+appears on album	245
+track on	246
+achieved chart position	247
+chart achievement	248
+requires lead vocalist	249
+status	250
+title	251
+part of album	252
+implies	253
+position	254
+capital of	255
+notable topic	256
+significant event	257
+located next to	258
+located north of	259
+has meaning	260
+refers to shape of	261
+was formerly named by Romans as	262
+means	263
+is surrounded by	264
+has adopted	265
+is located on	266
+is often referred to as	267
+can be found in	268
+located in	269
+part of region	270
+date of creation	271
+defined as	272
+period in	273
+end date	274
+followed by	275
+began with	276
+topic discussed	277
+establishment date	278
+notable person associated with	279
+statement from source	280
+confirms	281
+place of origin	282
+founding event source	283
+award received from	284
+award named	285
+translated language	286
+place of residence	287
+award received	288
+award nomination received	289
+work nominated for	290
+recognized as	291
+publisher of forthcoming work by	292
+received praise from	293
+award received by	294
+award or nomination received for work	295
+field of work	296
+editor	297
+comparative relation	298
+anthology inclusion	299
+publication venue	300
+contains work by	301
+date of discovery	302
+follows precedent of	303
+developed with support from	304
+grant number	305
+measures and records	306
+applies to	307
+investigates	308
+resulted from	309
+has essential feature	310
+used by	311
+manages	312
+has use	313
+feature	314
+lacks	315
+designed to allow	316
+associated feature	317
+associated object	318
+period	319
+broadcast day	320
+time of broadcast	321
+number of episodes	322
+stage name	323
+debut age	324
+main character	325
+subject	326
+collaborator	327
+appears in	328
+leads	329
+setting	330
+has influence from	331
+uses	332
+has dimension	333
+historically played by	334
+predominantly hailed from	335
+used as means to socially connect	336
+spread of	337
+continues to grow	338
+unites	339
+located about	340
+serves as source of water for	341
+formerly known as	342
+is an administrative division with status of	343
+famous for	344
+area	345
+bordering region direction	346
+endpoint	347
+length	348
+parallel to	349
+located in the administrative region	350
+administrative classification	351
+administrative oversight	352
+has former name	353
+is one of	354
+share administrative classification	355
+notable work	356
+subsequent work	357
+plot setting context	358
+plot location development	359
+date of affiliation	360
+number of items	361
+contain	362
+theme	363
+access rule	364
+time period	365
+location feature	366
+source of information	367
+time period covered	368
+position held	369
+managing partner	370
+acquired by	371
+chair of film program held by	372
+term of office	373
+depicted by	374
+sequel to	375
+part of the album	376
+recorded during production of	377
+recorded with	378
+preceded by	379
+follow-up to	380
+critical reception	381
+single type	382
+co-producer	383
+promotional release location	384
+release date	385
+artist	386
+located on	387
+connects to	388
+crosses over	389
+serves settlement	390
+terminus	391
+direction of travel	392
+intersects with	393
+junction	394
+passes through	395
+continues as	396
+border with	397
+distribution method	398
+abridgement rationale	399
+publication frequency	400
+availability	401
+content selection method	402
+abridgement characteristic	403
+original work	404
+narrative form	405
+translated by	406
+inception	407
+owner	408
+frequency of publication	409
+mention status	410
+assertion	411
+number of studio albums	412
+number of live albums	413
+number of compilation albums	414
+number of remix albums	415
+number of mix albums	416
+number of video albums	417
+number of extended plays	418
+number of singles	419
+number of music videos	420
+founding year	421
+first music release	422
+single	423
+reissued by	424
+member departed	425
+recorded album	426
+single from album	427
+lyricist	428
+creative influence on album	429
+sampling	430
+republished by	431
+has modified feature	432
+contains track	433
+excludes track	434
+track producer	435
+platform	436
+featuring	437
+track released on	438
+release event	439
+peaked at	440
+label	441
+mentions musical work	442
+featured musical work	443
+contains music	444
+step	445
+date of founding	446
+debut album	447
+has released	448
+frequently releases	449
+member of band during	450
+performer in	451
+attracted attention of	452
+seeking	453
+recorded	454
+contributor	455
+return to education	456
+education focus	457
+field of study	458
+event timing	459
+resignation reason	460
+continent	461
+lead performer	462
+not part of	463
+nationality	464
+continent/region	465
+competitor on	466
+child	467
+competitor	468
+driver	469
+league	470
+home venue	471
+relocated to	472
+won	473
+did not participate in	474
+joined league	475
+team owner	476
+former driver	477
+participant in	478
+attempted to join	479
+member of practice squad	480
+plays special teams	481
+years of play	482
+year founded	483
+has part in	484
+includes	485
+date of event	486
+did not lead the league in rushing yards during his career in	487
+involved in	488
+head coach	489
+sports career span	490
+played for	491
+defending champion	492
+partner in competition	493
+defeated	494
+focus changed to	495
+rest after event	496
+surface	497
+edition number	498
+defending champions	499
+achieved highest ranking	500
+achieved highest ranking after	501
+achieved highest doubles ranking	502
+date of tournament victory	503
+older than	504
+topics covered	505
+country of publication	506
+purpose or stated reason for existence	507
+change in frequency	508
+date of cessation of print publication	509
+change in format	510
+promoted	511
+broadcast channel	512
+issue number	513
+date of publication end	514
+date of first appearance	515
+summary	516
+language of origin	517
+style	518
+thematic element	519
+literary technique	520
+notable theme	521
+portrays	522
+has conflict with	523
+focuses on	524
+awarding body	525
+administering organization	526
+recipient	527
+award location	528
+commemorates	529
+award recipient	530
+date of award	531
+original language title	532
+seat of	533
+held seat from	534
+title in	535
+creation date	536
+founded by	537
+created by	538
+meaning	539
+took name	540
+settled in	541
+settlement period	542
+location of settlement	543
+descendant of	544
+title creation date	545
+grandson of	546
+successor	547
+brother of	548
+seat held	549
+period of holding seat	550
+birth name	551
+seat	552
+time period of occupancy	553
+screenwriter	554
+based on	555
+original title	556
+source text	557
+plot summary	558
+depicts	559
+depicts action	560
+notable feature	561
+devised by	562
+reveals	563
+listed in	564
+named by	565
+pseudonym	566
+creator of	567
+often features	568
+pseudonym for	569
+also known as	570
+compare	571
+born in	572
+conclude	573
+official name	574
+notable role	575
+contributed to	576
+end of term	577
+succeeded	578
+head of government	579
+succeeded by	580
+elected in	581
+re-elected in	582
+legislative body	583
+consists of	584
+electoral process	585
+term length	586
+term limits	587
+office held	588
+electoral success	589
+result	590
+number of seats	591
+total seats in Parliament	592
+total seats	593
+subject of the work	594
+subject of statue by	595
+creator of statue of	596
+created artwork	597
+contains subject	598
+end time	599
+spouse	600
+date of construction	601
+supported military operation	602
+bombarded	603
+operating constraint	604
+repurposed as	605
+captured by	606
+was occupied by	607
+found sinking event	608
+year of scrapping	609
+is remnant of	610
+street follows	611
+is also known as	612
+located in the ecclesiastical province of	613
+has eastern end at	614
+is adjacent to	615
+original purpose	616
+date of official status	617
+former seat	618
+is a step in the process	619
+defines the question	620
+refers to	621
+searches for context related to	622
+discusses	623
+discuss	624
+is based on	625
+designer	626
+is the first	627
+sibling	628
+parent	629
+education or upbringing	630
+author of work genre	631
+place of upbringing	632
+stage performer	633
+offers	634
+converted	635
+conversion year	636
+had plays performed in	637
+debuted performer	638
+characteristic	639
+method of operation	640
+appearance	641
+limitation	642
+suggests effect	643
+suggests	644
+conveys sense of	645
+results in film appearance	646
+voice actor	647
+supporting voice actor	648
+produced under banner	649
+distributor	650
+derived from	651
+differs from	652
+method involves	653
+voiced by	654
+contributor to work	655
+abbreviation	656
+applies technique	657
+won election	658
+defeated by	659
+ethnic group	660
+political party	661
+developed under	662
+period of development	663
+developed in	664
+peak period	665
+dominated	666
+example of	667
+exhibits characteristic	668
+shows characteristic	669
+distance from settlement	670
+located in the country	671
+has known as	672
+deity	673
+year of construction	674
+located in administrative division	675
+applies to location	676
+period of significance	677
+applies to time period	678
+has time of existence	679
+state of existence	680
+frequently depicted by	681
+ransacked by	682
+looted by	683
+subordinate to	684
+conquered by	685
+duration	686
+calculation method	687
+member count	688
+original member count	689
+competes in	690
+start date of conference play	691
+not member of	692
+championships won	693
+championships since inception	694
+home to	695
+duration of residency	696
+duration of hosting	697
+all-time record	698
+champion	699
+coach in league	700
+athletic director	701
+biographical information	702
+formulates	703
+Latin name	704
+country	705
+qualifies for practice in	706
+requires	707
+equivalent to	708
+work location	709
+developer of	710
+subject named	711
+located near	712
+located in the suburb of	713
+abbreviation for	714
+treats	715
+date of birth and death	716
+place of death	717
+place of work	718
+discoverer or inventor	719
+used to treat	720
+condition leading to	721
+has part or member	722
+statement described by	723
+governed by	724
+performs	725
+translation	726
+fought for	727
+announced by	728
+finished with	729
+rank	730
+relative	731
+notable event	732
+stripped of membership	733
+retained membership after date	734
+still exist	735
+alternative label	736
+point in time	737
+ended cause	738
+topic	739
+located in administrative region	740
+seat of government	741
+not part of the administrative body	742
+has property	743
+relate mostly to	744
+dissolved by merger	745
+shares border with	746
+bounded by administrative region	747
+area of effect	748
+border of	749
+part of the administrative territorial entity	750
+administrative territorial entity for	751
+host	752
+announcer	753
+mayor of	754
+contributor to	755
+premiere date	756
+broadcast network for reruns	757
+network where reruns resurfaced	758
+performer at	759
+associated with	760
+performer for	761
+guest appearance on	762
+had web series segment on	763
+subsidiary of	764
+location of filming	765
+asks to compare	766
+asks to determine	767
+document	768
+publication year	769
+shooting month	770
+determination	771
+instruction	772
+filming completion date	773
+coach of	774
+repeated as	775
+compete in	776
+member is located in	777
+representative team	778
+is in season number	779
+start of tenure	780
+educated	781
+sports team	782
+sports start time	783
+head coach since	784
+discontinued in	785
+has associated critic score	786
+statement about	787
+target audience	788
+contains content related to	789
+format	790
+playable on	791
+number of issues	792
+merged into	793
+alternate name	794
+first studio album with	795
+replaced	796
+entry position	797
+tour supporting	798
+has more radio play than	799
+peak position	800
+chart location	801
+lead vocalist	802
+vocalist in band	803
+held role of	804
+held the role of	805
+literary genre	806
+part of series	807
+nominee	808
+first award year	809
+includes submissions from	810
+is the same as	811
+concerns	812
+states that information is missing for	813
+is not generally known to have	814
+is typically identified as	815
+is confirmed to be	816
+has characteristic	817
+has quality	818
+broadcast on	819
+plays	820
+broadcast location	821
+lyrics	822
+parodies	823
+songwriter	824
+is described as	825
+charted successfully	826
+release year	827
+commercial song writer	828
+composition date	829
+has variant	830
+organizes	831
+aims to find	832
+performer of	833
+disambiguation	834
+pronunciation	835
+mispronunciation	836
+develops	837
+produces	838
+markets	839
+product or material	840
+fashion trend for	841
+available for	842
+provides	843
+similar to	844
+material	845
+color	846
+suited to	847
+initially designed for	848
+covers	849
+designed to protect from	850
+allows	851
+thermal property	852
+worn by	853
+perform testing in	854
+determine property	855
+suitable for	856
+material composition	857
+provides feature	858
+applies to gender	859
+is a style paired with	860
+notable work or focus	861
+material used	862
+component of	863
+basis for	864
+awarded for work	865
+year of birth	866
+year of death	867
+publication period	868
+notable contributor	869
+reporting mark	870
+track length	871
+date of asset sale	872
+began operating on	873
+retained ownership of	874
+destination airport	875
+departure airport	876
+renamed to	877
+aircraft used	878
+place of occurrence	879
+event description	880
+fatalities	881
+passenger on	882
+place of crash	883
+date of occurrence	884
+serves administrative region	885
+boundary description	886
+area bounded by	887
+previously known as	888
+made from	889
+replaces name	890
+tallest building	891
+broke restriction	892
+symbolizes	893
+heralds	894
+solves	895
+is characterized as	896
+has circulation	897
+ownership status	898
+has guarantee statement	899
+character in story	900
+charged by	901
+tasked with	902
+accumulated	903
+portmanteau of	904
+pun on	905
+controlled by	906
+original language name	907
+subject of ruler of	908
+period between	909
+period before	910
+descended from	911
+end of	912
+is the	913
+relation to original line	914
+destroyed	915
+transferred to	916
+result of	917
+has objective	918
+was subjugated by	919
+name meaning	920
+ruler of	921
+father	922
+reign length	923
+scholar's dating of reign	924
+subject of military action by	925
+participant	926
+political alignment	927
+ally of	928
+received military aid from	929
+requests information on	930
+has ruler	931
+related to	932
+searches for term	933
+determination status	934
+contextual relevance	935
+application method	936
+relationship established	937
+location relative to	938
+located in region ruled by	939
+period of rule prior to	940
+neighbor of	941
+context	942
+seat of rule of	943
+city whose king was father of Ocnus	944
+ruled by	945
+career development	946
+political affiliation	947
+activity during time period	948
+political status	949
+date of first election	950
+elected to represent	951
+reelected	952
+did not seek reelection in	953
+has candidate for mayor	954
+political rival	955
+year of marriage	956
+political party for 2014 election	957
+vote percentage in 2014 election	958
+restored by	959
+re-elected to congress	960
+winner	961
+statement made	962
+offshoot of	963
+price per issue	964
+annual subscription price	965
+six-issue subscription price	966
+single issue price	967
+explains	968
+signed by	969
+sold	970
+distribution period	971
+software developed for	972
+is an update to	973
+contains modified subsets of	974
+software version	975
+did not market	976
+involved combatant	977
+involved use of	978
+involved action against	979
+conflict between	980
+part of the military operation	981
+outcome	982
+part of the conflict	983
+part of step	984
+does not explicitly state	985
+must use	986
+event type	987
+requests	988
+has part or has derivative	989
+featured cast	990
+relationship to another work	991
+Arabic name	992
+localized name for	993
+year	994
+award period start date	995
+award period end date	996
+in what movie	997
+needs to check	998
+Use external knowledge	999
+does not provide	1000
+must adhere to	1001
+contributed to media	1002
+re-evaluate	1003
+must be based on	1004
+will select	1005
+select	1006
+competed in league	1007
+is the second largest majority religion in	1008
+is the fastest growing religion in	1009
+population proportion	1010
+are majority in	1011
+number of participants	1012
+included participant	1013
+relegated to division	1014
+player	1015
+start event	1016
+applies to region	1017
+has value	1018
+is according to source	1019
+serves	1020
+part of the line	1021
+distance from Charing Cross	1022
+number of platforms	1023
+maximum train length	1024
+location relative to Shalford railway station	1025
+connects lines	1026
+distance from London Waterloo	1027
+structure	1028
+located on site of	1029
+relative location	1030
+destruction event	1031
+recorded in source	1032
+replaces	1033
+date of opening	1034
+damaged by	1035
+date of sale	1036
+built on site of	1037
+entrance location	1038
+service line	1039
+interchange	1040
+Northern line segment location	1041
+Bakerloo line segment location	1042
+located at	1043
+served by	1044
+established in	1045
+replaced by	1046
+mentioned in	1047
+is the subject of	1048
+applied in	1049
+identified by	1050
+used to formulate answer in	1051
+is the specific location associated with G-A-Y moving under Charing Cross Station arches	1052
+used for re-evaluation in	1053
+not mentioned in	1054
+relied upon in	1055
+creation process	1056
+date of composition	1057
+author of libretto for	1058
+completion date	1059
+received favorable reception from	1060
+uses forces	1061
+omitted element	1062
+receives	1063
+frequent performances location	1064
+has performance location for	1065
+creator of work type	1066
+relocation date	1067
+relocated by	1068
+took charge of	1069
+patron	1070
+language of instruction	1071
+visited by	1072
+operated by	1073
+impressed by	1074
+convinced that	1075
+invited by	1076
+managed by	1077
+chief position held at	1078
+language of work	1079
+notable characteristic	1080
+language status	1081
+language need	1082
+structural characteristic	1083
+biographer	1084
+faculty member	1085
+employed by	1086
+employed architect	1087
+commissioned architect	1088
+sports venue	1089
+start season	1090
+original league	1091
+established	1092
+end season	1093
+participated in finals	1094
+championship	1095
+defeated in championship	1096
+defeated Fort Wayne Fury by score	1097
+defeated Rockford Lightning by score	1098
+league standing	1099
+number of members in league for season	1100
+member of division	1101
+has not affiliation with	1102
+employer	1103
+commissioned by	1104
+award organizer	1105
+player achievement	1106
+effect on	1107
+assisted to score	1108
+scored goal in minute	1109
+equalized after minute	1110
+won due to contribution by	1111
+described as having	1112
+considered	1113
+contributed to reputation of	1114
+recipient of	1115
+awarded two months after	1116
+is a type of	1117
+lists goalkeepers who achieved	1118
+created and maintained by	1119
+competitor in event	1120
+describes step	1121
+is source for step	1122
+is basis for step	1123
+notable fact	1124
+annual income	1125
+reign ended	1126
+marked boundary	1127
+rebuilt by	1128
+constructed by	1129
+position in sequence	1130
+epithet	1131
+derivative work	1132
+part of the creative work	1133
+ordinal position	1134
+publisher or distributor	1135
+employment duration	1136
+subject item	1137
+position in event	1138
+number of parts	1139
+publisher of	1140
+publication time	1141
+appears on list	1142
+is involved in	1143
+authors	1144
+used to find	1145
+degree awarded to	1146
+has a member with location in administrative region	1147
+awards championships in the number of	1148
+part of sports team	1149
+competed in sports league	1150
+athlete	1151
+competitors	1152
+occurred in all tiers	1153
+has not occurred in	1154
+promoted team	1155
+promotion year	1156
+never reached team	1157
+last met in League on	1158
+surpassed in league pyramid	1159
+occurrence year	1160
+first instance since season	1161
+league during season	1162
+repeated for season	1163
+sport	1164
+occurrence of event	1165
+location of headquarters	1166
+competed in	1167
+sports team player	1168
+constructs and manages	1169
+head	1170
+operates in	1171
+subsidiary	1172
+listed on stock exchange	1173
+announced	1174
+planned investment	1175
+includes wholesale products	1176
+distribution region	1177
+has operating segment	1178
+operated number of units	1179
+has ranking	1180
+date of ranking	1181
+part of name	1182
+has part or namesake	1183
+governs	1184
+sponsor name	1185
+promoted to league	1186
+gained by	1187
+played by	1188
+contested by	1189
+participating teams	1190
+topic of inquiry	1191
+mentioned in source	1192
+achieved promotion to	1193
+competed in season	1194
+primarily competes in	1195
+potentially competes in	1196
+depends on	1197
+guaranteed by	1198
+granted to	1199
+honors	1200
+located on or next to	1201
+located between	1202
+located beneath	1203
+orientation	1204
+overlooks	1205
+oriented toward	1206
+role in relation to	1207
+decorated with	1208
+holds	1209
+defines eastern end location for	1210
+defines western end location for	1211
+located on water body	1212
+date of official opening	1213
+south of	1214
+located on or in	1215
+method of creation	1216
+is mentioned in	1217
+track list	1218
+statement about content	1219
+surrounded by	1220
+number of rooms	1221
+number of pools	1222
+number of restaurants	1223
+determines location name	1224
+named in	1225
+confirms identity	1226
+position held from	1227
+executed by	1228
+co-founder	1229
+is an alias of	1230
+conflict	1231
+year of graduation	1232
+applies to field	1233
+compares	1234
+finds	1235
+is related to	1236
+uses concept or category	1237
+episode number in season	1238
+part of the season	1239
+original network	1240
+character meets	1241
+number of imprisonments	1242
+subject of story	1243
+episode number overall	1244
+broadcast by	1245
+purchases	1246
+engages in activity	1247
+neglects	1248
+attempts to reconcile with	1249
+agrees to assist	1250
+reminisces about	1251
+had significant life event	1252
+travels to	1253
+action during event	1254
+discovers	1255
+episode number	1256
+episode of	1257
+air date	1258
+season premiere time	1259
+promotional release for	1260
+track	1261
+written for	1262
+writer declined to record	1263
+performed by	1264
+achieved success with	1265
+certified by	1266
+certification date	1267
+number of albums released	1268
+cause of death	1269
+younger than	1270
+part of administrative region	1271
+residence of	1272
+located approximately 2.5 km northwest of	1273
+descriptor	1274
+intended location across	1275
+intended location opposite	1276
+location of intended construction	1277
+intended purpose	1278
+located in proximity to	1279
+office held by	1280
+distance from	1281
+seat of government in	1282
+located in the statistical urban area	1283
+population date	1284
+public transit system	1285
+competed in event	1286
+competed in Central American and Caribbean Games in	1287
+area (main campus)	1288
+statement with qualifier	1289
+distance from (reference location)	1290
+located in or next to	1291
+depicted in	1292
+geographic distribution	1293
+date of origin	1294
+introduced	1295
+genetic relationship with	1296
+is not more primitive than	1297
+used to organize	1298
+defines	1299
+decides	1300
+loosely based on	1301
+divided into	1302
+is an outcome of	1303
+assimilation period	1304
+average lifespan	1305
+breeding animals selected for	1306
+is a false statement	1307
+statement description	1308
+country where common	1309
+plural of	1310
+has component	1311
+written after	1312
+may be written before	1313
+caused	1314
+pronounced differently from	1315
+occurs without	1316
+English translation	1317
+English meaning	1318
+type of concept	1319
+original meaning of	1320
+arose as	1321
+arose via shortening of	1322
+variant of	1323
+subject main focus	1324
+role played	1325
+vice president	1326
+role played by	1327
+plot focus	1328
+attempts to exit state	1329
+conclusion based on best match	1330
+satisfies	1331
+role description	1332
+area of responsibility	1333
+located adjacent to	1334
+composed mainly of	1335
+began to rise when	1336
+purchased land for	1337
+IATA airport code	1338
+ICAO airport code	1339
+FAA LID	1340
+located a distance from	1341
+sibling airport	1342
+branded as	1343
+has shared characteristic with	1344
+full name	1345
+alternative spelling	1346
+launched by	1347
+project led by	1348
+event leading to power	1349
+perpetrator of	1350
+revolted against	1351
+has documentation	1352
+member of band	1353
+concluded by	1354
+member of administrative territorial entity	1355
+located in building	1356
+campus of	1357
+academic degree	1358
+graduate student	1359
+year of official opening	1360
+post-doctoral researcher at	1361
+date of completion of post-doctoral fellowship	1362
+employee	1363
+member of organization	1364
+contains the number of parts	1365
+FAA identifier	1366
+construction date	1367
+topic of	1368
+described in	1369
+is geographically located to the east of	1370
+is farther east than	1371
+located in the east of	1372
+award nomination date	1373
+based on material	1374
+feature directorial debut	1375
+director based on	1376
+identified as	1377
+has answer	1378
+geographic relative location	1379
+has definition	1380
+developed to study	1381
+used in labor force to estimate	1382
+could involve	1383
+used in	1384
+often used in	1385
+used to describe	1386
+expanded by	1387
+tradition of service traces back to	1388
+predecessor	1389
+established under	1390
+relative location to Dayton MSA	1391
+geographical relationship to Dayton MSA	1392
+spatial relationship	1393
+satisfies criterion	1394
+fits	1395
+date of dissolution	1396
+described by source	1397
+filming location	1398
+theme music	1399
+reception	1400
+ranking	1401
+reviewer	1402
+Metacritic score	1403
+member of musical group	1404
+compared to	1405
+formed from	1406
+restored in	1407
+oral tradition until	1408
+contains administrative unit	1409
+career span	1410
+original cast member	1411
+provides information about	1412
+head coach for American football	1413
+career record in college football	1414
+head coach for basketball	1415
+career college basketball win-loss record	1416
+coaching start time	1417
+coached in year	1418
+career college baseball win-loss record	1419
+student	1420
+played in season	1421
+character role	1422
+featured character	1423
+date of participation start	1424
+determined by	1425
+commenced	1426
+published	1427
+featured	1428
+broadcast medium	1429
+recorded a series of	1430
+compiled songs as	1431
+broadcaster	1432
+broadcast time	1433
+original broadcaster	1434
+anniversary celebrated on	1435
+channel	1436
+broadcast period	1437
+held in month	1438
+influenced by	1439
+enabled	1440
+is a part of	1441
+executive producer	1442
+number of designers showcased	1443
+occurs in	1444
+presents	1445
+has part of name	1446
+founded	1447
+debut year	1448
+notable achievement	1449
+discusses topic	1450
+contributes to understanding	1451
+argues	1452
+tend to exhibit behavior	1453
+is attributed to	1454
+restrains	1455
+maintains theory	1456
+may be characterized as	1457
+may contain	1458
+is defined as	1459
+is sometimes alternatively termed	1460
+has particular emphasis on	1461
+foundation for later research provided by	1462
+edition of	1463
+identified in	1464
+determines applicability to	1465
+defines generally for	1466
+cross-references with	1467
+concludes based on	1468
+matches	1469
+exhibits	1470
+season of event	1471
+overall season record	1472
+conference win-loss record	1473
+competes in sports league	1474
+number of championships won	1475
+attended	1476
+uniform number retired	1477
+played for team	1478
+terminated for	1479
+number of satellite campuses	1480
+location of satellite campus of	1481
+start of head coach tenure	1482
+assistant coach	1483
+tenure as assistant coach	1484
+season record	1485
+WAC season record	1486
+semifinalist	1487
+participant in tournament	1488
+head coach tenure details	1489
+home venue for	1490
+conference record	1491
+standing	1492
+participated in bowl game	1493
+part of season	1494
+regular season record	1495
+asks	1496
+asks about	1497
+available on	1498
+tells story to	1499
+seeks	1500
+helps	1501
+film work	1502
+character	1503
+chief executive officer	1504
+managing director	1505
+head of corporate strategy	1506
+interim chief executive officer	1507
+chief financial officer	1508
+subsequent name	1509
+derivative from	1510
+designation for T-6 Texan II	1511
+modeled after	1512
+uses same system as	1513
+is described by	1514
+involves searching for	1515
+lists	1516
+has mention in	1517
+served with	1518
+played character	1519
+excludes	1520
+enabled by	1521
+mentor	1522
+supported	1523
+date of first meeting	1524
+meeting frequency	1525
+period of existence	1526
+notable claim	1527
+name used	1528
+discoverer or author	1529
+creator of work related to	1530
+specifies	1531
+exists between	1532
+immediately succeeded	1533
+citation	1534
+has part or manifestation	1535
+violated	1536
+lacked justification for	1537
+shielded	1538
+were shielded from liability because	1539
+considered by disability advocates to be	1540
+amended to	1541
+led to	1542
+court	1543
+ruling in case	1544
+compelled action against	1545
+resulted in	1546
+part of the decade	1547
+has preferred name	1548
+competed in sports	1549
+enables	1550
+Test debut score	1551
+assessment	1552
+was dropped from team	1553
+returned for	1554
+was retained until	1555
+stated purpose of chat	1556
+date of retirement	1557
+reason	1558
+aim	1559
+reason for developing approach	1560
+evaluation scope	1561
+current scope	1562
+training objective	1563
+promotes	1564
+maiden name	1565
+given name	1566
+founding date	1567
+has part or division	1568
+statement of fact	1569
+establishment name	1570
+established from	1571
+mascot	1572
+broadcast network	1573
+features character	1574
+solves crimes in	1575
+hunts and kills	1576
+targets	1577
+leaves behind	1578
+character description	1579
+exit storyline for	1580
+actress	1581
+character who discovers the truth	1582
+event involving hostage-taking	1583
+overpowered by	1584
+is associated with	1585
+convicted of	1586
+does not explicitly mention	1587
+is subject of case study	1588
+is a description of	1589
+name in original language	1590
+meaning of name	1591
+time of event	1592
+date of succession	1593
+co-regent	1594
+parent of	1595
+statement about achievement	1596
+time span of rule	1597
+stated by	1598
+period of service	1599
+documented on	1600
+funerary gift for	1601
+ruled	1602
+monarch	1603
+period of rule	1604
+successor of	1605
+reign dates	1606
+statement by	1607
+requests information about	1608
+served during reign of	1609
+period of reign	1610
+virtual channel number	1611
+UHF digital channel number	1612
+television network affiliation	1613
+sibling station	1614
+channel number	1615
+shares studio facilities with	1616
+location of	1617
+transmitter location	1618
+channel on Charter Spectrum	1619
+channel on Comcast Xfinity	1620
+channel on Consolidated Communications	1621
+channel number (Google Fiber)	1622
+channel number (AT&T U-verse)	1623
+channel number (Spectrum digital)	1624
+channel number (Xfinity)	1625
+channel number (Consolidated)	1626
+channel number (U-verse)	1627
+VHF digital channel number	1628
+location of license	1629
+sister station	1630
+former television network affiliation	1631
+studio location	1632
+television channel	1633
+virtual channel	1634
+partner of	1635
+has virtual channel number	1636
+duration of employment	1637
+prosecutor	1638
+prosecutor in trial	1639
+currently serves as	1640
+lead prosecutor	1641
+lead prosecutor in courts-martial	1642
+perpetrator	1643
+searches for information regarding	1644
+connects	1645
+identifies court-martial as	1646
+producer for	1647
+end of career	1648
+staged work	1649
+staging location	1650
+educator at	1651
+teaching start year	1652
+teaching range	1653
+part of staging	1654
+composer of	1655
+artistic director	1656
+composed	1657
+conclusion	1658
+is a reference to	1659
+not included in	1660
+includes music from	1661
+country of operation	1662
+is an album by	1663
+musical style	1664
+not musical style	1665
+broadcast service	1666
+content type	1667
+musical genre	1668
+alias of	1669
+style or technique	1670
+premiere location	1671
+award nomination	1672
+mentioned in connection with	1673
+documented	1674
+target of mission	1675
+stated purpose	1676
+temporal context	1677
+was	1678
+first came into use	1679
+firmly established since	1680
+usage status	1681
+mother	1682
+grandfather	1683
+great-grandfather	1684
+great-great-grandfather	1685
+great-great-great-grandfather	1686
+in line of succession to	1687
+religious affiliation	1688
+paternal grandmother of	1689
+maternal grandmother of	1690
+grandparent	1691
+arrival in London	1692
+reason for settlement	1693
+grandson	1694
+inspired by	1695
+contains modification	1696
+original planned release date	1697
+planned date	1698
+rescheduling	1699
+cancellation	1700
+applies to jurisdiction	1701
+held	1702
+noble rank	1703
+location of setting	1704
+talent agency	1705
+domestic violence occurred	1706
+date of injury	1707
+filmed featuring	1708
+return to employer	1709
+appeared in work	1710
+persuaded by	1711
+friend of	1712
+executive producer of	1713
+moved to location	1714
+popular in	1715
+has notable audience for	1716
+is a literary work by	1717
+adopted as reading material by	1718
+adopted	1719
+based on literary work	1720
+constituency served	1721
+held position	1722
+named for	1723
+showed interest in	1724
+has shape	1725
+located behind	1726
+involved	1727
+qualitative measure	1728
+incumbent	1729
+confirmation date	1730
+confirmation date relative to Hunter's appointment	1731
+first performance	1732
+translator	1733
+official competition entry	1734
+date of acquisition	1735
+requires property	1736
+has title	1737
+translates to	1738
+venue	1739
+debut season launched by	1740
+opening date	1741
+people	1742
+origin story	1743
+abductor of	1744
+location of activity	1745
+primary motivation	1746
+playing position	1747
+part of academic organization	1748
+season of activity	1749
+member of sporting league	1750
+win-loss record	1751
+win-loss record in conference play	1752
+place in final standings	1753
+defeated in game	1754
+participant in event	1755
+determines context relevance	1756
+member of athletic conference	1757
+identifies required information	1758
+states current conference	1759
+states past membership	1760
+describes conference change	1761
+determines required information	1762
+plays home games at	1763
+asks about scope	1764
+excludes scope	1765
+searches for data point	1766
+discuss detail of	1767
+discussed in	1768
+not explicitly stated in	1769
+noted in	1770
+requires external knowledge regarding	1771
+sponsors championships in	1772
+included in	1773
+stated as sponsorship count for	1774
+definitive count for the number of recognized championship sports in the ACC	1775
+sponsored by	1776
+sponsors	1777
+formulated by	1778
+country of origin for earliest work	1779
+highest grossing ranking	1780
+considered for	1781
+almost received	1782
+statement of success	1783
+screened in	1784
+talent scout	1785
+has episode title	1786
+scans	1787
+does not specify	1788
+does not contain	1789
+episode written by	1790
+exhibited in	1791
+romantic partner	1792
+used in correspondence concerning	1793
+contains correspondence involving	1794
+FAA airport code	1795
+serves administrative territorial entity	1796
+surface area	1797
+elevation above lowest astronomical body	1798
+educational institution	1799
+season	1800
+record	1801
+advanced to tournament final	1802
+represented	1803
+number of tournament appearances	1804
+defeated opponent in tournament	1805
+defeated by opponent in tournament	1806
+number of consecutive seasons coached	1807
+start year of tenure	1808
+tenure year description	1809
+sports team coached	1810
+documented tenure length	1811
+has longer documented tenure than	1812
+coaching duration	1813
+coaching tenure at Iowa State University	1814
+longest tenure at one program	1815
+has longer documented period than	1816
+media format	1817
+running time	1818
+camera used	1819
+debut film for	1820
+sound features	1821
+has notable discussion in	1822
+year of work	1823
+mentioned person	1824
+year of film direction	1825
+relative age	1826
+sire	1827
+dam	1828
+coat color	1829
+breeder	1830
+auctioned at	1831
+co-owner	1832
+related breed	1833
+has physical feature	1834
+has personality trait	1835
+exhibits behavior	1836
+prefers living arrangement	1837
+has distinguishing feature	1838
+developed from	1839
+is now being shown in	1840
+features shared traits	1841
+shares trait with	1842
+is named	1843
+is specific type of	1844
+contractor for	1845
+award date	1846
+keel laid	1847
+launched on	1848
+sponsor	1849
+commissioned on	1850
+commanded by	1851
+hull number relates to	1852
+value	1853
+encompassed at time of construction	1854
+succeeded by election	1855
+holds status	1856
+term ended in	1857
+bordering entity	1858
+inception of term	1859
+located on administrative territorial entity	1860
+southern terminus	1861
+is near	1862
+scheduled replacement for	1863
+replacement was delayed to	1864
+located at intersection of	1865
+is west of	1866
+serves route between	1867
+located on body of water	1868
+bounded by	1869
+has destination station	1870
+searches for service originating from	1871
+is served by train	1872
+operates between	1873
+is southern terminus for	1874
+identifies train as	1875
+interprets question as	1876
+provides stop as	1877
+formulates final answer based on	1878
+part of work	1879
+date of assassination	1880
+nominated for position	1881
+did not confirm	1882
+vote count	1883
+proposed for position	1884
+has disagreement with	1885
+made compromise with	1886
+approved	1887
+leader	1888
+held ministerial position	1889
+role in work	1890
+specializes in	1891
+core service	1892
+residence	1893
+was for work on	1894
+year of return to feature films	1895
+production start year	1896
+record achieved	1897
+award received for work on	1898
+production designer	1899
+source document	1900
+mentions director	1901
+mentions writer	1902
+produces animation for	1903
+collaborates with	1904
+seeking collaborations with	1905
+seeks collaborations for	1906
+creates	1907
+used for	1908
+listed among	1909
+client	1910
+example	1911
+requests identification of	1912
+requests search for	1913
+context does not mention	1914
+director of	1915
+co-founder of	1916
+not director of	1917
+answer is	1918
+language of name	1919
+literal meaning	1920
+first holder	1921
+supersedes	1922
+held by	1923
+reign period	1924
+language of work or name	1925
+other spelling	1926
+deposed by	1927
+imprisoned by	1928
+placed	1929
+cousin	1930
+involved in reforming	1931
+involved in establishing	1932
+attempted to create	1933
+grandmother	1934
+reign (start and end)	1935
+former home venue	1936
+former home venue end date	1937
+current home venue	1938
+start date for home games	1939
+points accumulated for period	1940
+total career points	1941
+career points	1942
+missed season	1943
+reason for missed season	1944
+participated in season	1945
+league play record	1946
+finished in standings	1947
+tournament advancement	1948
+venue for home games	1949
+focus	1950
+historically part of	1951
+abbreviates	1952
+affiliates with	1953
+implementation date	1954
+initial deployment location	1955
+initial deployment date	1956
+end cause	1957
+parent organization	1958
+formerly was	1959
+owned by	1960
+is a division of	1961
+headquartered in	1962
+family	1963
+sister taxon	1964
+native range	1965
+native to	1966
+native habitat	1967
+food source for	1968
+managed as source of	1969
+exudes	1970
+different from	1971
+capacity	1972
+used to serve	1973
+has form as	1974
+dimension comparison	1975
+period of use	1976
+located on street	1977
+ingredient	1978
+serving method	1979
+contains substance	1980
+serving vessel	1981
+awardee	1982
+group includes	1983
+presented at	1984
+date received	1985
+episode	1986
+story editor	1987
+guest star	1988
+character portrayed	1989
+animation supervisor	1990
+cinematographer	1991
+affiliate of	1992
+competes in sporting competition	1993
+season of sports season	1994
+season number	1995
+stadium	1996
+not located in administrative region	1997
+has features	1998
+lacks data	1999
+is larger than	2000
+is inferred to be	2001
+inception of sports activity	2002
+election year	2003
+re-election year	2004
+comparison of vote share	2005
+change during term of office	2006
+declined to stand for re-election	2007
+chairman of committee	2008
+end position	2009
+career status	2010
+age	2011
+governor immediately preceding	2012
+meets criteria	2013
+served as	2014
+was governor immediately preceding	2015
+date of academic degree	2016
+position held by	2017
+year of position	2018
+year of award	2019
+year of appointment	2020
+teaches subject	2021
+dean	2022
+term of office (dean)	2023

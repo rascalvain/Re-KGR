@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 模型权重 / 嵌入文件
+*.npy
+*.pkl
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.h5
+
+# 编译产物
+*.so
+*.dll
+
+# 训练日志（可选，如需保留请删除这两行）
+*.log
+*.pid
+
+# 大型原始数据集
+hotpot_train_v1.1.json
+hotpot_dev_fullwiki_v1.json
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# 临时文件
+_tmp_*
+nul
+nul.*

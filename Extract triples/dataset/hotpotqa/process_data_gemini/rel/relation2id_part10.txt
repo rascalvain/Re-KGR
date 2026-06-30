@@ -1,0 +1,2023 @@
+features primarily	18214
+part of menu	18215
+excludes item	18216
+serves service line	18217
+contains the track	18218
+is confused with	18219
+has stated	18220
+is not possible	18221
+series context	18222
+reused title of	18223
+is not a remake of	18224
+location of awakening	18225
+discovery	18226
+vow	18227
+author of screenplay for	18228
+has benefit	18229
+helps promote	18230
+function to provide	18231
+function to regulate	18232
+belong to	18233
+is divided into	18234
+suggest	18235
+has weight class	18236
+part of the sporting event	18237
+production transferred from	18238
+production transfer basis	18239
+ceased operation	18240
+has distribution form	18241
+contract manufacturer of product from	18242
+ceased operation in	18243
+parent company of	18244
+began transferring production to	18245
+can be understood as	18246
+is generally considered	18247
+location of attachment	18248
+method of manufacture	18249
+post-opening state	18250
+breaking condition	18251
+still attached to	18252
+indication of	18253
+first publication as a stand-alone novel	18254
+re-recorded drums for	18255
+did not contribute to album	18256
+features drummer	18257
+title derived from	18258
+based on context	18259
+known in the West as	18260
+incorporates element from	18261
+incorporates background music from	18262
+incorporates character from	18263
+incorporates gameplay mechanic from	18264
+incorporates plot element from	18265
+distance from Dębno	18266
+distance from Myślibórz	18267
+distance from Szczecin	18268
+distance from Adelaide city centre	18269
+distance from Port Wakefield	18270
+reason for boundary creation	18271
+part of the legislative body	18272
+accessible via	18273
+geographic area	18274
+primary wine region in	18275
+in support of	18276
+covered area	18277
+site of egg laying by	18278
+metamorphoses into	18279
+found at density	18280
+effect on native trees in native range	18281
+status outside native range	18282
+destructive to	18283
+primary research location	18284
+is a control method used by	18285
+is followed from	18286
+is represented by	18287
+is followed to	18288
+period of significant growth	18289
+earliest introduction	18290
+number of invasions of Britain	18291
+forced to submit to	18292
+was conquered and held for Rome	18293
+had territory restored by	18294
+connects user to	18295
+sends data to	18296
+uses architecture	18297
+former location	18298
+mode of transport	18299
+retirement age	18300
+activity start time	18301
+competitor in	18302
+period of notable achievements	18303
+date of record setting	18304
+current world record holder	18305
+indoor world record holder	18306
+American record holder	18307
+oldest woman to break time barrier	18308
+record held by	18309
+cause of demolition	18310
+decline date	18311
+destroyed or damaged in	18312
+number of subdivisions in medieval period	18313
+number of churches	18314
+number of component parts	18315
+features incorporated	18316
+rebuilt after event	18317
+destroyed or damaged	18318
+role played in episode	18319
+subject of plot point	18320
+airing status	18321
+does not match	18322
+episode title	18323
+antagonists	18324
+period of collaboration	18325
+used in re-release	18326
+establishment law	18327
+amalgamated into	18328
+date of official document	18329
+amalgamated from	18330
+share capital contributed by	18331
+established under legislation	18332
+merged entity from	18333
+share capital deposit percentage	18334
+number of regional offices	18335
+statutory basis	18336
+chart performance note	18337
+reached number one on chart	18338
+chart position note	18339
+reached peak chart position	18340
+left label	18341
+statement of theme	18342
+peak position on US pop chart	18343
+peak position on R&B charts	18344
+peak position on UK pop chart	18345
+number of featured singles	18346
+recalled to drink	18347
+uses short story to reflect upon	18348
+explores in "The Guest"	18349
+mirrors	18350
+sets out	18351
+cast member nationality	18352
+has context mention	18353
+nationality status	18354
+share the same country	18355
+affiliating university	18356
+academic precursor	18357
+features concept	18358
+sales record	18359
+dubbed into language	18360
+singer	18361
+track used in album	18362
+has textual mention	18363
+best result	18364
+shared leadership with	18365
+captain appointed by	18366
+won award or title	18367
+has manager	18368
+co-manager	18369
+held ministerial position starting	18370
+held ministerial position ending	18371
+period of tenure as editor	18372
+country of origin mentioned in context	18373
+nationality based on context	18374
+from the same country	18375
+not from the same country	18376
+author of work performed by	18377
+performer of role in work	18378
+active in genre	18379
+year of appearance in L'Inhumaine	18380
+position relative to Tristan Island	18381
+source material subject	18382
+founder organization	18383
+uses platform	18384
+can determine	18385
+ownership percentage	18386
+located in the ecclesiastical province	18387
+population as of date	18388
+elevation above lowest astronomical object	18389
+located in or contains	18390
+uses measurement unit	18391
+excludes property	18392
+contributor to score	18393
+has traits in common with	18394
+may have been inspired by	18395
+does not appear in	18396
+fact about not being in the book is pointed out in	18397
+attempted line spoken in "Winnie the Pooh and the Honey Tree"	18398
+part of compilation	18399
+statement not mentioning	18400
+culmination of	18401
+won by number of games	18402
+last time before	18403
+drafted into sports league	18404
+achieved a record	18405
+participated in sports event	18406
+member of sports team with championship	18407
+release timing	18408
+sequence	18409
+ordinality	18410
+original medium	18411
+censorship status	18412
+resolves	18413
+matchup rule	18414
+competitor in qualifying group	18415
+competitor in UEFA play-offs	18416
+advances to	18417
+faces opponents	18418
+group member	18419
+is a re-make of	18420
+has different feature	18421
+concerned with	18422
+reflects on	18423
+fellow at	18424
+chief of staff to the President of the United States	18425
+deputy chief of staff	18426
+chief of staff	18427
+ambassador to	18428
+language	18429
+not mentioned in context	18430
+involvement in Hush	18431
+developer for	18432
+programmer in	18433
+inspired character modeling by	18434
+technical director	18435
+came out as transgender in	18436
+set on	18437
+noted as	18438
+original name for	18439
+runs via	18440
+aims to replace	18441
+station on	18442
+character model inspiration	18443
+title acquired	18444
+paternal grandfather	18445
+inherited title	18446
+inheritance date	18447
+succeeded to through	18448
+further information	18449
+judicial title	18450
+regrant remainder	18451
+date of title	18452
+migration origin	18453
+place of migration	18454
+migration period	18455
+political career	18456
+held title to	18457
+during	18458
+occupied	18459
+caused damage to	18460
+planted by	18461
+planted	18462
+original language transliteration	18463
+era name	18464
+posthumous name	18465
+declared emperor by	18466
+other means of evaluating taxes	18467
+dissolution	18468
+flow	18469
+volume trend	18470
+successor organization name	18471
+promotional location	18472
+official name translation request	18473
+potentially related to	18474
+bases conclusion on	18475
+identifies close match as	18476
+identifies answer as	18477
+notable attendee class	18478
+featured event	18479
+location of first presentation	18480
+protagonist description	18481
+being smuggled into	18482
+supporting cast	18483
+performance in film earned award for role as	18484
+actress portraying character	18485
+performance in film earned award	18486
+has boundary	18487
+has part of land area	18488
+has part of population	18489
+receives more precipitation than	18490
+part of the ecological or geomorphological region	18491
+originally inhabited by	18492
+dependent on	18493
+defined by administrative territorial entity	18494
+number of recordings	18495
+music director collaborator	18496
+number of languages recorded in	18497
+references context	18498
+look for	18499
+no direct link	18500
+inhibits	18501
+prevalent in population group	18502
+assists in understanding	18503
+indication	18504
+off-label use	18505
+has no effect on	18506
+professional name of	18507
+yard number	18508
+name borne by	18509
+acquired ship	18510
+uses prefix	18511
+etymological source	18512
+original usage	18513
+disinherited	18514
+works on	18515
+start and end dates	18516
+held again after	18517
+formed basis for	18518
+continued production of	18519
+replaced L-Series line with	18520
+replaced L-Series line in	18521
+product brand	18522
+produced along with	18523
+reorganized into	18524
+manufactured item	18525
+merged by	18526
+street name	18527
+opposite to	18528
+diagonally opposite to	18529
+is a major east-west street in	18530
+converted to use	18531
+acquired property	18532
+destination for travelers	18533
+established as national park	18534
+location of student arrivals	18535
+is one part	18536
+number of sports clubs played for	18537
+number of countries played in	18538
+played in top division of	18539
+action taken against	18540
+committed foul against	18541
+subsequent season title	18542
+premiere broadcast date	18543
+ordinal birth rank	18544
+time period of dominance	18545
+product or material produced	18546
+has maintained	18547
+rank year	18548
+lyricist/composer	18549
+aim or purpose	18550
+primary goal	18551
+similar in style to	18552
+comparative work	18553
+school attended	18554
+end of playing career	18555
+league affiliation	18556
+draft event	18557
+league of appearance	18558
+spearheaded by	18559
+later titled	18560
+sister show of	18561
+crossover with	18562
+creative goal	18563
+structure similar to	18564
+lead character designer	18565
+executive chairman	18566
+date of transaction	18567
+provides services to	18568
+is used instead of	18569
+communication method	18570
+software basis	18571
+worshiped in	18572
+start of collaboration	18573
+shared role in	18574
+produced disc	18575
+style relative to	18576
+repertoire derived from	18577
+designed to help keep	18578
+purpose is mainly to isolate	18579
+purpose is mainly to protect	18580
+are engineered to separate	18581
+can go to	18582
+are different types for	18583
+usually put within	18584
+collected by	18585
+is prevented by	18586
+aims to prevent	18587
+not applicable	18588
+start year of board service	18589
+end year of board service	18590
+award or prize received	18591
+ancestry	18592
+portrait subject	18593
+summary of event	18594
+chief of staff at start of World War I	18595
+masterminded defeat of	18596
+negotiated treaty	18597
+attempted to establish	18598
+launch point	18599
+planned action	18600
+ended at	18601
+location relative to Amiens	18602
+halted advance of	18603
+suffered	18604
+logistical constraint	18605
+year of occurrence	18606
+call to action	18607
+allowed customer to receive	18608
+could receive discounted Whopper by including	18609
+resulted in confusion among	18610
+had no knowledge of	18611
+had lost interest by	18612
+last campaign for	18613
+develops trait	18614
+contains concept	18615
+includes concept	18616
+title or honorific	18617
+organization founded	18618
+adopted organization	18619
+inception of SS adoption	18620
+status until April 1942	18621
+inferior to	18622
+rank relative to Gruppenführer	18623
+period of existence as title	18624
+rank relative to Obergruppenführer	18625
+rank relative to Reichsführer-SS	18626
+inferior rank to	18627
+held rank	18628
+allegedly states	18629
+color after event	18630
+career spanned	18631
+runs allowed (majors)	18632
+reason for joining	18633
+fuel supplier	18634
+lubricant supplier	18635
+related to technical relationship	18636
+previous team participation	18637
+uses instrument	18638
+is typically used in	18639
+is difficult to identify based on	18640
+is in time signature	18641
+identifies more with style	18642
+is characterized mostly by	18643
+features work	18644
+wrote title role for	18645
+costume designer	18646
+set designer	18647
+revised premiere date	18648
+revised premiere location	18649
+appointed in	18650
+has information about number of acts	18651
+sample of	18652
+note on sampling	18653
+is parody of	18654
+is reworking of	18655
+nominated for award in	18656
+performance of	18657
+track from	18658
+interpolates	18659
+now known as	18660
+was formerly known as	18661
+classified as	18662
+provenance	18663
+has part or fragmentation	18664
+date of music composition	18665
+work that received nomination	18666
+position played for	18667
+is the answer to	18668
+notable influence on	18669
+is a popular subject	18670
+is follow-up to	18671
+first sound film in	18672
+major label debut album	18673
+replaced after event	18674
+certification date relative	18675
+reunification date	18676
+place of discovery	18677
+is the debut album of	18678
+is the third studio album of	18679
+reissue publisher	18680
+backup vocalist	18681
+latest offering	18682
+operates from	18683
+acquisition price	18684
+manages brand	18685
+holds rights for	18686
+geographic origin	18687
+is subset of	18688
+promotional single	18689
+chart period	18690
+promotion note	18691
+airplay period	18692
+thematic inspiration	18693
+contributed item	18694
+supported release	18695
+received positive feedback from	18696
+received airplay	18697
+has a stated context mention	18698
+comparison status with Marcy Playground	18699
+general editor	18700
+cultivated for	18701
+cultivated as	18702
+largest genus in taxonomic group	18703
+number of species of Salvia	18704
+not related to taxon	18705
+flower description	18706
+species count relation	18707
+establishment or creation date	18708
+population or entity type	18709
+has part or has natural/legal parts	18710
+enrollment	18711
+average age of students	18712
+student retention rate	18713
+graduation rate	18714
+senior member	18715
+role within Hezbollah	18716
+potential successor to	18717
+number of completed works	18718
+number of in-production works	18719
+featured in performance	18720
+featured performance	18721
+performed song	18722
+toured location	18723
+lead vocal	18724
+performer on tour	18725
+establishment time	18726
+creator of genre	18727
+production rate	18728
+development reason	18729
+sought to eliminate	18730
+to avoid	18731
+rejuvenated by	18732
+provides benefit to filmmakers	18733
+interact with	18734
+requires performer count	18735
+premiere recipient	18736
+has final name	18737
+is a play on	18738
+number of characters	18739
+decided venue for	18740
+location of decision regarding venue for	18741
+date of decision regarding venue for	18742
+previously met in	18743
+member of sporting competition	18744
+discovery circumstances	18745
+scientific discovery year	18746
+discovery team included	18747
+forms shape	18748
+concentric with	18749
+part located in	18750
+number of creations	18751
+created for	18752
+year of first creation	18753
+extinction date	18754
+year of second creation	18755
+second holder	18756
+date of termination	18757
+states context	18758
+concludes context	18759
+specifies creation date	18760
+implies status	18761
+is answer to	18762
+absent since	18763
+temporary replacement	18764
+last album featuring	18765
+region of birth	18766
+date of baptism	18767
+significant location	18768
+defends against	18769
+intended to assert dominance over	18770
+operates in area	18771
+holds ownership of	18772
+developed and maintained by	18773
+statement of membership	18774
+date of arrangement	18775
+arranger of	18776
+arranged for	18777
+composer of incidental music for	18778
+performer at first performance	18779
+main route to	18780
+provides direct access to	18781
+number of doubles titles won	18782
+number of Grand Slam doubles titles won with Bethanie Mattek-Sands	18783
+singles quarterfinalist	18784
+singles semifinalist	18785
+peak singles ranking	18786
+date of peak singles ranking	18787
+career high doubles ranking date	18788
+plays on	18789
+career high ATP singles ranking	18790
+career high ATP singles ranking date	18791
+replaced Radek Štěpánek in	18792
+is geographically close to	18793
+is farther from	18794
+is neighboring country to	18795
+subject of the creative work	18796
+original recording date	18797
+became the inspiration for the naming of	18798
+contains version of	18799
+recorded duet with	18800
+runner-up for	18801
+recounts	18802
+lead elephant	18803
+carried object	18804
+carried object on	18805
+carried object between	18806
+star attraction when	18807
+album title	18808
+public law number	18809
+grants administrative power to	18810
+has power	18811
+method of review	18812
+method of overruling	18813
+requirement for issuance	18814
+authorization source	18815
+time window to disapprove rule	18816
+voting requirement	18817
+stance on issue	18818
+expressed position using	18819
+most widely identified with	18820
+public engagement status	18821
+political election	18822
+similar size to	18823
+diet type	18824
+average weight relation to male	18825
+sister species	18826
+ecological niche	18827
+has adaptation for	18828
+primarily consists of	18829
+survival strategy	18830
+date of manufacture	18831
+works number	18832
+was not	18833
+has stated meaning	18834
+part of the process step	18835
+involves multiple meanings for	18836
+pairs entities including	18837
+is categorized as	18838
+likely conclusion	18839
+status of term Daiquiri	18840
+information availability	18841
+supporting evidence	18842
+missing context	18843
+answerability	18844
+derivation constraint	18845
+forced choice status	18846
+reason for not answering factually	18847
+event associated with	18848
+singles titles won	18849
+unable to defend	18850
+absent along with	18851
+date of winning	18852
+achievement before	18853
+achievement after	18854
+status in 1970	18855
+temporal status	18856
+pioneered technique	18857
+most valuable player of	18858
+contracted disease or syndrome	18859
+mode of transmission	18860
+learned to play by	18861
+took instruction in	18862
+publication date after	18863
+alive after	18864
+prevalent since	18865
+effective radiated power	18866
+coverage area	18867
+call sign frequency	18868
+location of studio	18869
+period of greatest extent	18870
+historical role	18871
+participating state	18872
+was the reason for	18873
+member of the organization	18874
+followed event	18875
+duration of time in office	18876
+term ended	18877
+manifesto issued before	18878
+notable descriptor	18879
+grandchild of	18880
+step-descendant	18881
+time spent incarcerated	18882
+position taken on	18883
+describes activity in the BLA as	18884
+cover art features	18885
+appeared in television program	18886
+is an alternative name for	18887
+performer on album	18888
+tour destination	18889
+next step	18890
+frontman of	18891
+vocalist on	18892
+conclusion based on context	18893
+single release type	18894
+lyric description	18895
+featured on single release	18896
+alternate label	18897
+located on the boundary between	18898
+protected	18899
+protected against	18900
+ownership	18901
+location relative to Lawton	18902
+related imagery appears in	18903
+always had happiness to copy	18904
+was completed for	18905
+member of teaching staff	18906
+exhibited work of	18907
+awarded prize to work of	18908
+collaborates on	18909
+intends to	18910
+can press	18911
+can give	18912
+premiere broadcast channel	18913
+number of viewers	18914
+reported audience share in Shanghai	18915
+reported audience share in other provinces	18916
+viewer increase from premiere	18917
+total number of viewers	18918
+has the most viewers in	18919
+producer in association with	18920
+channel for broadcast of	18921
+has audition requirement	18922
+compete against	18923
+try to become	18924
+topic of question	18925
+statement about number of roles	18926
+language of performance	18927
+repertoire language	18928
+place of first professional appearance	18929
+capital of administrative territorial entity	18930
+contributor to creative work	18931
+performer of work or role	18932
+move year	18933
+transition year	18934
+move month and year	18935
+operation participated in	18936
+date of deactivation	18937
+type of facility	18938
+official hashtag	18939
+located in west of	18940
+built near	18941
+has registered	18942
+trying to evade	18943
+handles	18944
+is a disambiguation of	18945
+won award for work in	18946
+role led to fan base from	18947
+associated with positive trait	18948
+made return in	18949
+return duration	18950
+converted religion	18951
+date of conversion	18952
+ethnic background	18953
+member of troupe	18954
+work performed	18955
+contributor to tour	18956
+contains single	18957
+original version by	18958
+lyrical difference	18959
+contributor to backing vocal	18960
+performer on tour with	18961
+serves as workplace for	18962
+is more diverse than	18963
+statement about roles	18964
+area of expertise	18965
+language of work or version	18966
+English title	18967
+dubbed version	18968
+describes process step conclusion	18969
+is the result	18970
+broadcast area	18971
+content	18972
+premiere broadcaster	18973
+subject has focus	18974
+depicts event	18975
+viewer conclusion	18976
+convincing to join team	18977
+member of sports team since	18978
+found in the administrative territorial entity	18979
+extinct due to	18980
+member of the genus	18981
+taxon rank classification	18982
+previously classified as	18983
+closely similar to	18984
+placed in new genus	18985
+includes species	18986
+was treated within genus	18987
+former taxonomic rank	18988
+story count	18989
+architectural commission by	18990
+year of purchase	18991
+distribution network	18992
+information about	18993
+present day	18994
+number of administrative territorial entities	18995
+product served	18996
+local name for wrap	18997
+date of migration	18998
+trademark colour	18999
+rank by size	19000
+reference date	19001
+commonly found on	19002
+parasitizes	19003
+method of dispersal	19004
+frequently found in	19005
+growth condition	19006
+understood regarding	19007
+often	19008
+grow easily on media containing	19009
+rarely grown on media containing	19010
+never isolated from medium with	19011
+make it difficult to prepare	19012
+defining characteristic	19013
+infects host type	19014
+infects host	19015
+date of species count	19016
+has more recognized species than	19017
+spacecraft used	19018
+ordinal rank of birth	19019
+subsequent activity	19020
+associated with musician	19021
+associated musician	19022
+associated with musical group	19023
+subsequent release time	19024
+no information about	19025
+has seasonal population change	19026
+population increase reason	19027
+enjoy	19028
+is a synonym of	19029
+has component or part	19030
+has information about region	19031
+approximate location relative to	19032
+date created	19033
+sometimes known as	19034
+observable under	19035
+located at distance south of	19036
+located at distance west of	19037
+relative location to north	19038
+location of view	19039
+status as a protected site	19040
+statement made on	19041
+influenced creation of	19042
+has written song	19043
+designer of filming locations	19044
+co-production	19045
+release name	19046
+difference from French version	19047
+difference from German version	19048
+British title for	19049
+director appointment period	19050
+represents architectural style	19051
+notable structures	19052
+amalgamated with	19053
+renamed because	19054
+is found in reference work	19055
+setting described	19056
+year of first work	19057
+character association	19058
+statement about status	19059
+described characterization	19060
+noteworthy work	19061
+number of concert tours	19062
+region of focus	19063
+supported album	19064
+part of tour	19065
+reason for leaving tour	19066
+place of hospitalization	19067
+inaugural season	19068
+re-recorded by	19069
+reissue label	19070
+soundtrack inclusion	19071
+album release by	19072
+used track from	19073
+biggest hit	19074
+featured track	19075
+number of tours	19076
+number of constant members	19077
+number of aerial victories	19078
+manner of escape	19079
+reactants	19080
+catalyst	19081
+initial product	19082
+subsequent step	19083
+reaction mechanism	19084
+dissolution law	19085
+describes work	19086
+notable appearance	19087
+stresses	19088
+characteristic trait established by	19089
+traced through	19090
+preservation selection body	19091
+applies to media created by	19092
+arrangement based on	19093
+remix of	19094
+named after type genus	19095
+taxon members	19096
+has greater number of species than	19097
+includes client	19098
+published in reaction to	19099
+contributes critique on	19100
+language edition	19101
+subject has characteristics	19102
+related to work	19103
+time period of life	19104
+is explicitly mentioned in relation to	19105
+no other direct information is given	19106
+audio engineer	19107
+engineer/mixer	19108
+participant in season	19109
+reason for replacement	19110
+first appearance in league season	19111
+contributor to topic documentation	19112
+field of work focus	19113
+contributing author	19114
+international recognition	19115
+publication featuring work of	19116
+publication contributor	19117
+money raised	19118
+funds organization or group	19119
+publication frequency compared to	19120
+start of hiatus	19121
+activity status	19122
+topic of investigation	19123
+not mentioning	19124
+has no available information regarding	19125
+cannot be done due to lack of information about	19126
+appearances in	19127
+date of earliest example	19128
+recording technique	19129
+year of directorial debut	19130
+directorial debut	19131
+second unit director	19132
+sibling of	19133
+wrestling faction	19134
+event anniversary	19135
+is referenced by	19136
+is detailed by	19137
+is impossible to determine based on	19138
+host organism	19139
+is sister group to	19140
+sister group	19141
+describes the characteristic	19142
+height at full growth	19143
+form the characteristic	19144
+has the characteristic	19145
+has described property	19146
+provides services for	19147
+provides services at	19148
+provided on	19149
+provided at	19150
+trained by	19151
+taught to	19152
+code name	19153
+recruited and trained by	19154
+targeted as	19155
+refused to send American soldiers to battle in Southeast Asia	19156
+called by	19157
+recruited under code name	19158
+code name for	19159
+responsibility of	19160
+provided with	19161
+primary purpose	19162
+callsign	19163
+deploys aboard	19164
+aircraft flown	19165
+re-equipped with	19166
+date of official establishment	19167
+derivative	19168
+official in charge	19169
+workplace	19170
+year elected	19171
+political advisor	19172
+election date	19173
+political offices held	19174
+elected more frequently than	19175
+award ceremony	19176
+format of distribution	19177
+awarded at event	19178
+extended coverage to	19179
+won manufacturer title in	19180
+achieved streak	19181
+won race count in	19182
+final victory in Trans Am	19183
+last victory location	19184
+drivers' champion	19185
+temporal relation	19186
+indicates start year	19187
+inception date constraint	19188
+architectural influence	19189
+designated as National Historic Landmark	19190
+designated as Mississippi Landmark	19191
+located on physical feature	19192
+located on navigational route	19193
+held number of slaves	19194
+defendant	19195
+year of succession	19196
+date of status	19197
+part of the	19198
+term of office (start)	19199
+term of office (end)	19200
+title awarded	19201
+inmate population	19202
+holds inmates	19203
+statement regarding addiction	19204
+statement regarding blackout	19205
+time spent on death row	19206
+location of sentence	19207
+sentence length for	19208
+year of sentencing	19209
+committed crime against	19210
+committed crime using	19211
+achieved result through	19212
+year granted	19213
+led to conclusion that	19214
+sentence length	19215
+sentenced at	19216
+member this person played for	19217
+body weight	19218
+throwing hand	19219
+traded for	19220
+year of trade	19221
+player of team	19222
+year of play	19223
+traded with	19224
+actor in role	19225
+is specifically	19226
+country of service	19227
+has part or all of	19228
+credited monthly with	19229
+debited monthly by	19230
+offers advantage of	19231
+usually located in	19232
+works well in	19233
+does not carry	19234
+available from	19235
+positioned as	19236
+added to menu by	19237
+added to menu in	19238
+added	19239
+developed product	19240
+has ingredient quality	19241
+date of product development start	19242
+has willingness to pay more for	19243
+began product development	19244
+claims	19245
+might vary depending on	19246
+term limit	19247
+term limit duration	19248
+combination of terms	19249
+elected from	19250
+subject to term limits	19251
+has lower chamber	19252
+part of the administrative body	19253
+official name (Chinese characters)	19254
+official name (simplified Chinese)	19255
+district	19256
+former occupant	19257
+began to attract tenants	19258
+attracted tenants after	19259
+romanization	19260
+named after boundary	19261
+significant contribution	19262
+location of residence	19263
+member of list	19264
+never had active mining again after	19265
+catalyst for	19266
+created in	19267
+yielded amount of gold	19268
+extraction of	19269
+year shaft sunk	19270
+shipped material	19271
+yielded amount	19272
+explicitly stated result	19273
+sample or yield mentioned	19274
+production quantity	19275
+gold bulk samples mentioned	19276
+conclusion regarding sample mention	19277
+explicitly stated	19278
+mention of such a sample	19279
+official name (Traditional Chinese)	19280
+applies sticker to	19281
+modifies	19282
+fictional narrative subject	19283
+has blood type	19284
+is associated with personality trait	19285
+debuted in television series	19286
+lead actor	19287
+statement about filmography	19288
+statement about film types	19289
+performer acclaimed	19290
+soloist with	19291
+featured soloist	19292
+hosted recitalist	19293
+host of performance	19294
+sequel	19295
+feature film debut of	19296
+year of feature film debut	19297
+planned commission date	19298
+place of construction	19299
+structural completion percentage	19300
+rebuild of	19301
+refurbishment location	19302
+part of the class	19303
+second aircraft carrier named	19304
+completion necessitated by	19305
+joined	19306
+commissioned at	19307
+entry into service	19308
+commission date	19309
+integration site for	19310
+period of member change	19311
+continues to	19312
+invaded	19313
+alternative transcription	19314
+not equal to	19315
+place of activity	19316
+submission for award	19317
+runner-up for award	19318
+production characteristic	19319
+known for work on	19320
+creator or editor	19321
+puppeteer	19322
+television program	19323
+country of consumption	19324
+ingredient substitution	19325
+platform of broadcast	19326
+distributed on	19327
+can be summoned from	19328
+shares	19329
+frequents	19330
+common ingredient	19331
+seasonality	19332
+has surface	19333
+period of widespread use	19334
+dominated region	19335
+reconstruction date	19336
+date of first national championship race	19337
+current event	19338
+uses racing format	19339
+subsumes	19340
+announced plan	19341
+number of mentioned cities	19342
+stated future plans	19343
+number of locations estimate	19344
+has more store locations than	19345
+color film process	19346
+is associated with the question about	19347
+has ceremonial designation	19348
+partially replaces	19349
+partially expands	19350
+received critical acclaim for	19351
+portrayal	19352
+critical outcome	19353
+required service duration	19354
+marked duration of reign	19355
+commemorative item	19356
+worn by subject	19357
+received as	19358
+ceremonial event	19359
+subject of ceremony	19360
+congratulated by	19361
+expressed sentiment regarding	19362
+describes and explains	19363
+is independent of	19364
+exert	19365
+exert power through	19366
+is through	19367
+purported to list	19368
+is a basic characteristic of	19369
+date of initial public offering	19370
+listed as richest person jointly with	19371
+estimated net worth	19372
+subject has history	19373
+subject tells origin of	19374
+subject describes role of	19375
+end of name	19376
+location of manufacturing facility	19377
+brand name in UK	19378
+method of manufacturing	19379
+time of introduction	19380
+package size	19381
+common name in USA	19382
+has high species richness	19383
+vernacular name	19384
+more often specifically means	19385
+vernacular name for	19386
+length of name	19387
+has descriptive phrase	19388
+admitted to	19389
+describes content related to	19390
+provides detailed information about	19391
+mentions context that	19392
+music placement in media type	19393
+part of national tour	19394
+career plays in	19395
+career team	19396
+family relation	19397
+redshirted at	19398
+season activity start year	19399
+backup player to	19400
+role in season	19401
+played position	19402
+played season	19403
+includes content from	19404
+includes part	19405
+uses primary source	19406
+analyzes effect of	19407
+unveiled in	19408
+contains grave of	19409
+perpetrator of fatal attack	19410
+has administrative support	19411
+author of work describing	19412
+age of employment	19413
+reason for leaving job	19414
+medical procedure	19415
+filed for divorce from	19416
+date of divorce filing	19417
+reason for divorce	19418
+request regarding child custody	19419
+parent's names	19420
+family relocation destination	19421
+saved games	19422
+commentary topic	19423
+event occurred during	19424
+Russian name translation	19425
+original language name translation	19426
+notable former member	19427
+member sports team	19428
+age at signing	19429
+member of sports team initially	19430
+part of the winning team	19431
+current player	19432
+location of game	19433
+centenary event	19434
+maternal aunt	19435
+guardian	19436
+shareholder	19437
+ceded by	19438
+ceded to	19439
+enlarged	19440
+initially excluded from	19441
+current geographic extent reached	19442
+subordinates	19443
+abolished relationship	19444
+recognized status	19445
+was under the purview of	19446
+termination date	19447
+obtained legal sovereignty from	19448
+achieved state of	19449
+became royal colony in	19450
+competed in seasons	19451
+number of career starts	19452
+involved in incident	19453
+caused collision with	19454
+part of a series	19455
+best career finish	19456
+location of best career finish for	19457
+secured	19458
+race finish position	19459
+first season	19460
+return to series season	19461
+absence from series season	19462
+crashed during event	19463
+details about debut	19464
+year of debut	19465
+race of debut	19466
+drove for team associated with	19467
+historical sponsorship context	19468
+disagrees with	19469
+discovered in sediment covering	19470
+estimated time period	19471
+may belong to	19472
+estimated height	19473
+distribution range start	19474
+distribution range end	19475
+found in host	19476
+located in sediment	19477
+taxon range includes	19478
+defeated in election	19479
+elects senators of class	19480
+occurred for	19481
+committed foul leading to	19482
+was sent off	19483
+statistical outcome (October/November)	19484
+league position change	19485
+commenced with	19486
+signed contract extension	19487
+signed contract extension date	19488
+period of improved form	19489
+number of losses (9 games)	19490
+points earned (December/January)	19491
+league position at end of January	19492
+peak league position	19493
+points earned	19494
+goals scored	19495
+suffered defeat type	19496
+defeat against	19497
+position in table at end of February	19498
+points gained between start of April and mid March	19499
+resulted in table position	19500
+difference from play-offs	19501
+number of games remaining	19502
+opinion on play-off place	19503
+desire regarding remaining games	19504
+form exhibited	19505
+sports teammate	19506
+encounter	19507
+reluctantly helps	19508
+physical quality	19509
+maximum length	19510
+initial color	19511
+covered in	19512
+rank has level	19513
+superior officer of	19514
+outranks	19515
+can be held by	19516
+has part or participation in	19517
+primary industry	19518
+has chief financial officer	19519
+has employee	19520
+replaced host	19521
+replaced Erin Andrews on College GameDay	19522
+sideline reporter for	19523
+sideline reporter	19524
+period of sideline reporting	19525
+presenting sponsor	19526
+known in general as	19527
+must be strictly used	19528
+determines if context says	19529
+cannot provide	19530
+was educated at	19531
+was not educated at	19532
+is given because	19533
+chronological order	19534
+has current status	19535
+features work from	19536
+has featured work	19537
+country of practice	19538
+arrival mechanism	19539
+guardian of	19540
+contribution to character	19541
+contains musical work	19542
+contains location for performance of	19543
+series item	19544
+caretaker of	19545
+competing for	19546
+competes in season	19547
+number of seasons with team	19548
+last Formula One car driven by	19549
+is mentioned in context section	19550
+won Formula One World Drivers' Championship in	19551
+has no mentioned information about	19552
+has no mentioned birth-related distinction	19553
+identifies entity	19554
+won World Drivers' Championship in	19555
+number of administrative units	19556
+located in or next to body of water	19557
+covered land area	19558
+reoccurrence description	19559
+created landform	19560
+location relative to water body	19561
+spread due to	19562
+played using	19563
+fastened with	19564
+placed on	19565
+presses with	19566
+determines melody with	19567
+used like	19568
+grips string with	19569
+vibrates string with	19570
+cultural context	19571
+classified	19572
+classified in	19573
+musical characteristic	19574
+interval	19575
+contact point	19576
+playing technique	19577
+playing method	19578
+actuator	19579
+athletic director tenure	19580
+athlete at	19581
+men's basketball head coach	19582
+game used	19583
+announced date	19584
+total prize money	19585
+funding method	19586
+announced prize pool increase	19587
+winner of prize pool	19588
+number of participating teams	19589
+operates on system of	19590
+season duration	19591
+total number of games	19592
+played on	19593
+time of playing	19594
+does not have affiliation with	19595
+does not provide information on	19596
+named best novel of 2005 by	19597
+subject of main point	19598
+brand	19599
+operator in Canada	19600
+operator in the United States	19601
+established on or after	19602
+part of the fictional universe	19603
+most often refers to	19604
+is used in the sense of	19605
+has little to do with	19606
+infiltrated by	19607
+tracked and arrested by	19608
+turned into an informant against	19609
+has operational characteristic	19610
+proliferated due to	19611
+involved in operation against	19612
+involved in tracking and arresting	19613
+featured band	19614
+republication of	19615
+format of republication	19616
+ordained in	19617
+reason for studying law	19618
+year of relocating	19619
+year of return	19620
+minister at	19621
+minister served in	19622
+date of medical condition	19623
+consequence of medical condition	19624
+position appointed to	19625
+member elected as	19626
+unsuccessful election year	19627
+election loss	19628
+interment location for	19629
+enacted by legislative body	19630
+political role	19631
+breakthrough film	19632
+notable work description	19633
+commercial success status	19634
+received acclaim for	19635
+no direct information linking	19636
+no explicit mentions of	19637
+is discussed	19638
+is the likely answer	19639
+producer's office	19640
+method of preparation	19641
+most common rolling medium in	19642
+player who withdrew	19643
+replacement player	19644
+underwent operation	19645
+month of operation	19646
+month of resumed practice	19647
+player who did not defend title	19648
+reason for not defending title	19649
+retirement status	19650
+rule change description	19651
+has won against	19652
+featured in fashion show	19653
+is mentioned in context	19654
+published in same country as Madame Figaro	19655
+award timing	19656
+number of distinct winners	19657
+number of multiple winners	19658
+most recent winner of multiple awards	19659
+number of winners with more than two awards	19660
+winner of three awards	19661
+winner of four awards	19662
+first to win in consecutive seasons	19663
+emulated feat	19664
+only winner of three consecutive awards	19665
+position descriptor	19666
+followed result	19667
+administration date	19668
+manager left	19669
+replaced manager in season	19670
+event occurring	19671
+first winner	19672
+has significant impact on	19673
+improved during	19674
+fought with	19675
+occurred along	19676
+were bolstered by	19677
+narrative origin	19678
+settled on work	19679
+number of contributors	19680
+payment amount	19681
+intended position in volume	19682
+first story under heading	19683
+opinion on quality of his story compared to others	19684
+opinion on overall book	19685
+time to write	19686
+reason for stopping occupation	19687
+location of award	19688
+product of merger	19689
+first awarded	19690
+country where founded	19691
+venue for home debut	19692
+date of first win	19693
+performance in season	19694
+number of losing streaks	19695
+sports achievement	19696
+suffered from	19697
+performance descriptor	19698
+has part or distribution	19699
+points per game	19700
+acquired a player	19701
+shares location with	19702
+was affected by	19703
+sparked	19704
+great-grandparent	19705
+disambiguation refers to	19706
+precipitated by	19707
+subject of assassination	19708
+can enter	19709
+ionized by	19710
+is kept in	19711
+is kept by	19712
+can transfer	19713
+transfer energy by	19714
+has energy	19715
+has current	19716
+method for	19717
+guides	19718
+expands	19719
+accelerates	19720
+plays a role similar to	19721
+process description	19722
+is converted into	19723
+advantage over solid one	19724
+fires	19725
+imparted by	19726
+mainly involves	19727
+sometimes also involves	19728
+grows on	19729
+leaf characteristic	19730
+leaf color	19731
+has leaves up to two centimeters long	19732
+has flowers	19733
+member of taxonomic group	19734
+provide education in	19735
+stated reading preference	19736
+player has position	19737
+former place of birth	19738
+former captain	19739
+player position context	19740
+role in Antony and Cleopatra (1974 TV drama)	19741
+dressing ingredient	19742
+notable time	19743
+discussed by	19744
+prize	19745
+television presenter	19746
+approximate distance from settlement	19747
+located in the administrative territory	19748
+split between	19749
+located on or next to body of water	19750
+statement about feature	19751
+requires identification	19752
+requires location identification	19753
+provides descriptions of	19754
+allegedly appears	19755
+lack references	19756
+states that the suburb is	19757
+date of chart success	19758
+pioneering achievement	19759
+lacks information about	19760
+did not write	19761
+is a writer of	19762
+league of focus	19763
+majority owner	19764
+acquired ownership stake from	19765
+dissolution or end date	19766
+is the name of	19767
+is commemorated by	19768
+merger year	19769
+contains part of	19770
+merged dealership network into	19771
+consolidation year	19772
+merger and acquisition event	19773
+name used by	19774
+name assumed by	19775
+co-headliner	19776
+headliner	19777
+determined winner by	19778
+matches won	19779
+matches played	19780
+lost final against	19781
+role in team	19782
+wickets taken	19783
+relocation description	19784
+relocation reason	19785
+located in the direction	19786
+route passes along	19787
+located on coast	19788
+located further north than	19789
+competitive partner	19790
+used to determine participants in	19791
+figure skating partner	19792
+end of collaboration	19793
+states that no other figure skating coaches	19794
+identifies the coach in question as	19795
+sharper than	19796
+may range from	19797
+created using	19798
+role in case	19799
+opposing party in dispute	19800
+player controlled vehicle type	19801
+enemy type	19802
+aim to destroy	19803
+port of video game	19804
+date before	19805
+cannot confirm property before	19806
+cannot confirm property	19807
+historical significance	19808
+reason for expulsion	19809
+year of imprisonment	19810
+suspected of affiliation with	19811
+no relationship with	19812
+perpetrated	19813
+primarily directed against	19814
+played for team season	19815
+selection in draft	19816
+played college basketball from	19817
+reached event	19818
+won game	19819
+entered league from	19820
+manner of subsistence	19821
+promulgates	19822
+revises	19823
+can be organized around	19824
+chief of	19825
+English label	19826
+recorded album under alias	19827
+brought commercial success to	19828
+first charting single on	19829
+reached number	19830
+used to introduce	19831
+subsequent change	19832
+debuted on list	19833
+chart position date	19834
+collection of work by	19835
+exhibits work of	19836
+exhibits works of	19837
+exhibits work in	19838
+notable for mentioning	19839
+modern location	19840
+end of reign or tenure	19841
+end of reign	19842
+received administrative status	19843
+nucleus of	19844
+date of personal union	19845
+type of building	19846
+end of rule	19847
+member of house	19848
+line of succession	19849
+summary of matter	19850
+recalls name of	19851
+successfully argued	19852
+chief activity	19853
+arose out of	19854
+is driven by	19855
+recipient of award	19856
+uses compositional principles	19857
+lauded by	19858
+name established by	19859
+involves choosing between Alessandro Scarlatti and Pyotr Ilyich Tchaikovsky as the first Russian composer to make a lasting international impression	19860
+contributor to topic	19861
+significant contributor to	19862
+new proof developed by	19863
+developed proof simultaneously with	19864
+professional relationship	19865
+security overseen by	19866
+board certification in	19867
+debut position	19868
+no explicit information	19869
+ethnicity status	19870
+derivation basis	19871
+located in street	19872
+target outcome	19873
+mentioned in media	19874
+scale	19875
+operated under contract to	19876
+location of hub	19877
+service operated	19878
+operated on behalf of	19879
+has entered into partnership with	19880
+will operate service as	19881
+primary hub located at	19882
+birth order comparison	19883
+subject area	19884
+expert in subject	19885
+employment	19886
+extended into	19887
+awarded in the context of	19888
+became eligible for award in	19889
+planted since	19890
+has a population rank	19891
+military and administrative center	19892
+were active across	19893
+likely served as	19894
+official theme song for	19895
+number of singles and EPs released	19896
+dissolved or disbanded	19897
+is a specific type of	19898
+occurs in presence of	19899
+are used to study	19900
+exhibit	19901
+occurs when coupled to	19902
+is a topic in	19903
+pay attention to	19904
+does not rely on	19905
+applicable during	19906
+registered	19907
+used as a method of	19908
+is identified with	19909
+achieved against	19910
+not collapsed after	19911
+staff member under	19912
+date of reorganization	19913
+participated in engagement	19914
+vocal feature	19915
+comparison to predecessor	19916
+peak position on Billboard Hot Rap Songs chart	19917
+peak position on Hot R&B/Hip-Hop Songs chart	19918
+has modification	19919
+year of dismissal	19920
+chief official	19921
+assistant dean of student and minority affairs	19922
+chair of the Department of Pathology	19923
+subordinate	19924
+accountable to	19925
+membership requirement	19926
+appointed on the advice of	19927
+hold office during the pleasure of	19928
+committed murder by	19929
+competitor for affection of	19930
+drop height	19931
+location landed	19932
+mentee of	19933
+architectural concept	19934
+design date	19935
+restriction on use	19936
+is featured performance in	19937
+track has part	19938
+professional collaborator	19939
+creative focus	19940
+collaboration partner	19941
+artistic goal	19942
+thematic exploration	19943
+start time of work	19944
+location for first 10 years	19945
+previous residence	19946
+notable appearance context	19947
+orchestra member	19948
+substitute director when absent	19949
+musician associated with	19950
+original host	19951
+stated objective	19952
+occupation relationship	19953
+elected to office	19954
+political constituency	19955
+political event	19956
+candidacy	19957
+political convention delegate	19958
+did not seek re-election	19959
+ran for office	19960
+election margin	19961
+faced opponent	19962
+final album	19963
+nickname origin	19964
+source material context	19965
+has released music under the moniker	19966
+has part or has given name to	19967
+dreams about	19968
+cultivated grape variety	19969
+chief creative officer	19970
+mentioned	19971
+advisor at	19972
+executive at	19973
+first professional year	19974
+country where observed	19975
+correspondence received from	19976
+inclusion requested by	19977
+inclusion date	19978
+inclusion made by	19979
+partners with	19980
+hosted event by	19981
+was accepted from	19982
+has declaration of support from	19983
+includes event in	19984
+coordinated by	19985
+held in number of administrative regions	19986
+held in number of locations	19987
+displayed on	19988
+celebrates with	19989
+relocated	19990
+first season with more than five wins	19991
+did not reach stage	19992
+suspended operations indefinitely prior to	19993
+has cancelled event	19994
+involved with	19995
+period of work start	19996
+period of work end	19997
+context summary	19998
+released in Italy as	19999
+peak popularity period	20000
+started trend with	20001
+contributor to success of	20002
+operating time	20003
+has number of venues in the complex	20004
+is not referenced in	20005
+is not available	20006
+has number of venues associated with	20007
+time frame	20008
+claimed as part of	20009
+casualties	20010
+chronologically precedes	20011
+is uncertain for	20012
+contains sample from	20013
+advances position based on	20014
+corresponding term in biology	20015
+political support	20016
+advocacy	20017
+position held prior to current position	20018
+has distribution	20019
+produced to create	20020
+quality comparison	20021
+is not explicitly described	20022
+bounding river basin of	20023
+is a redirect name for	20024
+newspaper first published	20025
+near river	20026
+provided resource for	20027
+original name for invention	20028
+mentions in document	20029
+sees potential for	20030
+opinion on Stanley Hart White's work	20031
+outlines scope for	20032
+establishing precedent for	20033
+source of inspiration for work	20034
+release location	20035
+variant form of	20036
+nickname meaning	20037
+could refer to	20038
+earliest recorded person with surname	20039
+written in Scottish Gaelic as	20040
+used mostly by	20041
+sometimes used to declare	20042
+announcement method	20043
+vocal appearance	20044
+entrance music	20045
+highest chart position	20046
+subject context	20047
+statement about work	20048
+part of the literary genre	20049
+notable experience	20050
+share the same nationality	20051
+member of sporting club	20052
+number of times winning title	20053
+shared championship with	20054
+broke record of	20055
+player team	20056
+related to event	20057
+won match against	20058
+opened scoring	20059
+scored goal	20060
+genre event	20061
+shares record with	20062
+named in commemoration of	20063
+failed to produce a hit single from	20064
+packaged	20065
+had some success with	20066
+is the last album released before	20067
+re-released in honor of	20068
+daytime power	20069
+nighttime power	20070
+location of transmitter	20071
+broadcast history	20072
+included in format	20073
+broadcast as	20074
+radio listenership dominated by	20075
+time frame for known as	20076
+once operated with	20077
+time frame for operating with FM sister station	20078
+time frame for sale	20079
+period of dominance	20080
+broadcast platform	20081
+reviewer rating	20082
+review statement by Doug Van Pelt	20083
+review statement by Matt Conner	20084
+theme description for Howard Benson's production	20085
+review statement by Mary Nikkel	20086
+review statement by Reviewer at Cross Rhythms	20087
+review statement by Chad Bowar	20088
+career shift	20089
+debuted character	20090
+start date of technique	20091
+transitioned to technique	20092
+primary mode of transport	20093
+plans to construct	20094
+is located between	20095
+postmaster	20096
+provides postal service to	20097
+discontinued print publication date	20098
+operates in the administrative territorial entity	20099
+over 70% of activity	20100
+largest client	20101
+share of rental income	20102
+is a customer of	20103
+location of highest point	20104
+type of property for which it is known	20105
+does not state type of rental properties	20106
+contributor to masthead	20107
+contributor to editorial office	20108
+contributor to collective	20109
+member of founding group	20110
+provides support regarding	20111
+main component	20112
+official agency	20113
+mandates action by	20114
+specifies exclusions for	20115
+introduced into	20116
+introduced during session	20117
+requested	20118
+established when	20119
+located in modern time	20120
+main town located at	20121
+location of earlier settlement	20122
+subject of conflict involving	20123
+carried out	20124
+faculty member since	20125
+chair held between	20126
+previously taught	20127
+bounded by (north)	20128
+bounded by (west)	20129
+bounded by (east)	20130
+bounded by (south)	20131
+demographic feature	20132
+statistical feature	20133
+included in taxon	20134
+occasionally contains	20135
+borne in	20136
+member of the taxonomic family	20137
+describes an invasive species	20138
+dispenses	20139
+location where it can be found	20140
+mixes substance	20141
+type of operation	20142
+operated using	20143
+dispensed from	20144
+taste similar to	20145
+step name	20146
+date of official transformation	20147
+notable issue	20148
+is a known problem regarding	20149
+forbidden by	20150
+solved problem regarding lyrics by	20151
+evolution of	20152
+name adoption date	20153
+acquired dedicated following in	20154
+notable work region	20155
+sound described as	20156
+statement in court	20157
+preacher	20158
+activity during incarceration	20159
+duration of writing career	20160
+features content related to	20161
+date nickname acquired	20162
+end of sports reporting career	20163
+publication that features	20164
+has notable mention	20165
+nature from context	20166
+discover	20167
+departed at end of series	20168
+successor manager	20169
+left position	20170
+requires fee	20171
+allows access	20172
+pays for	20173
+stops traffic from	20174
+allows passage of	20175
+proximity to	20176
+highest point on	20177
+note on production credits	20178
+stylistic departure from	20179
+previously presented	20180
+contains cover version of	20181
+worldwide sales	20182
+radio release date	20183
+airplay status	20184
+Billboard 200 debut position	20185
+US radio impact	20186
+country of origin for works	20187
+subsequent event venue	20188
+start of regular appearance	20189
+award received for role in	20190
+end of regular appearance	20191
+subject of narrative plot	20192
+defrauded out of	20193
+framed for	20194
+notable practitioner	20195
+fictional character in television series	20196
+actress considered	20197
+co-starred with Naga Chaitanya in	20198
+script language	20199
+emigrated from	20200
+smaller than	20201
+oversees operations at	20202
+collected	20203
+creation period	20204
+expressed idea in writing	20205
+founder of movement	20206
+governor of	20207
+reelected to position	20208
+applies when	20209
+orbit type	20210
+orbital inclination	20211
+instrument type	20212
+makes observations	20213
+occurs at location	20214
+primary mission	20215
+number of motor cars	20216
+number of trailers	20217
+delivery date	20218
+has electrical counterpart	20219
+number of railcars	20220
+service end date	20221
+equipment supplier	20222
+service route	20223
+is blocked by	20224
+is broken down by	20225
+needs	20226
+is something performed by	20227
+first marketed	20228
+understood	20229
+was the original primary location of use for	20230
+was the original use for	20231
+reason for increased importance	20232
+trait included	20233
+retained function	20234
+committed to	20235
+legislated status	20236

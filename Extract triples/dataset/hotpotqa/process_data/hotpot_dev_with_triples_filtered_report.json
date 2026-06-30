@@ -1,0 +1,168 @@
+{
+  "summary": {
+    "total_records": 110,
+    "total_removed": 565,
+    "total_kept": 5443,
+    "error_stats": {
+      "成分不足": 57,
+      "成分过多": 432,
+      "格式错误": 76,
+      "成分为空": 0
+    }
+  },
+  "error_examples": {
+    "成分不足": [
+      {
+        "record_id": "5a8b57f25542995d1e6f1371",
+        "triple": "(Confusion with other filmmakers, causes mistaken British attribution to Ed Wood)",
+        "error": "成分不足：只有 2 个成分，需要 3 个（主语、谓语、宾语）",
+        "parts_count": 2,
+        "parts": [
+          "Confusion with other filmmakers",
+          "causes mistaken British attribution to Ed Wood"
+        ]
+      },
+      {
+        "record_id": "5abd94525542992ac4f382d2",
+        "triple": "(\"The Shinee World\" award event, 23rd Golden Disk Awards)",
+        "error": "成分不足：只有 2 个成分，需要 3 个（主语、谓语、宾语）",
+        "parts_count": 2,
+        "parts": [
+          "\"The Shinee World\" award event",
+          "23rd Golden Disk Awards"
+        ]
+      },
+      {
+        "record_id": "5abd94525542992ac4f382d2",
+        "triple": "(Best Dance Performance Award event, Mnet Asian Music Awards)",
+        "error": "成分不足：只有 2 个成分，需要 3 个（主语、谓语、宾语）",
+        "parts_count": 2,
+        "parts": [
+          "Best Dance Performance Award event",
+          "Mnet Asian Music Awards"
+        ]
+      },
+      {
+        "record_id": "5abd94525542992ac4f382d2",
+        "triple": "(Best Dance Performance Award nomination year, 2010)",
+        "error": "成分不足：只有 2 个成分，需要 3 个（主语、谓语、宾语）",
+        "parts_count": 2,
+        "parts": [
+          "Best Dance Performance Award nomination year",
+          "2010"
+        ]
+      },
+      {
+        "record_id": "5abd94525542992ac4f382d2",
+        "triple": "(\"Lucifer\" award event, 25th Golden Disk Awards)",
+        "error": "成分不足：只有 2 个成分，需要 3 个（主语、谓语、宾语）",
+        "parts_count": 2,
+        "parts": [
+          "\"Lucifer\" award event",
+          "25th Golden Disk Awards"
+        ]
+      }
+    ],
+    "成分过多": [
+      {
+        "record_id": "5a8b57f25542995d1e6f1371",
+        "triple": "(Adam Collis, attended, University of California, Los Angeles)",
+        "error": "成分过多：有 4 个成分，应该只有 3 个（主语、谓语、宾语）",
+        "parts_count": 4,
+        "parts": [
+          "Adam Collis",
+          "attended",
+          "University of California",
+          "Los Angeles"
+        ]
+      },
+      {
+        "record_id": "5a8b57f25542995d1e6f1371",
+        "triple": "(Adam Collis, attended University of California, Los Angeles, from 2007 to 2010)",
+        "error": "成分过多：有 4 个成分，应该只有 3 个（主语、谓语、宾语）",
+        "parts_count": 4,
+        "parts": [
+          "Adam Collis",
+          "attended University of California",
+          "Los Angeles",
+          "from 2007 to 2010"
+        ]
+      },
+      {
+        "record_id": "5a8b57f25542995d1e6f1371",
+        "triple": "(Tyler Bates, born on, June 5, 1965)",
+        "error": "成分过多：有 4 个成分，应该只有 3 个（主语、谓语、宾语）",
+        "parts_count": 4,
+        "parts": [
+          "Tyler Bates",
+          "born on",
+          "June 5",
+          "1965"
+        ]
+      },
+      {
+        "record_id": "5a8b57f25542995d1e6f1371",
+        "triple": "(Tyler Bates, is, composer for films, television, and video games)",
+        "error": "成分过多：有 5 个成分，应该只有 3 个（主语、谓语、宾语）",
+        "parts_count": 5,
+        "parts": [
+          "Tyler Bates",
+          "is",
+          "composer for films",
+          "television",
+          "and video games"
+        ]
+      },
+      {
+        "record_id": "5a8c7595554299585d9e36b6",
+        "triple": "(A Kiss for Corliss, was released on, November 25, 1949)",
+        "error": "成分过多：有 4 个成分，应该只有 3 个（主语、谓语、宾语）",
+        "parts_count": 4,
+        "parts": [
+          "A Kiss for Corliss",
+          "was released on",
+          "November 25",
+          "1949"
+        ]
+      }
+    ],
+    "格式错误": [
+      {
+        "record_id": "5a8b57f25542995d1e6f1371",
+        "triple": "(Tyler Bates, is, lead guitarist of",
+        "error": "格式错误：不是以括号包围",
+        "parts_count": 0,
+        "parts": []
+      },
+      {
+        "record_id": "5abd94525542992ac4f382d2",
+        "triple": "(Bonsang Award event, 22nd Seoul Music Awards",
+        "error": "格式错误：不是以括号包围",
+        "parts_count": 0,
+        "parts": []
+      },
+      {
+        "record_id": "5a85b2d95542997b5ce40028",
+        "triple": "(James P. Comer, wrote, more than 300 articles on children's health, development, and race relations",
+        "error": "格式错误：不是以括号包围",
+        "parts_count": 0,
+        "parts": []
+      },
+      {
+        "record_id": "5a87ab905542996e4f3088c1",
+        "triple": "(Lenders, reorganized",
+        "error": "格式错误：不是以括号包围",
+        "parts_count": 0,
+        "parts": []
+      },
+      {
+        "record_id": "5a8db19d5542994ba4e3dd00",
+        "triple": "(Cresco Opera House, listed in, 1981",
+        "error": "格式错误：不是以括号包围",
+        "parts_count": 0,
+        "parts": []
+      }
+    ],
+    "成分为空": []
+  }
+}

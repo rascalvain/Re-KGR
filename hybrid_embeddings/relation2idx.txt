@@ -1,0 +1,1458 @@
+California branch	0
+English translation	1
+FAA LID	2
+IATA airport code	3
+ICAO airport code	4
+Mexican entry for	5
+UNESCO World Heritage Site designation	6
+Vietnamese name	7
+ZIP code	8
+abbreviation	9
+able to	10
+abolished in	11
+about	12
+academic institution	13
+academic staff	14
+accounts for	15
+achieved by	16
+acquired	17
+acquisition date	18
+active in	19
+active period	20
+addressed by	21
+adjoins	22
+administrative center of	23
+administrative centre	24
+adopted name in	25
+advised	26
+advocated against	27
+advocated for	28
+affiliated with	29
+age at start of career	30
+aimed to improve on	31
+air date	32
+aired on	33
+aired on Thursdays at	34
+alias	35
+allegedly organized by	36
+allowed 61 points to Cincinnati Bengals	37
+allows	38
+also called	39
+also known as	40
+also sang	41
+altered	42
+alternate title	43
+alternative label	44
+alternative name	45
+alternative term	46
+alternative title	47
+alternative to	48
+amended by	49
+ancestor	50
+announced on	51
+annual revenue	52
+appeared in	53
+applies to	54
+applies to jurisdiction	55
+applies to part	56
+applies to part of	57
+appointed	58
+appointed by	59
+appointed to	60
+approximately 20 miles west of	61
+architect	62
+architectural design award received by	63
+architectural designer	64
+architectural style	65
+are	66
+are allowed	67
+are awarded as part of	68
+are bestowed	69
+are hailed as heroes in the song "Hip Hip Pooh-Ray!"	70
+are normally	71
+are presented by	72
+area	73
+argued that they put together the new synthesis that is the new republicanism	74
+argues that	75
+artist	76
+asked about by	77
+asked by	78
+assisted	79
+assisted by	80
+associate director	81
+associated band	82
+associated with	83
+attempted by	84
+attempted to win	85
+attempts to maintain	86
+attended	87
+attended by	88
+attracts	89
+attracts flies by emitting	90
+attribute	91
+audience size	92
+author	93
+author of	94
+authors	95
+available as	96
+available features	97
+available in	98
+average depth	99
+award nomination	100
+award received	101
+award received by	102
+award received for	103
+award recipient	104
+awarded	105
+awarded by	106
+awards	107
+base of operations at	108
+based on	109
+based on text by	110
+based on work	111
+based on work by	112
+based original French libretto on	113
+became	114
+because	115
+began following	116
+began in	117
+begins in	118
+believed to have been drowned on orders of	119
+belongs to	120
+belongs to genus	121
+benefit from	122
+best selling album	123
+biggest hit	124
+birth name	125
+border	126
+border with	127
+borders	128
+born circa	129
+born in	130
+broadcast by	131
+broadcast channel	132
+broadcast country	133
+broadcast day of week	134
+broadcast format	135
+broadcast network	136
+broadcast on	137
+broadcast time	138
+broadcasted in	139
+bronze medals won	140
+builder	141
+built	142
+built for	143
+call sign	144
+called	145
+calyx	146
+can be delivered through	147
+can come in	148
+can negate	149
+can occur	150
+cannot articulate	151
+career span	152
+career start	153
+cast	154
+cast by	155
+cast member	156
+cause of death	157
+cause of injury	158
+caused	159
+caused by	160
+ceded territory	161
+celebrates	162
+certification	163
+certified units	164
+chaired by	165
+challenged	166
+champion of	167
+changed helmet color from	168
+character played by	169
+character role	170
+chart outcome	171
+chart placement	172
+chart position	173
+chart ranking	174
+charted in	175
+charted on	176
+chemical formula	177
+chief executive officer	178
+chief of	179
+child	180
+choir conductor	181
+cinematographer	182
+close to	183
+closest train station	184
+co-edits "Somatechnics" journal with	185
+co-founder of	186
+co-starred with	187
+co-writer	188
+co-wrote	189
+coach	190
+coach of	191
+coastline	192
+collaborated on	193
+collaborated with	194
+collaborator	195
+combines elements of	196
+come from	197
+comes from	198
+commemorates	199
+commenced	200
+comments about on-screen actions in the song "Little Black Rain Cloud"	201
+commissioned by	202
+common in	203
+common name	204
+common name of	205
+compared to	206
+compatible with	207
+compete in	208
+competed in	209
+competed in sport	210
+completed	211
+completed in	212
+completion date	213
+composer	214
+comprise	215
+comprises	216
+concentrates on	217
+concept	218
+concludes with	219
+concurs with	220
+condemned	221
+condition	222
+conducted by	223
+conductor	224
+conference finish	225
+conference membership	226
+conference placement	227
+conference record	228
+conference win–loss record	229
+confirmed by	230
+conflict	231
+connected by	232
+connected to Earth by	233
+connects	234
+connects to	235
+considered	236
+consist of	237
+consisted of	238
+consists mainly of	239
+consists of	240
+constituency	241
+constructor	242
+contained	243
+contains	244
+contains administrative territorial entity	245
+contains administrative territory	246
+contains cover of	247
+contains functional ingredient	248
+contains liquid volume	249
+contains recordings of	250
+contains references and characters from	251
+contemporary of	252
+content described	253
+contract signed in	254
+contributed songs for	255
+contributed to	256
+contributes mostly to	257
+contributor	258
+contributor to	259
+contributor to atmosphere	260
+contributor to territorial expansion	261
+controlled by	262
+converted to	263
+coordinated by	264
+core thematic concept	265
+could name	266
+country	267
+country of citizenship	268
+country of origin	269
+country of performance	270
+country where	271
+courtesy name	272
+covers	273
+creates	274
+creator	275
+creator of role	276
+crew sentiment	277
+criticism of length	278
+criticism of vocals by	279
+cultural center	280
+current theme is	281
+currently administers	282
+currently serves as	283
+customer of	284
+date	285
+date of birth	286
+date of closure	287
+date of construction	288
+date of creation	289
+date of death	290
+date of disaster	291
+date of formal dedication	292
+date of inclusion in National Register of Historic Places	293
+date of opening	294
+date of transfer of ownership	295
+date of unveiling	296
+dates back to	297
+deals with	298
+debut album	299
+debut album by	300
+debut album of	301
+debut film	302
+debut film or television program	303
+debuted	304
+debuted at	305
+decreased	306
+dedicated to	307
+defeated	308
+defeated by	309
+demolished as part of	310
+demolished in	311
+demolished to make way for	312
+demolition	313
+demonstrates	314
+depends on	315
+depicts	316
+deputy assistant to	317
+deputy press secretary	318
+derived from	319
+descended from	320
+described	321
+described as	322
+described by	323
+describes	324
+describes relationship between	325
+description	326
+designated as	327
+designed for	328
+designer	329
+destroyed by	330
+determines	331
+developed	332
+developed after	333
+developed into	334
+developer	335
+developer of	336
+development designation	337
+diagnosed with	338
+died	339
+died in	340
+died on	341
+differs extensively from	342
+directed	343
+directed Institute of Advanced Physics at University of Milan	344
+directed by	345
+director	346
+director of photography	347
+disappeared with	348
+discontinued identity	349
+discovered	350
+discovered by	351
+disqualified due to	352
+dissolved	353
+dissolved in	354
+distance from	355
+distinctive white pattern over the shoulders	356
+distinguished from	357
+distinguishing feature	358
+distributed by	359
+distribution channel	360
+distribution format	361
+distributor	362
+diverges	363
+diversified into	364
+do not recognize	365
+does not have	366
+dominant plant community	367
+double first cousin	368
+draft position	369
+draft round	370
+draft year	371
+drafted	372
+drafted by	373
+drafted in	374
+draws from	375
+driver of	376
+drummer	377
+drummer of	378
+dubbed into English in	379
+duration	380
+duration of chart position	381
+dwelling place of	382
+east of	383
+editor	384
+editor-in-chief	385
+educated at	386
+educational content	387
+elected by	388
+elected in	389
+elected in constituency	390
+elected with	391
+election attempt	392
+election date	393
+election result	394
+election result announcement date	395
+eligible for	396
+eligible participants	397
+emerged from	398
+emerged in	399
+emphasized	400
+employed by	401
+employee	402
+employer	403
+employment period	404
+employs	405
+enacted in	406
+enactment	407
+encompasses	408
+end of career	409
+end of lease	410
+end time	411
+endemic to	412
+ends in	413
+enrolled in	414
+ensured	415
+envies	416
+equivalent to	417
+established	418
+established in	419
+evolves	420
+excluded from	421
+excludes tracks from	422
+exhibition history	423
+exhibits	424
+exhibits variation in	425
+experienced	426
+expresses opposition to	427
+faced	428
+facility shown	429
+falls on	430
+fame gained as	431
+family	432
+father	433
+feature	434
+featured	435
+featured artist	436
+features	437
+field of work	438
+filming location	439
+filmography	440
+final film appearance	441
+final starring role	442
+finished the 1995–96 season by	443
+finishing position	444
+first academic session	445
+first engagement	446
+first full-length album	447
+first head died in	448
+first operating system for	449
+first performance	450
+first publication	451
+first published in	452
+first recorded by	453
+first season as independent since	454
+first single	455
+first single from	456
+first starring role	457
+first win on Korean music shows	458
+first woman to hold	459
+first work	460
+fix to	461
+fled from	462
+flower type	463
+flows into	464
+flows through	465
+followed by	466
+follows	467
+forced to	468
+format	469
+formed at	470
+formed by members of	471
+formed in	472
+former name	473
+former owner of	474
+formerly known as	475
+forms	476
+forms concurrency with	477
+found in	478
+found in altitude	479
+found in the latitude range	480
+foundation time	481
+founded by	482
+founded in	483
+founder	484
+founder of	485
+founding date	486
+frequented by	487
+from	488
+full name	489
+fundraising event	490
+gained territory	491
+games played	492
+games played in	493
+gave	494
+gave opportunity to	495
+genre	496
+geographic feature	497
+geographic spread	498
+geographical center	499
+given to	500
+given up by	501
+goals	502
+gold medals won	503
+graduation year	504
+grandchild	505
+grandparent	506
+grant	507
+granted rights	508
+granted status	509
+great-aunt	510
+grid reference	511
+grows from	512
+grows in	513
+growth form	514
+guest artist	515
+guest starring	516
+guest stars	517
+habitat	518
+had	519
+had an affair with	520
+had connections with	521
+had played at	522
+has	523
+has a negative connotation	524
+has about	525
+has academic record	526
+has administrative division	527
+has alternative name	528
+has amenity	529
+has appearance	530
+has been held by	531
+has been practiced since	532
+has been reprinted	533
+has been the vocalist of	534
+has characteristic	535
+has common name	536
+has customer	537
+has direct service from	538
+has direct service to	539
+has earlier form	540
+has energy	541
+has entered	542
+has facility	543
+has feature	544
+has flavor	545
+has had	546
+has local name	547
+has meaning	548
+has member	549
+has musical parity in	550
+has name	551
+has or is a place of distribution of	552
+has original French libretto by	553
+has overarching theme of	554
+has part	555
+has participant	556
+has practiced	557
+has primary responsibility for	558
+has ranked	559
+has released	560
+has role	561
+has seating capacity of	562
+has second hub at	563
+has sugar content	564
+has surface texture	565
+has version	566
+has worked as a performing stand-up comic for	567
+has worked with	568
+has worst year	569
+has yielded	570
+have	571
+have to learn and use	572
+head coach	573
+head coach of	574
+headquarters located in	575
+height	576
+held	577
+held after	578
+held by	579
+held chair at University of Milan	580
+held chair of theoretical physics at	581
+held from	582
+held in	583
+held post at United States Department of Defense as	584
+held role at White House as	585
+helped Lil Ru sign with	586
+helped improve fighting condition by	587
+herding instinct	588
+heritage of	589
+highest grossing domestic movie of	590
+hired by	591
+history and records of	592
+holds	593
+holds portfolio	594
+holds record for most victories in Northern California PGA Championship	595
+home venue	596
+hometown	597
+honors	598
+hopes that	599
+host	600
+hosted	601
+hosted by	602
+houses	603
+hull number	604
+identified by	605
+illustrator	606
+implements changes to alleviate borrower financial pressure	607
+important air-link for	608
+inception	609
+include	610
+include works by	611
+included	612
+included in	613
+included on	614
+includes	615
+includes administrative territory	616
+includes majority of	617
+includes members	618
+includes sample of	619
+includes selections from	620
+includes songs from	621
+incorporates	622
+increased	623
+increased by	624
+independently released EP	625
+indumentum	626
+industry	627
+inflorescence	628
+influenced by	629
+ingredient	630
+initial population count	631
+initiated	632
+innovator represented by	633
+inscription	634
+inspiration for	635
+inspired by	636
+instance of	637
+instrumentation consists of	638
+integrated into	639
+intended for	640
+intended to result in	641
+interchange location	642
+interpreted as rebuttal to	643
+interrupts	644
+introduced	645
+introduced by	646
+introduced in	647
+inventory includes	648
+invitation to tournament	649
+invited to	650
+involved	651
+involved in	652
+is	653
+is a	654
+is a day for	655
+is a duet with	656
+is a form of	657
+is a mecca for	658
+is a shortening of	659
+is about	660
+is also called	661
+is based on	662
+is basis for	663
+is celebrated on	664
+is closely associated with	665
+is common name used for	666
+is commonly	667
+is completing	668
+is considered	669
+is considered close to genus	670
+is dedicated to	671
+is described by	672
+is distributed through	673
+is editing	674
+is equivalent to	675
+is found in	676
+is from	677
+is genetically closer to	678
+is habitat of	679
+is hailed as a hero for	680
+is home to	681
+is housed in	682
+is in	683
+is intermediate in characteristics between	684
+is latinisation of	685
+is located in	686
+is located in administrative territorial entity	687
+is mentioned in	688
+is modeled by	689
+is not	690
+is now	691
+is now known as	692
+is obtained by	693
+is one of	694
+is one of the largest malls in	695
+is perceived as	696
+is played in	697
+is played towards	698
+is produced by	699
+is prone to	700
+is reputed to be	701
+is second-largest mall in	702
+is sponsored by	703
+is still in use	704
+is the	705
+is the purpose of	706
+is the range of	707
+is the worst defeat for	708
+is widely used in	709
+is widely used to refer to	710
+issued	711
+issuing body	712
+joined "Charmed" from	713
+jointly operated by	714
+judge	715
+kept as	716
+kept for	717
+kept involvement in affair secret for	718
+known as	719
+known for	720
+lacks	721
+language	722
+language of dialogue	723
+language of first performance	724
+language of publication	725
+language of work or name	726
+language of works or name	727
+largest cutting tools manufacturer in	728
+largest shopping center in administrative region	729
+last acting role	730
+lasted from	731
+later recorded solo by	732
+lead singer	733
+leads	734
+leaf arrangement	735
+leaf shape	736
+leaf size comparison	737
+league	738
+learns	739
+led to	740
+length	741
+less commonly used in	742
+liberated by	743
+license	744
+linked to	745
+listed as	746
+listed entity	747
+listed in	748
+live-streamed by	749
+lived from	750
+lived in	751
+located	752
+located 13 mi north of	753
+located 19 km south of	754
+located 2 mi west of	755
+located 3 mi south of	756
+located about 20 miles east of	757
+located above	758
+located at	759
+located between	760
+located in	761
+located in administrative territorial entity	762
+located in or next to	763
+located in the administrative region	764
+located in the administrative territorial entity	765
+located in the country	766
+located off	767
+located on	768
+located on the north campus of	769
+location	770
+location administrative entity	771
+location detail	772
+location of	773
+location of activity	774
+location of birth	775
+location of branch	776
+location of death	777
+location of formation	778
+location of northern terminus of	779
+location of occurrence	780
+location of operation	781
+location of southern terminus of	782
+location on	783
+logistics operations in	784
+look	785
+loosely based on	786
+lost to	787
+lyrical theme	788
+lyricist	789
+made exparte decision in	790
+made without consultation with	791
+main ingredient	792
+main subject	793
+make one or more changes	794
+manage	795
+managed Manchester United from	796
+managed by	797
+manner of	798
+manufacturer	799
+manufacturer of	800
+marked	801
+marks	802
+material	803
+material used	804
+maternal ancestry	805
+maximum depth	806
+maximum width	807
+may be	808
+may contain	809
+may exist in competition with	810
+may have included	811
+may include	812
+may refer to	813
+may result in	814
+means	815
+mechanism for	816
+member	817
+member of	818
+member of political party	819
+member of sports league	820
+member of sports team	821
+member of the band	822
+member of this	823
+mentioned in	824
+mentor	825
+merged store	826
+met at	827
+met with	828
+method of death	829
+method of storytelling	830
+military leadership	831
+military occupational specialty code	832
+minority live in	833
+mission during Second Seminole War	834
+mixture from	835
+modified into	836
+molecular formula	837
+monitored by	838
+most people	839
+mother	840
+moved 6th grade into	841
+municipality	842
+musician	843
+name adopted	844
+name changed	845
+name changed to	846
+name of	847
+name origin	848
+named	849
+named a standout on album by	850
+named after	851
+named in honour of	852
+narrated by	853
+narrative consequence	854
+narrative follows	855
+narrative perspective	856
+national championship awarded by	857
+nationality	858
+native to	859
+negates	860
+news outlet covering	861
+nickname	862
+nickname given by	863
+no intention of	864
+nominated by	865
+nominated for	866
+nomination date	867
+nominee	868
+not a	869
+notable feature	870
+notable for	871
+notable work	872
+notable work in	873
+number of agents	874
+number of albums released	875
+number of classrooms	876
+number of compilation albums	877
+number of completed vessels	878
+number of copies	879
+number of distributors	880
+number of episodes	881
+number of extended plays	882
+number of floors	883
+number of instrumental tracks	884
+number of lanes	885
+number of main characters	886
+number of municipalities	887
+number of overseas subsidiaries	888
+number of restaurants	889
+number of shops	890
+number of starts	891
+number of studio albums	892
+number of world records set	893
+number of years as head coach	894
+objective was to produce	895
+occupation	896
+occupation found in	897
+occupied by	898
+occupies	899
+occur during	900
+occur in	901
+occurred during	902
+office held	903
+official name	904
+often	905
+often garnished with	906
+often include	907
+on the album	908
+only film appearance	909
+opened	910
+opened on	911
+opening	912
+opening date	913
+operated by	914
+operated in	915
+operates as a major gateway to	916
+operating period	917
+operation suspended after	918
+operator	919
+opponent in preliminary quarter final	920
+opposed	921
+orchestra	922
+orchestrated by	923
+ordinal by strength	924
+origin	925
+original artist	926
+original broadcast network	927
+original broadcast of	928
+original conception	929
+original language of work	930
+original name	931
+original network	932
+original performer	933
+original purpose	934
+original title	935
+original use	936
+originally administered	937
+originally from	938
+originally published in	939
+originates from	940
+originates in	941
+other name	942
+overthrown by	943
+owned by	944
+owner	945
+owner of	946
+ownership	947
+owns	948
+parent	949
+parent organization	950
+parodies	951
+parody of	952
+part of	953
+part of the album	954
+part of the collection	955
+part of the film	956
+part of the series	957
+participant	958
+participant in	959
+participant in conflict with	960
+participant with medals	961
+participated in	962
+participated in by	963
+party affiliation	964
+pastor	965
+paternal ancestry	966
+paved way for	967
+peak position	968
+peaked at chart position	969
+pen name	970
+performed at	971
+performed by	972
+performer	973
+performer in	974
+period of greatest fame	975
+period of time	976
+period of world records set	977
+persuaded to pursue solo career by	978
+petal color	979
+petal morphology	980
+photographer	981
+place of birth	982
+place of death	983
+place of disaster	984
+place of origin	985
+place of premiere	986
+place of residence	987
+planned	988
+plant life	989
+play	990
+played	991
+played an important role in shaping	992
+played by	993
+played collegiately at	994
+played for	995
+played home games at	996
+played in	997
+played position	998
+played professionally in	999
+played role	1000
+plays	1001
+plays character	1002
+plays in	1003
+plot	1004
+point in time	1005
+pointed out by	1006
+points allowed	1007
+points scored	1008
+political alignment	1009
+political ideology	1010
+political party	1011
+pollster	1012
+population	1013
+population of	1014
+population urban	1015
+position held	1016
+position held since	1017
+position in conference	1018
+position played	1019
+possesses	1020
+possibly derived from	1021
+post-date	1022
+practiced by	1023
+practiced in	1024
+practices	1025
+preached	1026
+preceded by	1027
+predate	1028
+predecessor state of	1029
+premiere date	1030
+premiere location	1031
+premiered at	1032
+presenter	1033
+president	1034
+presides over	1035
+presumed death date	1036
+pretends to be	1037
+prevents	1038
+previous function	1039
+primary advisor to	1040
+principally live in	1041
+pro career length	1042
+pro career teams	1043
+produce	1044
+produced	1045
+produced by	1046
+produced singles	1047
+producer	1048
+production company	1049
+production period	1050
+profession	1051
+promoted by	1052
+promoted to	1053
+protects	1054
+provider of	1055
+provides	1056
+pseudonym	1057
+pseudonym of	1058
+publication date	1059
+publication ended	1060
+publication format	1061
+publication has begun	1062
+publication period	1063
+publication start date	1064
+publication year	1065
+published by	1066
+published in	1067
+published with John Trenchard	1068
+publisher	1069
+publisher of	1070
+purchased by	1071
+purported to strengthen	1072
+purpose	1073
+purpose of	1074
+purpose of tour	1075
+purpose was	1076
+qualified after	1077
+qualified for	1078
+qualities	1079
+quoted in	1080
+race location	1081
+racing career duration	1082
+rank below	1083
+ranked	1084
+ranked 20th among U.S. corporations in the value of wartime production contracts	1085
+ranks below	1086
+ranks higher than	1087
+rare in	1088
+rarely discussed	1089
+re-release status	1090
+re-released in	1091
+reached Top 10 on	1092
+reached by	1093
+real name	1094
+rebuttal to	1095
+received	1096
+received player in trade	1097
+received rights to	1098
+receives	1099
+receives assistance from	1100
+reception	1101
+recipient	1102
+recited by	1103
+recognized as	1104
+recognized breed by	1105
+recognizes	1106
+record for	1107
+record label	1108
+record label for	1109
+record label of	1110
+record of	1111
+record producer	1112
+recorded	1113
+recorded at	1114
+recorded by	1115
+recorded duet version of "Stranger in the House" with	1116
+recorded for	1117
+recorded in	1118
+recorded music video for	1119
+recorded solo version of "Stranger in the House" at	1120
+recordings made around	1121
+reduced to	1122
+reduces	1123
+referred to by	1124
+refers to	1125
+regarded as	1126
+region of performance	1127
+regulates	1128
+reign in	1129
+reissue	1130
+reissue format	1131
+reissue includes	1132
+related to	1133
+relative	1134
+release format	1135
+release time	1136
+released after	1137
+released album	1138
+released alongside	1139
+released as part of a double feature with	1140
+released by	1141
+released fourth EP	1142
+released in	1143
+released nationwide in Turkey on	1144
+released on	1145
+released solo album	1146
+religion	1147
+relocated after season	1148
+relocated to	1149
+renamed after	1150
+renamed to	1151
+reorganized and renamed by	1152
+replaced	1153
+replaced New China News Agency in	1154
+replaced by	1155
+replaces	1156
+report to	1157
+reports through	1158
+reports to	1159
+represented	1160
+represented by	1161
+reprinted by	1162
+requires	1163
+requires sellers to disclose information in	1164
+requires sellers to prepare	1165
+requires visitors to hold	1166
+research areas include	1167
+residence	1168
+resigned to become	1169
+responded to by	1170
+responsible for	1171
+resulted from	1172
+resulted in	1173
+returned as	1174
+returns	1175
+reunification	1176
+revised	1177
+role	1178
+role in World War II	1179
+rose in popularity	1180
+rose to	1181
+rose to international fame with hits	1182
+rotation of	1183
+royalties	1184
+runs	1185
+said by	1186
+sales decreased	1187
+sang	1188
+sang "Thudakkham Maangalyam" along with	1189
+saves	1190
+scored in	1191
+screened at	1192
+screened in competition at	1193
+screenwriter	1194
+sculptor	1195
+season	1196
+season record	1197
+second album	1198
+selected by	1199
+selected for	1200
+series	1201
+served as	1202
+served as Chairman of the Joint Chiefs of Staff during	1203
+served as ambassador from	1204
+served during presidential term of	1205
+served from	1206
+session of	1207
+setting	1208
+settled in	1209
+settled with	1210
+sex ratio	1211
+sexuality	1212
+shelter for	1213
+shipbuilding contract recipient	1214
+shore length	1215
+shortlisted for	1216
+showcases	1217
+sibling	1218
+signed a deal with	1219
+signed a deal with Geffen Records	1220
+signed by	1221
+significance	1222
+significant event	1223
+significant period	1224
+significant person	1225
+significant signing period	1226
+significant year	1227
+silver medals won	1228
+single release date	1229
+size	1230
+skill	1231
+sold	1232
+sold by	1233
+sold in	1234
+songwriter	1235
+soundtrack style similarity	1236
+source of reported sayings by	1237
+speaker of	1238
+specializes in	1239
+spin-off	1240
+spokesperson	1241
+sponsor	1242
+sports results	1243
+spouse	1244
+stage for debut	1245
+stage name	1246
+stage reached	1247
+standings	1248
+stars	1249
+start date	1250
+start of play	1251
+start of work	1252
+start of work period	1253
+start time	1254
+started by	1255
+started in	1256
+started with	1257
+starts with	1258
+stated	1259
+stated that it was conducted	1260
+statement by	1261
+statement of significance	1262
+statement with figurative meaning	1263
+states	1264
+stationed at	1265
+status	1266
+stem length	1267
+stimulated interest in	1268
+stipulates	1269
+story begins with	1270
+story is about	1271
+strengthened	1272
+student	1273
+student count	1274
+student of	1275
+subclass of	1276
+subfamily	1277
+subject main	1278
+subject of	1279
+subject of film	1280
+subordinate of	1281
+subsidiary	1282
+substance or preparation	1283
+succeeded	1284
+successor	1285
+sued against	1286
+suitable for	1287
+sung by	1288
+sung in	1289
+supports	1290
+surfaced as	1291
+surrounded by	1292
+survivor	1293
+symbol of	1294
+symbolizes	1295
+tagline	1296
+target	1297
+target audience	1298
+task	1299
+temporary location of	1300
+term of office	1301
+term of service	1302
+term start date	1303
+territorial expansion	1304
+text in	1305
+texture	1306
+theater of operations	1307
+theme	1308
+theme for	1309
+title	1310
+title held by	1311
+title sequence	1312
+took place at	1313
+topic covered by	1314
+topic of work	1315
+total medals won	1316
+toured by	1317
+tournament advancement	1318
+tournament game result	1319
+track list	1320
+track on	1321
+trade exchange	1322
+trade timing	1323
+traded along with	1324
+traded for	1325
+traded from	1326
+traded to	1327
+translated by	1328
+translated into	1329
+translated name	1330
+translation	1331
+traversed by	1332
+treated with	1333
+triggered by	1334
+type	1335
+type of	1336
+typically occurs	1337
+uncle	1338
+undermined	1339
+unsigned after	1340
+use Power of Three to	1341
+used as	1342
+used as input for	1343
+used as sweetener in	1344
+used by	1345
+used for	1346
+used for herding	1347
+used in	1348
+uses	1349
+uses ZIP code	1350
+uses exceptional marksmanship to	1351
+uses material from	1352
+uses term	1353
+usually denotes	1354
+usually not presided over by	1355
+vice chairperson of	1356
+vice president	1357
+vice-chairman	1358
+victims of	1359
+victory at	1360
+victory over	1361
+viewership	1362
+vinyl color	1363
+violated	1364
+visa-free entry	1365
+visited by	1366
+vocalist	1367
+vocalist of	1368
+voice actor	1369
+voice actor in	1370
+voted by	1371
+voter	1372
+voting start date	1373
+warned against	1374
+was	1375
+was Chairman of	1376
+was a loss to	1377
+was a member of	1378
+was acquired by	1379
+was coined in	1380
+was considered	1381
+was created by	1382
+was created in	1383
+was declared a national holiday	1384
+was due to	1385
+was formerly home to	1386
+was inaugurated in	1387
+was junior at	1388
+was mainly for	1389
+was mis-spelt by	1390
+was named after	1391
+was not	1392
+was official selection of	1393
+was originally	1394
+was owned by	1395
+was part of	1396
+was produced by	1397
+was recognized as a public holiday in southern districts of Belize	1398
+was recorded at	1399
+was released as	1400
+was released in	1401
+was released on	1402
+was released through	1403
+was released to the Australian public on	1404
+was released to the Australian public through	1405
+was released to the United States on	1406
+was schoolmate of	1407
+was sold on	1408
+was the drummer of	1409
+was the family’s palace from	1410
+was the first local soap opera finalist for	1411
+was the opening film at	1412
+was used as	1413
+was written by	1414
+wear	1415
+were	1416
+were announced on	1417
+were constructed	1418
+were exiled by	1419
+were exiled from	1420
+were only QMJHL team to play a full season in	1421
+were permitted only	1422
+were published in	1423
+were remixed by	1424
+were second QMJHL team in	1425
+west of	1426
+width	1427
+winner	1428
+win–loss record	1429
+win–loss–tie ratio	1430
+withdrawn from by	1431
+won	1432
+won President's Cup in	1433
+won by	1434
+won final by	1435
+won new business and national attention after	1436
+work adapted from	1437
+work location	1438
+work period (start)	1439
+worked with	1440
+wrestler	1441
+writer	1442
+writer of	1443
+writers	1444
+writes	1445
+written and produced by	1446
+written and storyboarded by	1447
+written by	1448
+wrote	1449
+wrote "Stranger in the House" specifically with	1450
+wrote and starred in	1451
+wrote for	1452
+wrote songs for	1453
+year adopted	1454
+year of achievement	1455
+year of publication	1456
+year of registration	1457

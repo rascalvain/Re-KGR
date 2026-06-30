@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs -0 -I{} python -c \"import os,sys; f=sys.argv[1]; s=os.path.getsize\\(f\\) if os.path.exists\\(f\\) else 0; print\\(s,f\\)\" \"{}\")",
+      "Bash(xargs:*)",
+      "Bash(powershell:*)",
+      "Bash(dir:*)",
+      "Bash(cd:*)",
+      "Bash(findstr:*)",
+      "Bash(git -C:*)"
+    ]
+  }
+}

@@ -1,0 +1,8837 @@
+{
+  "total_processed": 300,
+  "total_wiki_refs": 59997,
+  "average_wiki_refs_per_item": 199.99,
+  "processing_details": [
+    {
+      "entity_name": "Samwise Gamgee",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 168,
+      "unique_subjects": 4,
+      "unique_objects": 166,
+      "top_predicates": [
+        [
+          "description",
+          44
+        ],
+        [
+          "core#altLabel",
+          15
+        ],
+        [
+          "P6262",
+          11
+        ]
+      ],
+      "id_stats": {
+        "Q126796": 50,
+        "Q95250667": 50,
+        "Q114396820": 24,
+        "Q219473": 50
+      }
+    },
+    {
+      "entity_name": "Ford Prefect (character)",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 90,
+      "unique_subjects": 2,
+      "unique_objects": 86,
+      "top_predicates": [
+        [
+          "description",
+          10
+        ],
+        [
+          "P6262",
+          7
+        ],
+        [
+          "P1441",
+          6
+        ]
+      ],
+      "id_stats": {
+        "Q2": 0,
+        "Q928321": 50,
+        "Q613901": 50
+      }
+    },
+    {
+      "entity_name": "Gilbert Plains",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 144,
+      "unique_subjects": 20,
+      "unique_objects": 125,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          25
+        ],
+        [
+          "core#altLabel",
+          18
+        ],
+        [
+          "P131",
+          16
+        ]
+      ],
+      "id_stats": {
+        "Q8026205": 50,
+        "Q1347753": 50,
+        "Q79853037": 1,
+        "Q18702171": 50
+      }
+    },
+    {
+      "entity_name": "Ailanthus",
+      "wikidata_ids_count": 10,
+      "valid_wikidata_ids": 10,
+      "total_triples": 439,
+      "unique_subjects": 63,
+      "unique_objects": 383,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          115
+        ],
+        [
+          "description",
+          84
+        ],
+        [
+          "P171",
+          29
+        ]
+      ],
+      "id_stats": {
+        "Q493934": 50,
+        "Q37238222": 50,
+        "Q116408996": 14,
+        "Q160580": 50,
+        "Q156679": 50,
+        "Q49": 50,
+        "Q183368": 50,
+        "Q48": 50,
+        "Q10884": 50,
+        "Q159570": 50
+      }
+    },
+    {
+      "entity_name": "Rupert Brooke",
+      "wikidata_ids_count": 7,
+      "valid_wikidata_ids": 7,
+      "total_triples": 303,
+      "unique_subjects": 14,
+      "unique_objects": 293,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          70
+        ],
+        [
+          "core#altLabel",
+          47
+        ],
+        [
+          "description",
+          32
+        ]
+      ],
+      "id_stats": {
+        "Q35794": 50,
+        "Q366086": 50,
+        "Q37068": 50,
+        "Q6241": 50,
+        "Q1516693": 38,
+        "Q19924868": 50,
+        "Q183134": 50
+      }
+    },
+    {
+      "entity_name": "Jean-Michel Basquiat",
+      "wikidata_ids_count": 10,
+      "valid_wikidata_ids": 10,
+      "total_triples": 327,
+      "unique_subjects": 72,
+      "unique_objects": 259,
+      "top_predicates": [
+        [
+          "description",
+          67
+        ],
+        [
+          "rdf-schema#label",
+          55
+        ],
+        [
+          "P921",
+          44
+        ]
+      ],
+      "id_stats": {
+        "Q2426": 50,
+        "Q1508663": 50,
+        "Q155407": 50,
+        "Q893594": 50,
+        "Q37327437": 1,
+        "Q790": 50,
+        "Q878123": 50,
+        "Q16577364": 50,
+        "Q94171309": 50,
+        "Q433353": 50
+      }
+    },
+    {
+      "entity_name": "The Adventures of Pinocchio",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 163,
+      "unique_subjects": 10,
+      "unique_objects": 152,
+      "top_predicates": [
+        [
+          "P4969",
+          24
+        ],
+        [
+          "description",
+          24
+        ],
+        [
+          "rdf-schema#label",
+          19
+        ]
+      ],
+      "id_stats": {
+        "Q8065468": 50,
+        "Q18279909": 50,
+        "Q114463289": 38,
+        "Q19241523": 50
+      }
+    },
+    {
+      "entity_name": "Picture archiving and communication system",
+      "wikidata_ids_count": 7,
+      "valid_wikidata_ids": 7,
+      "total_triples": 233,
+      "unique_subjects": 56,
+      "unique_objects": 176,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          47
+        ],
+        [
+          "P921",
+          31
+        ],
+        [
+          "description",
+          15
+        ]
+      ],
+      "id_stats": {
+        "Q129534751": 50,
+        "Q1061052": 50,
+        "Q464980": 50,
+        "Q34098529": 1,
+        "Q200726": 50,
+        "Q79449423": 1,
+        "Q2920921": 50
+      }
+    },
+    {
+      "entity_name": "Covalent radius",
+      "wikidata_ids_count": 1,
+      "valid_wikidata_ids": 1,
+      "total_triples": 46,
+      "unique_subjects": 4,
+      "unique_objects": 44,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          9
+        ],
+        [
+          "description",
+          4
+        ],
+        [
+          "P6366",
+          2
+        ]
+      ],
+      "id_stats": {
+        "Q485360": 50
+      }
+    },
+    {
+      "entity_name": "ActiveX Data Objects",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 252,
+      "unique_subjects": 46,
+      "unique_objects": 209,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          64
+        ],
+        [
+          "rdf-schema#label",
+          55
+        ],
+        [
+          "P171",
+          26
+        ]
+      ],
+      "id_stats": {
+        "Q5227137": 50,
+        "Q1393704": 50,
+        "Q2283": 50,
+        "Q58327688": 36,
+        "Q9143": 50,
+        "Q344005": 50
+      }
+    },
+    {
+      "entity_name": "Magnetohydrodynamics",
+      "wikidata_ids_count": 8,
+      "valid_wikidata_ids": 8,
+      "total_triples": 279,
+      "unique_subjects": 57,
+      "unique_objects": 225,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          125
+        ],
+        [
+          "P101",
+          45
+        ],
+        [
+          "description",
+          33
+        ]
+      ],
+      "id_stats": {
+        "Q37547": 50,
+        "Q11406": 50,
+        "Q216320": 50,
+        "Q11023": 50,
+        "Q126255469": 1,
+        "Q68313746": 1,
+        "Q2549249": 50,
+        "Q46255": 50
+      }
+    },
+    {
+      "entity_name": "A Vindication of the Rights of Woman",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 124,
+      "unique_subjects": 42,
+      "unique_objects": 81,
+      "top_predicates": [
+        [
+          "description",
+          41
+        ],
+        [
+          "core#altLabel",
+          21
+        ],
+        [
+          "rdf-schema#label",
+          18
+        ]
+      ],
+      "id_stats": {
+        "Q12681618": 50,
+        "Q300646": 50,
+        "Q101638": 50
+      }
+    },
+    {
+      "entity_name": "Adam's Rib",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 172,
+      "unique_subjects": 7,
+      "unique_objects": 168,
+      "top_predicates": [
+        [
+          "description",
+          32
+        ],
+        [
+          "P166",
+          14
+        ],
+        [
+          "core#altLabel",
+          13
+        ]
+      ],
+      "id_stats": {
+        "Q1059199": 50,
+        "Q56016": 50,
+        "Q88030481": 1,
+        "Q17162788": 19,
+        "Q56014": 50,
+        "Q71275": 50
+      }
+    },
+    {
+      "entity_name": "Karlovy Vary International Film Festival",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 58,
+      "unique_subjects": 2,
+      "unique_objects": 57,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          31
+        ],
+        [
+          "core#altLabel",
+          20
+        ],
+        [
+          "description",
+          6
+        ]
+      ],
+      "id_stats": {
+        "Q332869": 50,
+        "Q18610": 50
+      }
+    },
+    {
+      "entity_name": "Joe Satriani",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 183,
+      "unique_subjects": 12,
+      "unique_objects": 174,
+      "top_predicates": [
+        [
+          "P1343",
+          9
+        ],
+        [
+          "P8687",
+          8
+        ],
+        [
+          "P6977",
+          8
+        ]
+      ],
+      "id_stats": {
+        "Q484030": 50,
+        "Q194287": 50,
+        "Q193397": 50,
+        "Q121439103": 33
+      }
+    },
+    {
+      "entity_name": "Peperomia",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 208,
+      "unique_subjects": 58,
+      "unique_objects": 146,
+      "top_predicates": [
+        [
+          "P171",
+          50
+        ],
+        [
+          "core#altLabel",
+          40
+        ],
+        [
+          "rdf-schema#label",
+          17
+        ]
+      ],
+      "id_stats": {
+        "Q91925556": 29,
+        "Q6806672": 34,
+        "Q1354632": 50,
+        "Q1131243": 50,
+        "Q771035": 50
+      }
+    },
+    {
+      "entity_name": "Lacrimosa (band)",
+      "wikidata_ids_count": 9,
+      "valid_wikidata_ids": 9,
+      "total_triples": 384,
+      "unique_subjects": 12,
+      "unique_objects": 366,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          94
+        ],
+        [
+          "description",
+          78
+        ],
+        [
+          "P527",
+          24
+        ]
+      ],
+      "id_stats": {
+        "Q11426": 50,
+        "Q3840596": 50,
+        "Q2064": 50,
+        "Q9730": 50,
+        "Q2495733": 50,
+        "Q46": 50,
+        "Q12585": 50,
+        "Q625529": 50,
+        "Q707711": 50
+      }
+    },
+    {
+      "entity_name": "Daffy Duck",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 243,
+      "unique_subjects": 61,
+      "unique_objects": 184,
+      "top_predicates": [
+        [
+          "description",
+          89
+        ],
+        [
+          "core#altLabel",
+          26
+        ],
+        [
+          "P674",
+          23
+        ]
+      ],
+      "id_stats": {
+        "Q96076258": 50,
+        "Q183102": 50,
+        "Q1179487": 49,
+        "Q7672246": 39,
+        "Q18647": 50,
+        "Q126399": 50
+      }
+    },
+    {
+      "entity_name": "William Lipscomb",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 140,
+      "unique_subjects": 52,
+      "unique_objects": 90,
+      "top_predicates": [
+        [
+          "P971",
+          47
+        ],
+        [
+          "P3295",
+          40
+        ],
+        [
+          "core#altLabel",
+          16
+        ]
+      ],
+      "id_stats": {
+        "Q110935": 50,
+        "Q690992": 50,
+        "Q1994": 50
+      }
+    },
+    {
+      "entity_name": "Pope Boniface V",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 151,
+      "unique_subjects": 4,
+      "unique_objects": 149,
+      "top_predicates": [
+        [
+          "description",
+          53
+        ],
+        [
+          "core#altLabel",
+          47
+        ],
+        [
+          "P3295",
+          11
+        ]
+      ],
+      "id_stats": {
+        "Q857807": 50,
+        "Q2954": 50,
+        "Q1048686": 50,
+        "Q170299": 50
+      }
+    },
+    {
+      "entity_name": "Principia Mathematica",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 128,
+      "unique_subjects": 3,
+      "unique_objects": 125,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          65
+        ],
+        [
+          "rdf-schema#label",
+          19
+        ],
+        [
+          "description",
+          9
+        ]
+      ],
+      "id_stats": {
+        "Q183372": 50,
+        "Q163335": 50,
+        "Q33760": 50
+      }
+    },
+    {
+      "entity_name": "Pope Stephen VI",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 130,
+      "unique_subjects": 3,
+      "unique_objects": 125,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          64
+        ],
+        [
+          "description",
+          40
+        ],
+        [
+          "core#altLabel",
+          8
+        ]
+      ],
+      "id_stats": {
+        "Q1414811": 50,
+        "Q170499": 50,
+        "Q245030": 50
+      }
+    },
+    {
+      "entity_name": "Sap beetle",
+      "wikidata_ids_count": 10,
+      "valid_wikidata_ids": 10,
+      "total_triples": 377,
+      "unique_subjects": 10,
+      "unique_objects": 375,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          194
+        ],
+        [
+          "P2403",
+          24
+        ],
+        [
+          "description",
+          21
+        ]
+      ],
+      "id_stats": {
+        "Q12136": 50,
+        "Q814067": 50,
+        "Q3314483": 50,
+        "Q235352": 50,
+        "Q282": 50,
+        "Q13780930": 50,
+        "Q764": 50,
+        "Q38573913": 1,
+        "Q552581": 50,
+        "Q112768174": 1
+      }
+    },
+    {
+      "entity_name": "Piperidine",
+      "wikidata_ids_count": 7,
+      "valid_wikidata_ids": 7,
+      "total_triples": 163,
+      "unique_subjects": 20,
+      "unique_objects": 142,
+      "top_predicates": [
+        [
+          "description",
+          56
+        ],
+        [
+          "rdf-schema#label",
+          22
+        ],
+        [
+          "core#altLabel",
+          11
+        ]
+      ],
+      "id_stats": {
+        "Q111892259": 18,
+        "Q59348943": 50,
+        "Q22915010": 50,
+        "Q1264157": 50,
+        "Q53079153": 1,
+        "Q77500793": 1,
+        "Q64174541": 1
+      }
+    },
+    {
+      "entity_name": "Weta (band)",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 129,
+      "unique_subjects": 11,
+      "unique_objects": 119,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          17
+        ],
+        [
+          "description",
+          11
+        ],
+        [
+          "P527",
+          9
+        ]
+      ],
+      "id_stats": {
+        "Q28840380": 50,
+        "Q2068": 50,
+        "Q1988": 50,
+        "Q599163": 50
+      }
+    },
+    {
+      "entity_name": "Aeneid",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 126,
+      "unique_subjects": 53,
+      "unique_objects": 67,
+      "top_predicates": [
+        [
+          "P735",
+          50
+        ],
+        [
+          "description",
+          8
+        ],
+        [
+          "rdf-schema#label",
+          5
+        ]
+      ],
+      "id_stats": {
+        "Q87347124": 28,
+        "Q7857584": 23,
+        "Q17505763": 50,
+        "Q20000656": 50,
+        "Q38": 0
+      }
+    },
+    {
+      "entity_name": "Michael Polanyi",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 235,
+      "unique_subjects": 5,
+      "unique_objects": 232,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          105
+        ],
+        [
+          "description",
+          27
+        ],
+        [
+          "P3342",
+          11
+        ]
+      ],
+      "id_stats": {
+        "Q5891": 50,
+        "Q163087": 50,
+        "Q15631401": 50,
+        "Q11372": 50,
+        "Q8134": 50
+      }
+    },
+    {
+      "entity_name": "Spandrel",
+      "wikidata_ids_count": 9,
+      "valid_wikidata_ids": 9,
+      "total_triples": 294,
+      "unique_subjects": 80,
+      "unique_objects": 220,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          59
+        ],
+        [
+          "P31",
+          53
+        ],
+        [
+          "core#altLabel",
+          50
+        ]
+      ],
+      "id_stats": {
+        "Q860861": 50,
+        "Q6915345": 44,
+        "Q71932940": 1,
+        "Q3305213": 0,
+        "Q244556": 50,
+        "Q840400": 50,
+        "Q2484": 50,
+        "Q151885": 50,
+        "Q12271": 50
+      }
+    },
+    {
+      "entity_name": "Ahasuerus",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 166,
+      "unique_subjects": 18,
+      "unique_objects": 149,
+      "top_predicates": [
+        [
+          "P3373",
+          13
+        ],
+        [
+          "P735",
+          12
+        ],
+        [
+          "description",
+          9
+        ]
+      ],
+      "id_stats": {
+        "Q129165": 50,
+        "Q60035893": 30,
+        "Q371319": 50,
+        "Q21143681": 50
+      }
+    },
+    {
+      "entity_name": "Pope Benedict VII",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 180,
+      "unique_subjects": 56,
+      "unique_objects": 122,
+      "top_predicates": [
+        [
+          "P5236",
+          50
+        ],
+        [
+          "core#altLabel",
+          25
+        ],
+        [
+          "rdf-schema#label",
+          17
+        ]
+      ],
+      "id_stats": {
+        "Q7210179": 36,
+        "Q179697": 50,
+        "Q1413547": 50,
+        "Q828611": 50,
+        "Q227972": 50
+      }
+    },
+    {
+      "entity_name": "Warsaw Ghetto",
+      "wikidata_ids_count": 7,
+      "valid_wikidata_ids": 7,
+      "total_triples": 211,
+      "unique_subjects": 55,
+      "unique_objects": 161,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          77
+        ],
+        [
+          "description",
+          22
+        ],
+        [
+          "P509",
+          19
+        ]
+      ],
+      "id_stats": {
+        "Q853930": 50,
+        "Q12136": 50,
+        "Q3345414": 50,
+        "Q18623": 50,
+        "Q58502471": 1,
+        "Q7113614": 50,
+        "Q38080036": 1
+      }
+    },
+    {
+      "entity_name": "Naughty Marietta (film)",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 197,
+      "unique_subjects": 9,
+      "unique_objects": 190,
+      "top_predicates": [
+        [
+          "P264",
+          5
+        ],
+        [
+          "P1844",
+          5
+        ],
+        [
+          "P2626",
+          4
+        ]
+      ],
+      "id_stats": {
+        "Q237030": 50,
+        "Q562641": 50,
+        "Q69367681": 1,
+        "Q6981145": 50,
+        "Q547078": 50
+      }
+    },
+    {
+      "entity_name": "Samuel de Champlain",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 263,
+      "unique_subjects": 16,
+      "unique_objects": 241,
+      "top_predicates": [
+        [
+          "description",
+          58
+        ],
+        [
+          "rdf-schema#label",
+          52
+        ],
+        [
+          "core#altLabel",
+          22
+        ]
+      ],
+      "id_stats": {
+        "Q2145": 50,
+        "Q29939059": 50,
+        "Q1734662": 50,
+        "Q28094643": 50,
+        "Q68529": 50,
+        "Q12681543": 50
+      }
+    },
+    {
+      "entity_name": "Imereti",
+      "wikidata_ids_count": 9,
+      "valid_wikidata_ids": 9,
+      "total_triples": 404,
+      "unique_subjects": 40,
+      "unique_objects": 362,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          77
+        ],
+        [
+          "description",
+          77
+        ],
+        [
+          "core#altLabel",
+          27
+        ]
+      ],
+      "id_stats": {
+        "Q200045": 50,
+        "Q37222": 50,
+        "Q2300672": 50,
+        "Q64364418": 50,
+        "Q210272": 50,
+        "Q1858518": 50,
+        "Q279575": 50,
+        "Q122847663": 50,
+        "Q679979": 50
+      }
+    },
+    {
+      "entity_name": "Alexandria Aces",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 159,
+      "unique_subjects": 22,
+      "unique_objects": 136,
+      "top_predicates": [
+        [
+          "description",
+          45
+        ],
+        [
+          "rdf-schema#label",
+          32
+        ],
+        [
+          "core#altLabel",
+          29
+        ]
+      ],
+      "id_stats": {
+        "Q5018205": 21,
+        "Q4720936": 37,
+        "Q2024": 50,
+        "Q1990": 50,
+        "Q87": 50
+      }
+    },
+    {
+      "entity_name": "Afghan Armed Forces",
+      "wikidata_ids_count": 9,
+      "valid_wikidata_ids": 9,
+      "total_triples": 325,
+      "unique_subjects": 8,
+      "unique_objects": 309,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          105
+        ],
+        [
+          "core#altLabel",
+          38
+        ],
+        [
+          "description",
+          21
+        ]
+      ],
+      "id_stats": {
+        "Q1987": 50,
+        "Q9130126": 23,
+        "Q1752743": 50,
+        "Q1814147": 50,
+        "Q7184": 50,
+        "Q1190472": 50,
+        "Q30": 0,
+        "Q383108": 50,
+        "Q11062919": 50
+      }
+    },
+    {
+      "entity_name": "Great Barrier Reef Marine Park",
+      "wikidata_ids_count": 7,
+      "valid_wikidata_ids": 7,
+      "total_triples": 199,
+      "unique_subjects": 29,
+      "unique_objects": 172,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          50
+        ],
+        [
+          "description",
+          19
+        ],
+        [
+          "P108",
+          8
+        ]
+      ],
+      "id_stats": {
+        "Q408": 0,
+        "Q127672219": 1,
+        "Q2479": 50,
+        "Q938159": 50,
+        "Q82931": 50,
+        "Q21532850": 50,
+        "Q7343": 50
+      }
+    },
+    {
+      "entity_name": "Peg solitaire",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 133,
+      "unique_subjects": 4,
+      "unique_objects": 133,
+      "top_predicates": [
+        [
+          "description",
+          68
+        ],
+        [
+          "rdf-schema#label",
+          50
+        ],
+        [
+          "dateModified",
+          3
+        ]
+      ],
+      "id_stats": {
+        "Q37367668": 1,
+        "Q13780930": 50,
+        "Q135451985": 50,
+        "Q1293": 50
+      }
+    },
+    {
+      "entity_name": "Alexander I of Epirus",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 247,
+      "unique_subjects": 24,
+      "unique_objects": 224,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          101
+        ],
+        [
+          "description",
+          49
+        ],
+        [
+          "core#altLabel",
+          18
+        ]
+      ],
+      "id_stats": {
+        "Q12766502": 21,
+        "Q13230617": 50,
+        "Q335658": 50,
+        "Q221": 50,
+        "Q48182": 50,
+        "Q55261775": 50
+      }
+    },
+    {
+      "entity_name": "Hawkwind",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 108,
+      "unique_subjects": 3,
+      "unique_objects": 108,
+      "top_predicates": [
+        [
+          "P527",
+          20
+        ],
+        [
+          "rdf-schema#label",
+          9
+        ],
+        [
+          "P12098",
+          3
+        ]
+      ],
+      "id_stats": {
+        "Q2485": 50,
+        "Q285966": 50,
+        "Q1032403": 50
+      }
+    },
+    {
+      "entity_name": "Non-repudiation",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 117,
+      "unique_subjects": 4,
+      "unique_objects": 112,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          19
+        ],
+        [
+          "core#altLabel",
+          11
+        ],
+        [
+          "description",
+          9
+        ]
+      ],
+      "id_stats": {
+        "Q135050305": 44,
+        "Q56758026": 24,
+        "Q1327773": 50,
+        "Q98620170": 1
+      }
+    },
+    {
+      "entity_name": "Frederick I, Holy Roman Emperor",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 233,
+      "unique_subjects": 6,
+      "unique_objects": 233,
+      "top_predicates": [
+        [
+          "description",
+          59
+        ],
+        [
+          "rdf-schema#label",
+          57
+        ],
+        [
+          "core#altLabel",
+          50
+        ]
+      ],
+      "id_stats": {
+        "Q642497": 50,
+        "Q79789": 50,
+        "Q12681242": 50,
+        "Q181765": 50,
+        "Q120805467": 1,
+        "Q160116": 50
+      }
+    },
+    {
+      "entity_name": "François Mitterrand",
+      "wikidata_ids_count": 7,
+      "valid_wikidata_ids": 7,
+      "total_triples": 195,
+      "unique_subjects": 7,
+      "unique_objects": 189,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          53
+        ],
+        [
+          "description",
+          47
+        ],
+        [
+          "core#altLabel",
+          17
+        ]
+      ],
+      "id_stats": {
+        "Q2070": 50,
+        "Q2038": 50,
+        "Q713148": 50,
+        "Q191954": 50,
+        "Q2068": 50,
+        "Q7248801": 9,
+        "Q2437": 50
+      }
+    },
+    {
+      "entity_name": "Metastability",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 82,
+      "unique_subjects": 14,
+      "unique_objects": 70,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          18
+        ],
+        [
+          "P361",
+          6
+        ],
+        [
+          "description",
+          5
+        ]
+      ],
+      "id_stats": {
+        "Q849516": 50,
+        "Q7897312": 50,
+        "Q60016773": 1
+      }
+    },
+    {
+      "entity_name": "The Girl Who Loved Tom Gordon",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 108,
+      "unique_subjects": 22,
+      "unique_objects": 85,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          24
+        ],
+        [
+          "P179",
+          16
+        ],
+        [
+          "description",
+          14
+        ]
+      ],
+      "id_stats": {
+        "Q1756228": 50,
+        "Q59039463": 1,
+        "Q68377439": 1,
+        "Q2620856": 50,
+        "Q2091": 50
+      }
+    },
+    {
+      "entity_name": "Iolanthe",
+      "wikidata_ids_count": 13,
+      "valid_wikidata_ids": 13,
+      "total_triples": 517,
+      "unique_subjects": 94,
+      "unique_objects": 420,
+      "top_predicates": [
+        [
+          "description",
+          62
+        ],
+        [
+          "P180",
+          50
+        ],
+        [
+          "rdf-schema#label",
+          42
+        ]
+      ],
+      "id_stats": {
+        "Q134730100": 6,
+        "Q1344": 50,
+        "Q1393460": 50,
+        "Q1393478": 50,
+        "Q3543591": 50,
+        "Q132740948": 37,
+        "Q348513": 50,
+        "Q212692": 50,
+        "Q8028": 50,
+        "Q7163": 50,
+        "Q10443836": 18,
+        "Q84": 50,
+        "Q1281924": 50
+      }
+    },
+    {
+      "entity_name": "José Saramago",
+      "wikidata_ids_count": 1,
+      "valid_wikidata_ids": 1,
+      "total_triples": 22,
+      "unique_subjects": 1,
+      "unique_objects": 22,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          18
+        ],
+        [
+          "core#altLabel",
+          4
+        ]
+      ],
+      "id_stats": {
+        "Q37060": 50
+      }
+    },
+    {
+      "entity_name": "Geddy Lee",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 150,
+      "unique_subjects": 5,
+      "unique_objects": 144,
+      "top_predicates": [
+        [
+          "description",
+          34
+        ],
+        [
+          "P1411",
+          25
+        ],
+        [
+          "rdf-schema#label",
+          15
+        ]
+      ],
+      "id_stats": {
+        "Q46988139": 48,
+        "Q320895": 50,
+        "Q203871": 50,
+        "Q2644": 50
+      }
+    },
+    {
+      "entity_name": "Padstow",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 145,
+      "unique_subjects": 53,
+      "unique_objects": 95,
+      "top_predicates": [
+        [
+          "P131",
+          50
+        ],
+        [
+          "core#altLabel",
+          43
+        ],
+        [
+          "rdf-schema#label",
+          9
+        ]
+      ],
+      "id_stats": {
+        "Q3957": 50,
+        "Q1631281": 50,
+        "Q943931": 50,
+        "Q58081181": 1
+      }
+    },
+    {
+      "entity_name": "The Inklings",
+      "wikidata_ids_count": 10,
+      "valid_wikidata_ids": 10,
+      "total_triples": 238,
+      "unique_subjects": 10,
+      "unique_objects": 234,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          88
+        ],
+        [
+          "description",
+          26
+        ],
+        [
+          "P1352",
+          17
+        ]
+      ],
+      "id_stats": {
+        "Q60512978": 1,
+        "Q126440318": 1,
+        "Q92505014": 1,
+        "Q81984": 50,
+        "Q9204": 50,
+        "Q96401462": 10,
+        "Q1066463": 50,
+        "Q21": 50,
+        "Q892": 50,
+        "Q34433": 50
+      }
+    },
+    {
+      "entity_name": "Datura stramonium",
+      "wikidata_ids_count": 12,
+      "valid_wikidata_ids": 12,
+      "total_triples": 486,
+      "unique_subjects": 32,
+      "unique_objects": 448,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          114
+        ],
+        [
+          "description",
+          45
+        ],
+        [
+          "P463",
+          13
+        ]
+      ],
+      "id_stats": {
+        "Q30959": 50,
+        "Q113323949": 43,
+        "Q70702": 50,
+        "Q18689879": 50,
+        "Q130741": 50,
+        "Q95975285": 29,
+        "Q49": 50,
+        "Q160796": 50,
+        "Q107432375": 32,
+        "Q771035": 50,
+        "Q119140083": 34,
+        "Q110644808": 22
+      }
+    },
+    {
+      "entity_name": "Ossian",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 144,
+      "unique_subjects": 59,
+      "unique_objects": 86,
+      "top_predicates": [
+        [
+          "P735",
+          50
+        ],
+        [
+          "rdf-schema#label",
+          12
+        ],
+        [
+          "description",
+          12
+        ]
+      ],
+      "id_stats": {
+        "Q382610": 50,
+        "Q107340228": 15,
+        "Q16280446": 50,
+        "Q20735603": 50
+      }
+    },
+    {
+      "entity_name": "Rhea (bird)",
+      "wikidata_ids_count": 9,
+      "valid_wikidata_ids": 9,
+      "total_triples": 364,
+      "unique_subjects": 69,
+      "unique_objects": 296,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          94
+        ],
+        [
+          "core#altLabel",
+          44
+        ],
+        [
+          "P180",
+          44
+        ]
+      ],
+      "id_stats": {
+        "Q59575536": 1,
+        "Q10990": 50,
+        "Q80859167": 41,
+        "Q989514": 50,
+        "Q81025": 50,
+        "Q19171": 50,
+        "Q1321695": 50,
+        "Q18": 50,
+        "Q50319147": 49
+      }
+    },
+    {
+      "entity_name": "Monty Python and the Holy Grail",
+      "wikidata_ids_count": 11,
+      "valid_wikidata_ids": 11,
+      "total_triples": 435,
+      "unique_subjects": 210,
+      "unique_objects": 180,
+      "top_predicates": [
+        [
+          "P161",
+          70
+        ],
+        [
+          "P136",
+          49
+        ],
+        [
+          "P674",
+          31
+        ]
+      ],
+      "id_stats": {
+        "Q25043": 50,
+        "Q25014": 50,
+        "Q105188196": 28,
+        "Q223985": 50,
+        "Q210741": 50,
+        "Q66498532": 39,
+        "Q1092460": 50,
+        "Q4655653": 50,
+        "Q25078": 50,
+        "Q166159": 50,
+        "Q80976532": 19
+      }
+    },
+    {
+      "entity_name": "VTOL",
+      "wikidata_ids_count": 8,
+      "valid_wikidata_ids": 8,
+      "total_triples": 342,
+      "unique_subjects": 15,
+      "unique_objects": 327,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          129
+        ],
+        [
+          "core#altLabel",
+          81
+        ],
+        [
+          "description",
+          33
+        ]
+      ],
+      "id_stats": {
+        "Q7590": 50,
+        "Q149377": 50,
+        "Q34486": 50,
+        "Q741964": 50,
+        "Q123938843": 30,
+        "Q11436": 50,
+        "Q320599": 50,
+        "Q98841891": 50
+      }
+    },
+    {
+      "entity_name": "Alcamo",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 118,
+      "unique_subjects": 4,
+      "unique_objects": 108,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          15
+        ],
+        [
+          "P195",
+          8
+        ],
+        [
+          "P276",
+          6
+        ]
+      ],
+      "id_stats": {
+        "Q111646150": 40,
+        "Q110147268": 35,
+        "Q481544": 50,
+        "Q39897089": 1
+      }
+    },
+    {
+      "entity_name": "Pierre-Auguste Renoir",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 55,
+      "unique_subjects": 3,
+      "unique_objects": 51,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          17
+        ],
+        [
+          "description",
+          9
+        ],
+        [
+          "core#altLabel",
+          4
+        ]
+      ],
+      "id_stats": {
+        "Q3530234": 50,
+        "Q39931": 50
+      }
+    },
+    {
+      "entity_name": "Pope Callixtus II",
+      "wikidata_ids_count": 10,
+      "valid_wikidata_ids": 10,
+      "total_triples": 348,
+      "unique_subjects": 56,
+      "unique_objects": 297,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          87
+        ],
+        [
+          "description",
+          82
+        ],
+        [
+          "rdf-schema#label",
+          62
+        ]
+      ],
+      "id_stats": {
+        "Q142": 0,
+        "Q136233736": 12,
+        "Q52212552": 50,
+        "Q12681220": 50,
+        "Q170654": 50,
+        "Q15840785": 50,
+        "Q1517265": 50,
+        "Q34651": 50,
+        "Q154764": 50,
+        "Q4274072": 50
+      }
+    },
+    {
+      "entity_name": "Laurent polynomial",
+      "wikidata_ids_count": 7,
+      "valid_wikidata_ids": 7,
+      "total_triples": 294,
+      "unique_subjects": 107,
+      "unique_objects": 191,
+      "top_predicates": [
+        [
+          "P9488",
+          50
+        ],
+        [
+          "P101",
+          46
+        ],
+        [
+          "rdf-schema#label",
+          44
+        ]
+      ],
+      "id_stats": {
+        "Q180969": 50,
+        "Q57840823": 1,
+        "Q12479": 50,
+        "Q413": 50,
+        "Q1701125": 50,
+        "Q193756": 50,
+        "Q166396": 50
+      }
+    },
+    {
+      "entity_name": "Blythe Danner",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 51,
+      "unique_subjects": 51,
+      "unique_objects": 2,
+      "top_predicates": [
+        [
+          "P161",
+          45
+        ],
+        [
+          "P25",
+          2
+        ],
+        [
+          "P26",
+          2
+        ]
+      ],
+      "id_stats": {
+        "Q48457858": 1,
+        "Q40064": 50
+      }
+    },
+    {
+      "entity_name": "Carme (moon)",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 219,
+      "unique_subjects": 67,
+      "unique_objects": 151,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          46
+        ],
+        [
+          "P108",
+          28
+        ],
+        [
+          "P171",
+          10
+        ]
+      ],
+      "id_stats": {
+        "Q436047": 50,
+        "Q23392": 50,
+        "Q37530492": 50,
+        "Q743992": 50,
+        "Q76150253": 50,
+        "Q466863": 50
+      }
+    },
+    {
+      "entity_name": "Aquatic ape hypothesis",
+      "wikidata_ids_count": 7,
+      "valid_wikidata_ids": 7,
+      "total_triples": 276,
+      "unique_subjects": 109,
+      "unique_objects": 167,
+      "top_predicates": [
+        [
+          "P5572",
+          50
+        ],
+        [
+          "P31",
+          29
+        ],
+        [
+          "rdf-schema#label",
+          21
+        ]
+      ],
+      "id_stats": {
+        "Q300588": 50,
+        "Q662893": 50,
+        "Q1255828": 50,
+        "Q372949": 50,
+        "Q66954157": 1,
+        "Q30015788": 50,
+        "Q107226371": 44
+      }
+    },
+    {
+      "entity_name": "Just another Perl hacker",
+      "wikidata_ids_count": 1,
+      "valid_wikidata_ids": 1,
+      "total_triples": 1,
+      "unique_subjects": 1,
+      "unique_objects": 1,
+      "top_predicates": [
+        [
+          "queryService#subgraph",
+          1
+        ]
+      ],
+      "id_stats": {
+        "Q70761807": 1
+      }
+    },
+    {
+      "entity_name": "Diego de Almagro",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 89,
+      "unique_subjects": 3,
+      "unique_objects": 89,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          38
+        ],
+        [
+          "P1343",
+          6
+        ],
+        [
+          "P2924",
+          2
+        ]
+      ],
+      "id_stats": {
+        "Q44741": 50,
+        "Q207668": 50,
+        "Q125530826": 1
+      }
+    },
+    {
+      "entity_name": "Joe Orton",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 61,
+      "unique_subjects": 48,
+      "unique_objects": 14,
+      "top_predicates": [
+        [
+          "P50",
+          20
+        ],
+        [
+          "P170",
+          18
+        ],
+        [
+          "P921",
+          5
+        ]
+      ],
+      "id_stats": {
+        "Q368866": 50,
+        "Q1738867": 50
+      }
+    },
+    {
+      "entity_name": "Poincaré conjecture",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 204,
+      "unique_subjects": 12,
+      "unique_objects": 197,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          72
+        ],
+        [
+          "core#altLabel",
+          59
+        ],
+        [
+          "description",
+          42
+        ]
+      ],
+      "id_stats": {
+        "Q90816382": 1,
+        "Q203586": 50,
+        "Q28835": 50,
+        "Q81082": 50,
+        "Q117346": 50,
+        "Q1361396": 50
+      }
+    },
+    {
+      "entity_name": "Schoolkids Oz",
+      "wikidata_ids_count": 7,
+      "valid_wikidata_ids": 7,
+      "total_triples": 179,
+      "unique_subjects": 106,
+      "unique_objects": 79,
+      "top_predicates": [
+        [
+          "P921",
+          57
+        ],
+        [
+          "P136",
+          30
+        ],
+        [
+          "description",
+          29
+        ]
+      ],
+      "id_stats": {
+        "Q2474": 50,
+        "Q408": 0,
+        "Q2430": 50,
+        "Q1508663": 50,
+        "Q7210274": 50,
+        "Q28666326": 19,
+        "Q7432692": 50
+      }
+    },
+    {
+      "entity_name": "Airborne radio relay",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 107,
+      "unique_subjects": 7,
+      "unique_objects": 103,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          50
+        ],
+        [
+          "core#altLabel",
+          42
+        ],
+        [
+          "queryService#subgraph",
+          3
+        ]
+      ],
+      "id_stats": {
+        "Q68237699": 1,
+        "Q72635074": 1,
+        "Q11436": 50,
+        "Q149377": 50,
+        "Q68846034": 1,
+        "Q4698466": 12
+      }
+    },
+    {
+      "entity_name": "Francis Walsingham",
+      "wikidata_ids_count": 1,
+      "valid_wikidata_ids": 1,
+      "total_triples": 31,
+      "unique_subjects": 1,
+      "unique_objects": 31,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          7
+        ],
+        [
+          "description",
+          7
+        ],
+        [
+          "P39",
+          5
+        ]
+      ],
+      "id_stats": {
+        "Q138409": 50
+      }
+    },
+    {
+      "entity_name": "The Hustler (novel)",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 252,
+      "unique_subjects": 106,
+      "unique_objects": 147,
+      "top_predicates": [
+        [
+          "P921",
+          46
+        ],
+        [
+          "P9652",
+          18
+        ],
+        [
+          "core#altLabel",
+          16
+        ]
+      ],
+      "id_stats": {
+        "Q17116241": 36,
+        "Q12819497": 50,
+        "Q1130084": 50,
+        "Q39071681": 50,
+        "Q1300785": 50,
+        "Q5302": 50
+      }
+    },
+    {
+      "entity_name": "Elkins Act",
+      "wikidata_ids_count": 11,
+      "valid_wikidata_ids": 11,
+      "total_triples": 363,
+      "unique_subjects": 55,
+      "unique_objects": 302,
+      "top_predicates": [
+        [
+          "description",
+          50
+        ],
+        [
+          "rdf-schema#label",
+          49
+        ],
+        [
+          "core#altLabel",
+          42
+        ]
+      ],
+      "id_stats": {
+        "Q5364321": 18,
+        "Q24708117": 47,
+        "Q81844069": 39,
+        "Q81855723": 1,
+        "Q1647715": 50,
+        "Q123141575": 14,
+        "Q6057024": 50,
+        "Q126184193": 33,
+        "Q2045": 50,
+        "Q22667": 50,
+        "Q2635158": 50
+      }
+    },
+    {
+      "entity_name": "William Randolph Hearst",
+      "wikidata_ids_count": 1,
+      "valid_wikidata_ids": 1,
+      "total_triples": 27,
+      "unique_subjects": 1,
+      "unique_objects": 27,
+      "top_predicates": [
+        [
+          "description",
+          18
+        ],
+        [
+          "rdf-schema#label",
+          9
+        ]
+      ],
+      "id_stats": {
+        "Q294931": 50
+      }
+    },
+    {
+      "entity_name": "List of tourist attractions in Sardinia",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 93,
+      "unique_subjects": 2,
+      "unique_objects": 93,
+      "top_predicates": [
+        [
+          "description",
+          44
+        ],
+        [
+          "rdf-schema#label",
+          17
+        ],
+        [
+          "P206",
+          4
+        ]
+      ],
+      "id_stats": {
+        "Q575828": 50,
+        "Q6643513": 50
+      }
+    },
+    {
+      "entity_name": "Denis Gaultier",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 175,
+      "unique_subjects": 7,
+      "unique_objects": 166,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          21
+        ],
+        [
+          "description",
+          15
+        ],
+        [
+          "P527",
+          9
+        ]
+      ],
+      "id_stats": {
+        "Q670558": 50,
+        "Q15640017": 43,
+        "Q50288022": 27,
+        "Q10353577": 50,
+        "Q123859715": 21
+      }
+    },
+    {
+      "entity_name": "Wedge Antilles",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 118,
+      "unique_subjects": 3,
+      "unique_objects": 117,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          24
+        ],
+        [
+          "description",
+          15
+        ],
+        [
+          "P106",
+          6
+        ]
+      ],
+      "id_stats": {
+        "Q368390": 50,
+        "Q52310": 50,
+        "Q108805233": 22
+      }
+    },
+    {
+      "entity_name": "Anwar Sadat",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 162,
+      "unique_subjects": 6,
+      "unique_objects": 162,
+      "top_predicates": [
+        [
+          "description",
+          50
+        ],
+        [
+          "rdf-schema#label",
+          26
+        ],
+        [
+          "core#altLabel",
+          25
+        ]
+      ],
+      "id_stats": {
+        "Q19072238": 9,
+        "Q2474": 50,
+        "Q309204": 50,
+        "Q58155354": 1,
+        "Q42013": 50,
+        "Q2437": 50
+      }
+    },
+    {
+      "entity_name": "Siegfried Sassoon",
+      "wikidata_ids_count": 10,
+      "valid_wikidata_ids": 10,
+      "total_triples": 355,
+      "unique_subjects": 14,
+      "unique_objects": 334,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          62
+        ],
+        [
+          "description",
+          31
+        ],
+        [
+          "core#altLabel",
+          15
+        ]
+      ],
+      "id_stats": {
+        "Q27698115": 50,
+        "Q60416803": 45,
+        "Q33440366": 1,
+        "Q737593": 47,
+        "Q1335064": 50,
+        "Q363729": 50,
+        "Q27712836": 42,
+        "Q361": 50,
+        "Q490194": 50,
+        "Q78438833": 1
+      }
+    },
+    {
+      "entity_name": "John of Gaunt",
+      "wikidata_ids_count": 9,
+      "valid_wikidata_ids": 9,
+      "total_triples": 326,
+      "unique_subjects": 16,
+      "unique_objects": 307,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          40
+        ],
+        [
+          "description",
+          37
+        ],
+        [
+          "core#altLabel",
+          35
+        ]
+      ],
+      "id_stats": {
+        "Q7806363": 21,
+        "Q193752": 50,
+        "Q125547371": 25,
+        "Q2018526": 50,
+        "Q28042995": 50,
+        "Q27711167": 49,
+        "Q184386": 50,
+        "Q259077": 50,
+        "Q127696945": 1
+      }
+    },
+    {
+      "entity_name": "Environmental skepticism",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 117,
+      "unique_subjects": 8,
+      "unique_objects": 107,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          12
+        ],
+        [
+          "P31",
+          11
+        ],
+        [
+          "P3342",
+          6
+        ]
+      ],
+      "id_stats": {
+        "Q1931364": 50,
+        "Q5371679": 32,
+        "Q50810929": 41
+      }
+    },
+    {
+      "entity_name": "Demographics of Tunisia",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 134,
+      "unique_subjects": 5,
+      "unique_objects": 129,
+      "top_predicates": [
+        [
+          "description",
+          55
+        ],
+        [
+          "P463",
+          28
+        ],
+        [
+          "rdf-schema#label",
+          18
+        ]
+      ],
+      "id_stats": {
+        "Q24885347": 6,
+        "Q13955": 50,
+        "Q948": 50,
+        "Q432": 50,
+        "Q60255235": 9
+      }
+    },
+    {
+      "entity_name": "Mao Dun",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 70,
+      "unique_subjects": 4,
+      "unique_objects": 67,
+      "top_predicates": [
+        [
+          "description",
+          3
+        ],
+        [
+          "rdf-schema#label",
+          2
+        ],
+        [
+          "P674",
+          2
+        ]
+      ],
+      "id_stats": {
+        "Q54999768": 21,
+        "Q358494": 50
+      }
+    },
+    {
+      "entity_name": "Norma Shearer",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 144,
+      "unique_subjects": 50,
+      "unique_objects": 96,
+      "top_predicates": [
+        [
+          "description",
+          43
+        ],
+        [
+          "P162",
+          42
+        ],
+        [
+          "P1411",
+          6
+        ]
+      ],
+      "id_stats": {
+        "Q18625": 50,
+        "Q95019": 50,
+        "Q438472": 50
+      }
+    },
+    {
+      "entity_name": "Europium",
+      "wikidata_ids_count": 7,
+      "valid_wikidata_ids": 7,
+      "total_triples": 299,
+      "unique_subjects": 56,
+      "unique_objects": 246,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          80
+        ],
+        [
+          "description",
+          62
+        ],
+        [
+          "P131",
+          50
+        ]
+      ],
+      "id_stats": {
+        "Q211593": 50,
+        "Q712986": 50,
+        "Q283": 50,
+        "Q1396": 50,
+        "Q45621": 50,
+        "Q16870200": 50,
+        "Q318452": 50
+      }
+    },
+    {
+      "entity_name": "George Whitefield",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 70,
+      "unique_subjects": 3,
+      "unique_objects": 67,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          11
+        ],
+        [
+          "description",
+          8
+        ],
+        [
+          "rdf-schema#label",
+          7
+        ]
+      ],
+      "id_stats": {
+        "Q314399": 50,
+        "Q106399892": 35,
+        "Q52405621": 1
+      }
+    },
+    {
+      "entity_name": "European Strategic Programme on Research in Information Technology (ESPRIT)",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 32,
+      "unique_subjects": 3,
+      "unique_objects": 32,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          31
+        ],
+        [
+          "queryService#subgraph",
+          1
+        ]
+      ],
+      "id_stats": {
+        "Q2089": 50,
+        "Q2432": 50,
+        "Q70870959": 1
+      }
+    },
+    {
+      "entity_name": "J. Robert Oppenheimer",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 115,
+      "unique_subjects": 3,
+      "unique_objects": 115,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          41
+        ],
+        [
+          "rdf-schema#label",
+          24
+        ],
+        [
+          "P6262",
+          10
+        ]
+      ],
+      "id_stats": {
+        "Q646691": 50,
+        "Q127050": 50,
+        "Q132537": 50
+      }
+    },
+    {
+      "entity_name": "Broch",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 107,
+      "unique_subjects": 3,
+      "unique_objects": 101,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          12
+        ],
+        [
+          "P106",
+          5
+        ],
+        [
+          "P1343",
+          4
+        ]
+      ],
+      "id_stats": {
+        "Q905": 50,
+        "Q89912817": 50,
+        "Q84150": 50
+      }
+    },
+    {
+      "entity_name": "Pope Gregory XV",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 148,
+      "unique_subjects": 53,
+      "unique_objects": 98,
+      "top_predicates": [
+        [
+          "description",
+          56
+        ],
+        [
+          "P5236",
+          50
+        ],
+        [
+          "rdf-schema#label",
+          34
+        ]
+      ],
+      "id_stats": {
+        "Q132692": 50,
+        "Q12681538": 50,
+        "Q12681533": 50,
+        "Q19083037": 6
+      }
+    },
+    {
+      "entity_name": "Saint Piran",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 210,
+      "unique_subjects": 59,
+      "unique_objects": 151,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          40
+        ],
+        [
+          "P17",
+          30
+        ],
+        [
+          "P1001",
+          23
+        ]
+      ],
+      "id_stats": {
+        "Q73510262": 1,
+        "Q2472762": 50,
+        "Q27": 50,
+        "Q23148": 50,
+        "Q13147845": 50,
+        "Q17341940": 50
+      }
+    },
+    {
+      "entity_name": "Murad IV",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 212,
+      "unique_subjects": 9,
+      "unique_objects": 207,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          119
+        ],
+        [
+          "description",
+          46
+        ],
+        [
+          "P236",
+          4
+        ]
+      ],
+      "id_stats": {
+        "Q433353": 50,
+        "Q1566": 50,
+        "Q15724430": 50,
+        "Q8486": 50,
+        "Q174762": 50
+      }
+    },
+    {
+      "entity_name": "Electronvolt",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 187,
+      "unique_subjects": 54,
+      "unique_objects": 136,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          61
+        ],
+        [
+          "ontology#quantityUnit",
+          50
+        ],
+        [
+          "core#altLabel",
+          40
+        ]
+      ],
+      "id_stats": {
+        "Q83327": 50,
+        "Q68466606": 1,
+        "Q11379": 50,
+        "Q413": 50,
+        "Q177013": 50
+      }
+    },
+    {
+      "entity_name": "MacGuffin",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 224,
+      "unique_subjects": 5,
+      "unique_objects": 214,
+      "top_predicates": [
+        [
+          "description",
+          67
+        ],
+        [
+          "rdf-schema#label",
+          45
+        ],
+        [
+          "core#altLabel",
+          25
+        ]
+      ],
+      "id_stats": {
+        "Q18157467": 50,
+        "Q215972": 50,
+        "Q113666213": 42,
+        "Q124067686": 50,
+        "Q1969448": 50
+      }
+    },
+    {
+      "entity_name": "Battle of Monte Cassino",
+      "wikidata_ids_count": 8,
+      "valid_wikidata_ids": 8,
+      "total_triples": 328,
+      "unique_subjects": 10,
+      "unique_objects": 315,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          111
+        ],
+        [
+          "description",
+          80
+        ],
+        [
+          "core#altLabel",
+          50
+        ]
+      ],
+      "id_stats": {
+        "Q4969985": 32,
+        "Q477986": 50,
+        "Q7209909": 31,
+        "Q44613": 50,
+        "Q335288": 50,
+        "Q464570": 50,
+        "Q65097022": 50,
+        "Q3957": 50
+      }
+    },
+    {
+      "entity_name": "Metis (mythology)",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 182,
+      "unique_subjects": 38,
+      "unique_objects": 144,
+      "top_predicates": [
+        [
+          "P171",
+          30
+        ],
+        [
+          "description",
+          28
+        ],
+        [
+          "P40",
+          11
+        ]
+      ],
+      "id_stats": {
+        "Q1960850": 50,
+        "Q10583162": 50,
+        "Q16419987": 50,
+        "Q44204": 50
+      }
+    },
+    {
+      "entity_name": "Bioterrorism",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 129,
+      "unique_subjects": 8,
+      "unique_objects": 121,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          49
+        ],
+        [
+          "P646",
+          6
+        ],
+        [
+          "P2892",
+          4
+        ]
+      ],
+      "id_stats": {
+        "Q16142045": 30,
+        "Q16502": 50,
+        "Q50905360": 1,
+        "Q5280346": 9,
+        "Q854975": 50
+      }
+    },
+    {
+      "entity_name": "Racing de Ferrol",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 178,
+      "unique_subjects": 53,
+      "unique_objects": 125,
+      "top_predicates": [
+        [
+          "P54",
+          46
+        ],
+        [
+          "P1082",
+          19
+        ],
+        [
+          "P527",
+          10
+        ]
+      ],
+      "id_stats": {
+        "Q11984": 50,
+        "Q2157": 50,
+        "Q843396": 49,
+        "Q3908": 50
+      }
+    },
+    {
+      "entity_name": "Thermonuclear fusion",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 125,
+      "unique_subjects": 14,
+      "unique_objects": 112,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          39
+        ],
+        [
+          "core#altLabel",
+          22
+        ],
+        [
+          "description",
+          12
+        ]
+      ],
+      "id_stats": {
+        "Q7783221": 50,
+        "Q101052016": 27,
+        "Q35994644": 1,
+        "Q523": 0,
+        "Q67877038": 1,
+        "Q466603": 50
+      }
+    },
+    {
+      "entity_name": "Lethe",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 197,
+      "unique_subjects": 105,
+      "unique_objects": 95,
+      "top_predicates": [
+        [
+          "P171",
+          50
+        ],
+        [
+          "core#altLabel",
+          50
+        ],
+        [
+          "P921",
+          30
+        ]
+      ],
+      "id_stats": {
+        "Q768932": 50,
+        "Q115161028": 50,
+        "Q19031788": 12,
+        "Q4": 50,
+        "Q3989783": 43
+      }
+    },
+    {
+      "entity_name": "Demographics of Palau",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 150,
+      "unique_subjects": 5,
+      "unique_objects": 146,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          86
+        ],
+        [
+          "rdf-schema#label",
+          7
+        ],
+        [
+          "P1343",
+          3
+        ]
+      ],
+      "id_stats": {
+        "Q18001597": 0,
+        "Q91013007": 50,
+        "Q159810": 50,
+        "Q135397179": 1,
+        "Q33829": 50,
+        "Q695": 50
+      }
+    },
+    {
+      "entity_name": "Freeroll",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 59,
+      "unique_subjects": 2,
+      "unique_objects": 55,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          26
+        ],
+        [
+          "rdf-schema#label",
+          21
+        ],
+        [
+          "P646",
+          2
+        ]
+      ],
+      "id_stats": {
+        "Q2635836": 22,
+        "Q80131": 50
+      }
+    },
+    {
+      "entity_name": "MeatballWiki",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 89,
+      "unique_subjects": 9,
+      "unique_objects": 79,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          13
+        ],
+        [
+          "description",
+          9
+        ],
+        [
+          "core#altLabel",
+          8
+        ]
+      ],
+      "id_stats": {
+        "Q1985": 50,
+        "Q9348157": 48,
+        "Q1632463": 43,
+        "Q66710458": 1
+      }
+    },
+    {
+      "entity_name": "Ambrosians",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 72,
+      "unique_subjects": 5,
+      "unique_objects": 67,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          25
+        ],
+        [
+          "core#altLabel",
+          25
+        ],
+        [
+          "P646",
+          2
+        ]
+      ],
+      "id_stats": {
+        "Q3885412": 31,
+        "Q43689": 50,
+        "Q38": 0
+      }
+    },
+    {
+      "entity_name": "Ahitophel",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 46,
+      "unique_subjects": 2,
+      "unique_objects": 45,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          45
+        ],
+        [
+          "core#altLabel",
+          1
+        ]
+      ],
+      "id_stats": {
+        "Q8027410": 50,
+        "Q10737": 50
+      }
+    },
+    {
+      "entity_name": "Samuel D. Waksal",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 130,
+      "unique_subjects": 59,
+      "unique_objects": 74,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          42
+        ],
+        [
+          "P1399",
+          37
+        ],
+        [
+          "P921",
+          7
+        ]
+      ],
+      "id_stats": {
+        "Q854623": 50,
+        "Q1986": 50,
+        "Q7411220": 50,
+        "Q1996": 50
+      }
+    },
+    {
+      "entity_name": "Emperor Ninken",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 51,
+      "unique_subjects": 18,
+      "unique_objects": 35,
+      "top_predicates": [
+        [
+          "P40",
+          7
+        ],
+        [
+          "P26",
+          5
+        ],
+        [
+          "P22",
+          4
+        ]
+      ],
+      "id_stats": {
+        "Q56660028": 1,
+        "Q357266": 50
+      }
+    },
+    {
+      "entity_name": "Titulus Regius",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 55,
+      "unique_subjects": 2,
+      "unique_objects": 51,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          28
+        ],
+        [
+          "description",
+          11
+        ],
+        [
+          "core#altLabel",
+          4
+        ]
+      ],
+      "id_stats": {
+        "Q1432839": 28,
+        "Q223893": 50
+      }
+    },
+    {
+      "entity_name": "Androphagi",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 76,
+      "unique_subjects": 8,
+      "unique_objects": 69,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          13
+        ],
+        [
+          "description",
+          8
+        ],
+        [
+          "P1343",
+          8
+        ]
+      ],
+      "id_stats": {
+        "Q2986876": 47,
+        "Q102264775": 44
+      }
+    },
+    {
+      "entity_name": "Thyine wood",
+      "wikidata_ids_count": 9,
+      "valid_wikidata_ids": 9,
+      "total_triples": 325,
+      "unique_subjects": 158,
+      "unique_objects": 164,
+      "top_predicates": [
+        [
+          "P5841",
+          50
+        ],
+        [
+          "rdf-schema#label",
+          37
+        ],
+        [
+          "core#altLabel",
+          35
+        ]
+      ],
+      "id_stats": {
+        "Q72499": 50,
+        "Q14745": 50,
+        "Q918555": 50,
+        "Q816871": 50,
+        "Q111806796": 43,
+        "Q56660246": 50,
+        "Q5047575": 25,
+        "Q7799595": 9,
+        "Q123331381": 24
+      }
+    },
+    {
+      "entity_name": "Teichoscopy",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 65,
+      "unique_subjects": 9,
+      "unique_objects": 53,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          8
+        ],
+        [
+          "description",
+          4
+        ],
+        [
+          "P50",
+          4
+        ]
+      ],
+      "id_stats": {
+        "Q1372563": 20,
+        "Q136085397": 28,
+        "Q132198778": 18
+      }
+    },
+    {
+      "entity_name": "Battle of Lesnaya",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 184,
+      "unique_subjects": 22,
+      "unique_objects": 165,
+      "top_predicates": [
+        [
+          "description",
+          38
+        ],
+        [
+          "rdf-schema#label",
+          27
+        ],
+        [
+          "P710",
+          12
+        ]
+      ],
+      "id_stats": {
+        "Q151616": 50,
+        "Q166015": 50,
+        "Q111025871": 50,
+        "Q2492012": 49
+      }
+    },
+    {
+      "entity_name": "Trofim Lysenko",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 157,
+      "unique_subjects": 9,
+      "unique_objects": 150,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          52
+        ],
+        [
+          "description",
+          12
+        ],
+        [
+          "P551",
+          6
+        ]
+      ],
+      "id_stats": {
+        "Q37466435": 50,
+        "Q71908045": 1,
+        "Q294234": 50,
+        "Q107226371": 44,
+        "Q15180": 50
+      }
+    },
+    {
+      "entity_name": "Mantophasmatidae",
+      "wikidata_ids_count": 7,
+      "valid_wikidata_ids": 7,
+      "total_triples": 189,
+      "unique_subjects": 28,
+      "unique_objects": 168,
+      "top_predicates": [
+        [
+          "description",
+          91
+        ],
+        [
+          "P171",
+          16
+        ],
+        [
+          "core#altLabel",
+          15
+        ]
+      ],
+      "id_stats": {
+        "Q1987": 50,
+        "Q1390": 50,
+        "Q28661064": 1,
+        "Q15": 50,
+        "Q55067082": 1,
+        "Q13560459": 50,
+        "Q50933394": 50
+      }
+    },
+    {
+      "entity_name": "Eskimo bowline",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 118,
+      "unique_subjects": 6,
+      "unique_objects": 111,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          22
+        ],
+        [
+          "core#altLabel",
+          22
+        ],
+        [
+          "description",
+          19
+        ]
+      ],
+      "id_stats": {
+        "Q4657606": 29,
+        "Q4532732": 20,
+        "Q122948080": 24,
+        "Q753705": 50
+      }
+    },
+    {
+      "entity_name": "John Frederick, Margrave of Brandenburg-Ansbach",
+      "wikidata_ids_count": 1,
+      "valid_wikidata_ids": 1,
+      "total_triples": 50,
+      "unique_subjects": 1,
+      "unique_objects": 50,
+      "top_predicates": [
+        [
+          "P648",
+          7
+        ],
+        [
+          "P742",
+          7
+        ],
+        [
+          "P691",
+          5
+        ]
+      ],
+      "id_stats": {
+        "Q1378188": 50
+      }
+    },
+    {
+      "entity_name": "Abihud",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 138,
+      "unique_subjects": 3,
+      "unique_objects": 136,
+      "top_predicates": [
+        [
+          "description",
+          48
+        ],
+        [
+          "rdf-schema#label",
+          6
+        ],
+        [
+          "P4282",
+          4
+        ]
+      ],
+      "id_stats": {
+        "Q1194691": 50,
+        "Q321170": 50,
+        "Q88542508": 50
+      }
+    },
+    {
+      "entity_name": "Johann Mühlegg",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 130,
+      "unique_subjects": 3,
+      "unique_objects": 129,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          41
+        ],
+        [
+          "P682",
+          34
+        ],
+        [
+          "rdf-schema#label",
+          15
+        ]
+      ],
+      "id_stats": {
+        "Q702885": 50,
+        "Q130949": 50,
+        "Q218706": 50,
+        "Q29": 0
+      }
+    },
+    {
+      "entity_name": "Eusko Abendaren Ereserkia",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 193,
+      "unique_subjects": 122,
+      "unique_objects": 73,
+      "top_predicates": [
+        [
+          "language",
+          50
+        ],
+        [
+          "P607",
+          49
+        ],
+        [
+          "core#altLabel",
+          12
+        ]
+      ],
+      "id_stats": {
+        "Q20977956": 50,
+        "Q8752": 50,
+        "Q10859": 50,
+        "Q876581": 50
+      }
+    },
+    {
+      "entity_name": "Æthelbald, King of Wessex",
+      "wikidata_ids_count": 9,
+      "valid_wikidata_ids": 9,
+      "total_triples": 365,
+      "unique_subjects": 13,
+      "unique_objects": 310,
+      "top_predicates": [
+        [
+          "description",
+          120
+        ],
+        [
+          "rdf-schema#label",
+          13
+        ],
+        [
+          "core#altLabel",
+          11
+        ]
+      ],
+      "id_stats": {
+        "Q78039897": 50,
+        "Q1492412": 50,
+        "Q99550477": 50,
+        "Q128599359": 22,
+        "Q78039840": 50,
+        "Q1492421": 50,
+        "Q429927": 50,
+        "Q78039618": 50,
+        "Q272326": 50
+      }
+    },
+    {
+      "entity_name": "Karl Gottlob Zumpt",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 83,
+      "unique_subjects": 51,
+      "unique_objects": 33,
+      "top_predicates": [
+        [
+          "P1343",
+          20
+        ],
+        [
+          "P248",
+          11
+        ],
+        [
+          "P144",
+          6
+        ]
+      ],
+      "id_stats": {
+        "Q1155892": 50,
+        "Q69294": 50
+      }
+    },
+    {
+      "entity_name": "William McCrea (astronomer)",
+      "wikidata_ids_count": 1,
+      "valid_wikidata_ids": 1,
+      "total_triples": 49,
+      "unique_subjects": 1,
+      "unique_objects": 49,
+      "top_predicates": [
+        [
+          "P3602",
+          10
+        ],
+        [
+          "P5297",
+          4
+        ],
+        [
+          "P735",
+          3
+        ]
+      ],
+      "id_stats": {
+        "Q694775": 50
+      }
+    },
+    {
+      "entity_name": "Aesacus",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 119,
+      "unique_subjects": 23,
+      "unique_objects": 95,
+      "top_predicates": [
+        [
+          "description",
+          21
+        ],
+        [
+          "rdf-schema#label",
+          7
+        ],
+        [
+          "P40",
+          6
+        ]
+      ],
+      "id_stats": {
+        "Q21442226": 50,
+        "Q409520": 50,
+        "Q19833793": 50
+      }
+    },
+    {
+      "entity_name": "Franco Rasetti",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 86,
+      "unique_subjects": 3,
+      "unique_objects": 84,
+      "top_predicates": [
+        [
+          "description",
+          11
+        ],
+        [
+          "core#altLabel",
+          11
+        ],
+        [
+          "rdf-schema#label",
+          8
+        ]
+      ],
+      "id_stats": {
+        "Q136277375": 12,
+        "Q67590753": 33,
+        "Q1249138": 50
+      }
+    },
+    {
+      "entity_name": "Abel-meholah",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 265,
+      "unique_subjects": 54,
+      "unique_objects": 215,
+      "top_predicates": [
+        [
+          "P527",
+          28
+        ],
+        [
+          "P1441",
+          27
+        ],
+        [
+          "rdf-schema#label",
+          14
+        ]
+      ],
+      "id_stats": {
+        "Q1194691": 50,
+        "Q17354853": 50,
+        "Q100301772": 20,
+        "Q81240": 50,
+        "Q4666524": 50,
+        "Q209746": 50
+      }
+    },
+    {
+      "entity_name": "Ammonius Hermiae",
+      "wikidata_ids_count": 7,
+      "valid_wikidata_ids": 7,
+      "total_triples": 232,
+      "unique_subjects": 7,
+      "unique_objects": 227,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          45
+        ],
+        [
+          "rdf-schema#label",
+          30
+        ],
+        [
+          "description",
+          26
+        ]
+      ],
+      "id_stats": {
+        "Q271809": 50,
+        "Q55429831": 50,
+        "Q317632": 50,
+        "Q59735887": 1,
+        "Q123147": 50,
+        "Q87": 50,
+        "Q104376927": 50
+      }
+    },
+    {
+      "entity_name": "Nikolai Kuznetsov (admiral)",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 168,
+      "unique_subjects": 6,
+      "unique_objects": 167,
+      "top_predicates": [
+        [
+          "description",
+          58
+        ],
+        [
+          "rdf-schema#label",
+          49
+        ],
+        [
+          "P166",
+          16
+        ]
+      ],
+      "id_stats": {
+        "Q2478": 50,
+        "Q3696": 50,
+        "Q362": 50,
+        "Q342462": 50,
+        "Q136267922": 12,
+        "Q129468364": 1
+      }
+    },
+    {
+      "entity_name": "Mobilian Jargon",
+      "wikidata_ids_count": 9,
+      "valid_wikidata_ids": 9,
+      "total_triples": 263,
+      "unique_subjects": 25,
+      "unique_objects": 241,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          52
+        ],
+        [
+          "description",
+          40
+        ],
+        [
+          "P407",
+          9
+        ]
+      ],
+      "id_stats": {
+        "Q63694178": 1,
+        "Q135072403": 50,
+        "Q72003548": 43,
+        "Q11024": 50,
+        "Q135676972": 9,
+        "Q13333": 50,
+        "Q601401": 50,
+        "Q131297589": 1,
+        "Q116280647": 22
+      }
+    },
+    {
+      "entity_name": "Berengaria of Navarre",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 98,
+      "unique_subjects": 2,
+      "unique_objects": 96,
+      "top_predicates": [
+        [
+          "P1412",
+          4
+        ],
+        [
+          "P569",
+          4
+        ],
+        [
+          "rdf-schema#label",
+          3
+        ]
+      ],
+      "id_stats": {
+        "Q9073803": 50,
+        "Q229807": 50
+      }
+    },
+    {
+      "entity_name": "Tyropoeon Valley",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 142,
+      "unique_subjects": 53,
+      "unique_objects": 92,
+      "top_predicates": [
+        [
+          "P276",
+          20
+        ],
+        [
+          "P915",
+          16
+        ],
+        [
+          "rdf-schema#label",
+          14
+        ]
+      ],
+      "id_stats": {
+        "Q2914844": 43,
+        "Q54621564": 50,
+        "Q213274": 50,
+        "Q64371405": 1
+      }
+    },
+    {
+      "entity_name": "Intercharacter interval",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 60,
+      "unique_subjects": 4,
+      "unique_objects": 57,
+      "top_predicates": [
+        [
+          "P1482",
+          6
+        ],
+        [
+          "P10565",
+          5
+        ],
+        [
+          "P646",
+          3
+        ]
+      ],
+      "id_stats": {
+        "Q6045719": 9,
+        "Q50453683": 1,
+        "Q189436": 50,
+        "Q28729044": 1
+      }
+    },
+    {
+      "entity_name": "Epicaste",
+      "wikidata_ids_count": 8,
+      "valid_wikidata_ids": 8,
+      "total_triples": 296,
+      "unique_subjects": 16,
+      "unique_objects": 274,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          72
+        ],
+        [
+          "rdf-schema#label",
+          47
+        ],
+        [
+          "P1411",
+          13
+        ]
+      ],
+      "id_stats": {
+        "Q1615469": 45,
+        "Q18086706": 50,
+        "Q130890": 50,
+        "Q107561603": 32,
+        "Q131445": 50,
+        "Q10737": 50,
+        "Q34726": 50,
+        "Q35236713": 1
+      }
+    },
+    {
+      "entity_name": "Pelagius of Asturias",
+      "wikidata_ids_count": 1,
+      "valid_wikidata_ids": 1,
+      "total_triples": 50,
+      "unique_subjects": 1,
+      "unique_objects": 49,
+      "top_predicates": [
+        [
+          "P8081",
+          4
+        ],
+        [
+          "P13049",
+          2
+        ],
+        [
+          "P8636",
+          2
+        ]
+      ],
+      "id_stats": {
+        "Q14655": 50
+      }
+    },
+    {
+      "entity_name": "Secure cryptoprocessor",
+      "wikidata_ids_count": 1,
+      "valid_wikidata_ids": 1,
+      "total_triples": 49,
+      "unique_subjects": 1,
+      "unique_objects": 49,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          14
+        ],
+        [
+          "core#altLabel",
+          13
+        ],
+        [
+          "description",
+          5
+        ]
+      ],
+      "id_stats": {
+        "Q3698833": 50
+      }
+    },
+    {
+      "entity_name": "Podkayne of Mars",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 120,
+      "unique_subjects": 5,
+      "unique_objects": 117,
+      "top_predicates": [
+        [
+          "description",
+          25
+        ],
+        [
+          "rdf-schema#label",
+          24
+        ],
+        [
+          "P527",
+          9
+        ]
+      ],
+      "id_stats": {
+        "Q1194198": 50,
+        "Q2755": 50,
+        "Q3393084": 50
+      }
+    },
+    {
+      "entity_name": "Maximilian II Emanuel, Elector of Bavaria",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 186,
+      "unique_subjects": 47,
+      "unique_objects": 126,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          27
+        ],
+        [
+          "core#altLabel",
+          18
+        ],
+        [
+          "P276",
+          16
+        ]
+      ],
+      "id_stats": {
+        "Q131631": 50,
+        "Q57628": 50,
+        "Q57492542": 1,
+        "Q19241371": 50,
+        "Q6852241": 32,
+        "Q12681590": 50
+      }
+    },
+    {
+      "entity_name": "Alcippe (mythology)",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 194,
+      "unique_subjects": 12,
+      "unique_objects": 182,
+      "top_predicates": [
+        [
+          "P40",
+          56
+        ],
+        [
+          "description",
+          52
+        ],
+        [
+          "rdf-schema#label",
+          9
+        ]
+      ],
+      "id_stats": {
+        "Q583659": 50,
+        "Q37103552": 50,
+        "Q41127": 50,
+        "Q592348": 50
+      }
+    },
+    {
+      "entity_name": "Bartholomaeus Nigrinus",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 138,
+      "unique_subjects": 6,
+      "unique_objects": 136,
+      "top_predicates": [
+        [
+          "description",
+          67
+        ],
+        [
+          "rdf-schema#label",
+          27
+        ],
+        [
+          "core#altLabel",
+          7
+        ]
+      ],
+      "id_stats": {
+        "Q111644903": 50,
+        "Q58574770": 1,
+        "Q9554": 50,
+        "Q4865210": 50,
+        "Q18670572": 50
+      }
+    },
+    {
+      "entity_name": "Chaitin's constant",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 134,
+      "unique_subjects": 3,
+      "unique_objects": 131,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          71
+        ],
+        [
+          "description",
+          21
+        ],
+        [
+          "rdf-schema#label",
+          21
+        ]
+      ],
+      "id_stats": {
+        "Q735775": 50,
+        "Q200787": 50,
+        "Q930837": 50
+      }
+    },
+    {
+      "entity_name": "Emperor Ōjin",
+      "wikidata_ids_count": 1,
+      "valid_wikidata_ids": 1,
+      "total_triples": 50,
+      "unique_subjects": 1,
+      "unique_objects": 50,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          19
+        ],
+        [
+          "P40",
+          8
+        ],
+        [
+          "P26",
+          5
+        ]
+      ],
+      "id_stats": {
+        "Q317997": 50
+      }
+    },
+    {
+      "entity_name": "SECD machine",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 186,
+      "unique_subjects": 10,
+      "unique_objects": 173,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          44
+        ],
+        [
+          "description",
+          14
+        ],
+        [
+          "core#altLabel",
+          14
+        ]
+      ],
+      "id_stats": {
+        "Q954312": 29,
+        "Q92952": 50,
+        "Q192726": 50,
+        "Q109969166": 34,
+        "Q34644": 50
+      }
+    },
+    {
+      "entity_name": "Gödel's completeness theorem",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 99,
+      "unique_subjects": 2,
+      "unique_objects": 98,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          33
+        ],
+        [
+          "description",
+          7
+        ],
+        [
+          "rdf-schema#label",
+          6
+        ]
+      ],
+      "id_stats": {
+        "Q902052": 50,
+        "Q2684591": 50
+      }
+    },
+    {
+      "entity_name": "Battle of Naissus",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 184,
+      "unique_subjects": 10,
+      "unique_objects": 172,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          52
+        ],
+        [
+          "rdf-schema#label",
+          38
+        ],
+        [
+          "description",
+          8
+        ]
+      ],
+      "id_stats": {
+        "Q81176": 50,
+        "Q1114493": 50,
+        "Q114522678": 37,
+        "Q929265": 50
+      }
+    },
+    {
+      "entity_name": "Versatackle knot",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 122,
+      "unique_subjects": 60,
+      "unique_objects": 62,
+      "top_predicates": [
+        [
+          "ontology#quantityUnit",
+          50
+        ],
+        [
+          "P1889",
+          7
+        ],
+        [
+          "rdf-schema#label",
+          5
+        ]
+      ],
+      "id_stats": {
+        "Q102318452": 50,
+        "Q3347333": 23,
+        "Q128822": 50,
+        "Q58982446": 1
+      }
+    },
+    {
+      "entity_name": "Cape Dezhnev",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 148,
+      "unique_subjects": 3,
+      "unique_objects": 145,
+      "top_predicates": [
+        [
+          "P1343",
+          11
+        ],
+        [
+          "P1082",
+          8
+        ],
+        [
+          "core#altLabel",
+          7
+        ]
+      ],
+      "id_stats": {
+        "Q4415735": 50,
+        "Q581926": 49,
+        "Q650495": 49
+      }
+    },
+    {
+      "entity_name": "Eunomius of Cyzicus",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 148,
+      "unique_subjects": 3,
+      "unique_objects": 146,
+      "top_predicates": [
+        [
+          "description",
+          29
+        ],
+        [
+          "rdf-schema#label",
+          13
+        ],
+        [
+          "P1343",
+          5
+        ]
+      ],
+      "id_stats": {
+        "Q452225": 50,
+        "Q52212552": 50,
+        "Q16442": 50
+      }
+    },
+    {
+      "entity_name": "Knowbot",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 91,
+      "unique_subjects": 29,
+      "unique_objects": 63,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          37
+        ],
+        [
+          "P366",
+          16
+        ],
+        [
+          "description",
+          5
+        ]
+      ],
+      "id_stats": {
+        "Q6423196": 9,
+        "Q46571893": 1,
+        "Q69413680": 1,
+        "Q61466324": 45,
+        "Q172491": 50
+      }
+    },
+    {
+      "entity_name": "Indriidae",
+      "wikidata_ids_count": 15,
+      "valid_wikidata_ids": 15,
+      "total_triples": 534,
+      "unique_subjects": 132,
+      "unique_objects": 410,
+      "top_predicates": [
+        [
+          "description",
+          85
+        ],
+        [
+          "rdf-schema#label",
+          59
+        ],
+        [
+          "core#altLabel",
+          57
+        ]
+      ],
+      "id_stats": {
+        "Q125818398": 27,
+        "Q552431": 50,
+        "Q22183": 50,
+        "Q33971": 50,
+        "Q3314483": 50,
+        "Q506": 50,
+        "Q122370439": 50,
+        "Q19816385": 50,
+        "Q677608": 50,
+        "Q7380": 50,
+        "Q1019": 50,
+        "Q56660246": 50,
+        "Q48508203": 1,
+        "Q175626": 50,
+        "Q60331464": 1
+      }
+    },
+    {
+      "entity_name": "Trillium chloropetalum",
+      "wikidata_ids_count": 10,
+      "valid_wikidata_ids": 10,
+      "total_triples": 330,
+      "unique_subjects": 127,
+      "unique_objects": 202,
+      "top_predicates": [
+        [
+          "P921",
+          47
+        ],
+        [
+          "core#altLabel",
+          22
+        ],
+        [
+          "description",
+          20
+        ]
+      ],
+      "id_stats": {
+        "Q3062172": 50,
+        "Q36725991": 1,
+        "Q20511173": 50,
+        "Q70681138": 1,
+        "Q25314": 50,
+        "Q48803": 50,
+        "Q112931170": 1,
+        "Q16083316": 48,
+        "Q771035": 50,
+        "Q106993358": 34
+      }
+    },
+    {
+      "entity_name": "Lincos language",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 162,
+      "unique_subjects": 25,
+      "unique_objects": 137,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          20
+        ],
+        [
+          "P921",
+          12
+        ],
+        [
+          "P185",
+          11
+        ]
+      ],
+      "id_stats": {
+        "Q77506": 50,
+        "Q15206825": 50,
+        "Q135798633": 33,
+        "Q676619": 50
+      }
+    },
+    {
+      "entity_name": "Isaac Abendana",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 92,
+      "unique_subjects": 13,
+      "unique_objects": 82,
+      "top_predicates": [
+        [
+          "description",
+          45
+        ],
+        [
+          "P921",
+          6
+        ],
+        [
+          "P1343",
+          4
+        ]
+      ],
+      "id_stats": {
+        "Q10303764": 50,
+        "Q5152384": 50
+      }
+    },
+    {
+      "entity_name": "Breviary of Alaric",
+      "wikidata_ids_count": 7,
+      "valid_wikidata_ids": 7,
+      "total_triples": 316,
+      "unique_subjects": 129,
+      "unique_objects": 161,
+      "top_predicates": [
+        [
+          "language",
+          50
+        ],
+        [
+          "description",
+          35
+        ],
+        [
+          "rdf-schema#label",
+          27
+        ]
+      ],
+      "id_stats": {
+        "Q22953238": 50,
+        "Q110884": 50,
+        "Q943866": 50,
+        "Q126936": 50,
+        "Q4300": 50,
+        "Q397": 50,
+        "Q27074311": 50
+      }
+    },
+    {
+      "entity_name": "Draco (lawgiver)",
+      "wikidata_ids_count": 1,
+      "valid_wikidata_ids": 1,
+      "total_triples": 47,
+      "unique_subjects": 1,
+      "unique_objects": 44,
+      "top_predicates": [
+        [
+          "P1343",
+          3
+        ],
+        [
+          "P8885",
+          2
+        ],
+        [
+          "P2924",
+          2
+        ]
+      ],
+      "id_stats": {
+        "Q8675": 50
+      }
+    },
+    {
+      "entity_name": "Sprague–Grundy theorem",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 181,
+      "unique_subjects": 11,
+      "unique_objects": 169,
+      "top_predicates": [
+        [
+          "description",
+          54
+        ],
+        [
+          "rdf-schema#label",
+          42
+        ],
+        [
+          "core#altLabel",
+          6
+        ]
+      ],
+      "id_stats": {
+        "Q2289490": 34,
+        "Q2392819": 44,
+        "Q65943": 50,
+        "Q7329189": 50,
+        "Q3897737": 50
+      }
+    },
+    {
+      "entity_name": "Intercalation (timekeeping)",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 166,
+      "unique_subjects": 5,
+      "unique_objects": 160,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          21
+        ],
+        [
+          "description",
+          13
+        ],
+        [
+          "core#altLabel",
+          10
+        ]
+      ],
+      "id_stats": {
+        "Q1225911": 50,
+        "Q27329080": 1,
+        "Q19828": 50,
+        "Q17532715": 25,
+        "Q64359928": 44
+      }
+    },
+    {
+      "entity_name": "List of Aragonese monarchs",
+      "wikidata_ids_count": 7,
+      "valid_wikidata_ids": 7,
+      "total_triples": 278,
+      "unique_subjects": 7,
+      "unique_objects": 269,
+      "top_predicates": [
+        [
+          "description",
+          52
+        ],
+        [
+          "rdf-schema#label",
+          35
+        ],
+        [
+          "P31",
+          11
+        ]
+      ],
+      "id_stats": {
+        "Q2993567": 50,
+        "Q199442": 50,
+        "Q6370925": 50,
+        "Q628624": 50,
+        "Q73713546": 1,
+        "Q8479": 50,
+        "Q238179": 50
+      }
+    },
+    {
+      "entity_name": "Didymus Chalcenterus",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 95,
+      "unique_subjects": 2,
+      "unique_objects": 92,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          29
+        ],
+        [
+          "rdf-schema#label",
+          16
+        ],
+        [
+          "P1343",
+          6
+        ]
+      ],
+      "id_stats": {
+        "Q506540": 50,
+        "Q87": 50
+      }
+    },
+    {
+      "entity_name": "Temple Mount and Eretz Yisrael Faithful Movement",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 224,
+      "unique_subjects": 5,
+      "unique_objects": 221,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          80
+        ],
+        [
+          "core#altLabel",
+          60
+        ],
+        [
+          "description",
+          43
+        ]
+      ],
+      "id_stats": {
+        "Q37040100": 50,
+        "Q193163": 50,
+        "Q47740": 50,
+        "Q201190": 50,
+        "Q106039": 50
+      }
+    },
+    {
+      "entity_name": "Dekker's algorithm",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 151,
+      "unique_subjects": 13,
+      "unique_objects": 134,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          30
+        ],
+        [
+          "core#altLabel",
+          22
+        ],
+        [
+          "description",
+          12
+        ]
+      ],
+      "id_stats": {
+        "Q76345413": 32,
+        "Q1183654": 37,
+        "Q128209459": 1,
+        "Q423003": 50,
+        "Q47481399": 41
+      }
+    },
+    {
+      "entity_name": "Lucius Cornelius Cinna",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 184,
+      "unique_subjects": 4,
+      "unique_objects": 183,
+      "top_predicates": [
+        [
+          "description",
+          49
+        ],
+        [
+          "rdf-schema#label",
+          34
+        ],
+        [
+          "P1343",
+          10
+        ]
+      ],
+      "id_stats": {
+        "Q41141": 50,
+        "Q171083": 50,
+        "Q900406": 50,
+        "Q177975": 50
+      }
+    },
+    {
+      "entity_name": "Robert Bylot",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 145,
+      "unique_subjects": 9,
+      "unique_objects": 138,
+      "top_predicates": [
+        [
+          "P1343",
+          16
+        ],
+        [
+          "description",
+          4
+        ],
+        [
+          "core#altLabel",
+          4
+        ]
+      ],
+      "id_stats": {
+        "Q654591": 50,
+        "Q55807": 50,
+        "Q179167": 50
+      }
+    },
+    {
+      "entity_name": "Adûnaic",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 232,
+      "unique_subjects": 150,
+      "unique_objects": 83,
+      "top_predicates": [
+        [
+          "P172",
+          50
+        ],
+        [
+          "rdf-schema#label",
+          31
+        ],
+        [
+          "description",
+          26
+        ]
+      ],
+      "id_stats": {
+        "Q892": 50,
+        "Q79734": 50,
+        "Q211686": 50,
+        "Q4327996": 50,
+        "Q1750889": 50
+      }
+    },
+    {
+      "entity_name": "Emperor Go-Kameyama",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 118,
+      "unique_subjects": 3,
+      "unique_objects": 116,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          21
+        ],
+        [
+          "description",
+          19
+        ],
+        [
+          "P3373",
+          11
+        ]
+      ],
+      "id_stats": {
+        "Q451864": 50,
+        "Q3001082": 50,
+        "Q13634771": 50
+      }
+    },
+    {
+      "entity_name": "Emperor Sutoku",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 254,
+      "unique_subjects": 6,
+      "unique_objects": 250,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          19
+        ],
+        [
+          "description",
+          11
+        ],
+        [
+          "P527",
+          6
+        ]
+      ],
+      "id_stats": {
+        "Q214092": 50,
+        "Q929682": 50,
+        "Q482": 50,
+        "Q12681252": 50,
+        "Q349287": 50,
+        "Q122822404": 50
+      }
+    },
+    {
+      "entity_name": "Futurians",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 147,
+      "unique_subjects": 4,
+      "unique_objects": 146,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          16
+        ],
+        [
+          "description",
+          13
+        ],
+        [
+          "P166",
+          10
+        ]
+      ],
+      "id_stats": {
+        "Q34981": 50,
+        "Q16249658": 37,
+        "Q312641": 50,
+        "Q534599": 50
+      }
+    },
+    {
+      "entity_name": "Turing tarpit",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 198,
+      "unique_subjects": 7,
+      "unique_objects": 192,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          18
+        ],
+        [
+          "description",
+          12
+        ],
+        [
+          "core#altLabel",
+          8
+        ]
+      ],
+      "id_stats": {
+        "Q4467269": 38,
+        "Q1354917": 50,
+        "Q59416346": 28,
+        "Q21198": 50,
+        "Q7251": 50
+      }
+    },
+    {
+      "entity_name": "Educational perennialism",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 73,
+      "unique_subjects": 4,
+      "unique_objects": 70,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          49
+        ],
+        [
+          "rdf-schema#label",
+          10
+        ],
+        [
+          "description",
+          3
+        ]
+      ],
+      "id_stats": {
+        "Q48282": 50,
+        "Q847040": 27
+      }
+    },
+    {
+      "entity_name": "Ruslan Khasbulatov",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 96,
+      "unique_subjects": 2,
+      "unique_objects": 96,
+      "top_predicates": [
+        [
+          "description",
+          27
+        ],
+        [
+          "rdf-schema#label",
+          20
+        ],
+        [
+          "core#altLabel",
+          17
+        ]
+      ],
+      "id_stats": {
+        "Q7163": 50,
+        "Q537251": 50
+      }
+    },
+    {
+      "entity_name": "Photios I of Constantinople",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 121,
+      "unique_subjects": 55,
+      "unique_objects": 71,
+      "top_predicates": [
+        [
+          "P5236",
+          50
+        ],
+        [
+          "rdf-schema#label",
+          42
+        ],
+        [
+          "description",
+          22
+        ]
+      ],
+      "id_stats": {
+        "Q1492412": 50,
+        "Q1492435": 50,
+        "Q408644": 50,
+        "Q851482": 50,
+        "Q1416658": 50
+      }
+    },
+    {
+      "entity_name": "LambdaMOO",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 152,
+      "unique_subjects": 6,
+      "unique_objects": 146,
+      "top_predicates": [
+        [
+          "description",
+          29
+        ],
+        [
+          "rdf-schema#label",
+          20
+        ],
+        [
+          "P31",
+          4
+        ]
+      ],
+      "id_stats": {
+        "Q134961306": 8,
+        "Q1361181": 50,
+        "Q2064": 50,
+        "Q6481091": 49,
+        "Q3530234": 50
+      }
+    },
+    {
+      "entity_name": "Soay, Inner Hebrides",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 141,
+      "unique_subjects": 57,
+      "unique_objects": 84,
+      "top_predicates": [
+        [
+          "P106",
+          32
+        ],
+        [
+          "P180",
+          7
+        ],
+        [
+          "description",
+          5
+        ]
+      ],
+      "id_stats": {
+        "Q52399266": 1,
+        "Q1574956": 50,
+        "Q13105405": 50,
+        "Q1609621": 50
+      }
+    },
+    {
+      "entity_name": "Emperor Richū",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 99,
+      "unique_subjects": 2,
+      "unique_objects": 96,
+      "top_predicates": [
+        [
+          "P40",
+          8
+        ],
+        [
+          "P3373",
+          8
+        ],
+        [
+          "P569",
+          4
+        ]
+      ],
+      "id_stats": {
+        "Q329704": 50,
+        "Q232803": 50
+      }
+    },
+    {
+      "entity_name": "Archaeocyatha",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 31,
+      "unique_subjects": 2,
+      "unique_objects": 27,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          11
+        ],
+        [
+          "description",
+          4
+        ],
+        [
+          "core#altLabel",
+          3
+        ]
+      ],
+      "id_stats": {
+        "Q510821": 50,
+        "Q46870253": 1
+      }
+    },
+    {
+      "entity_name": "Ebenales",
+      "wikidata_ids_count": 8,
+      "valid_wikidata_ids": 8,
+      "total_triples": 337,
+      "unique_subjects": 167,
+      "unique_objects": 170,
+      "top_predicates": [
+        [
+          "P171",
+          117
+        ],
+        [
+          "P921",
+          24
+        ],
+        [
+          "core#altLabel",
+          17
+        ]
+      ],
+      "id_stats": {
+        "Q309947": 50,
+        "Q25314": 50,
+        "Q3314483": 50,
+        "Q156669": 50,
+        "Q165258": 50,
+        "Q2592664": 50,
+        "Q122562322": 23,
+        "Q158981": 50
+      }
+    },
+    {
+      "entity_name": "Mater lectionis",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 42,
+      "unique_subjects": 2,
+      "unique_objects": 41,
+      "top_predicates": [
+        [
+          "description",
+          16
+        ],
+        [
+          "core#altLabel",
+          11
+        ],
+        [
+          "rdf-schema#label",
+          8
+        ]
+      ],
+      "id_stats": {
+        "Q761278": 50,
+        "Q50710392": 1
+      }
+    },
+    {
+      "entity_name": "Spirotrich",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 113,
+      "unique_subjects": 11,
+      "unique_objects": 102,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          52
+        ],
+        [
+          "rdf-schema#label",
+          7
+        ],
+        [
+          "description",
+          4
+        ]
+      ],
+      "id_stats": {
+        "Q117735": 50,
+        "Q170430": 50,
+        "Q95674972": 30
+      }
+    },
+    {
+      "entity_name": "Piegan Blackfeet",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 220,
+      "unique_subjects": 55,
+      "unique_objects": 157,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          24
+        ],
+        [
+          "core#altLabel",
+          24
+        ],
+        [
+          "description",
+          13
+        ]
+      ],
+      "id_stats": {
+        "Q18609034": 50,
+        "Q2673132": 50,
+        "Q33123248": 50,
+        "Q120115083": 12,
+        "Q130236688": 32,
+        "Q12885585": 50
+      }
+    },
+    {
+      "entity_name": "Dionysius Thrax",
+      "wikidata_ids_count": 1,
+      "valid_wikidata_ids": 1,
+      "total_triples": 50,
+      "unique_subjects": 1,
+      "unique_objects": 50,
+      "top_predicates": [
+        [
+          "P12458",
+          3
+        ],
+        [
+          "P8750",
+          1
+        ],
+        [
+          "P8826",
+          1
+        ]
+      ],
+      "id_stats": {
+        "Q344124": 50
+      }
+    },
+    {
+      "entity_name": "Carolyn Beug",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 194,
+      "unique_subjects": 62,
+      "unique_objects": 131,
+      "top_predicates": [
+        [
+          "P131",
+          29
+        ],
+        [
+          "P1001",
+          23
+        ],
+        [
+          "P3437",
+          13
+        ]
+      ],
+      "id_stats": {
+        "Q114463296": 32,
+        "Q638603": 50,
+        "Q107338546": 50,
+        "Q1400": 50,
+        "Q1174134": 50
+      }
+    },
+    {
+      "entity_name": "Plesiochronous digital hierarchy",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 85,
+      "unique_subjects": 4,
+      "unique_objects": 80,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          27
+        ],
+        [
+          "description",
+          8
+        ],
+        [
+          "P6802",
+          6
+        ]
+      ],
+      "id_stats": {
+        "Q51832": 50,
+        "Q41818297": 1,
+        "Q51817": 50,
+        "Q33552931": 1
+      }
+    },
+    {
+      "entity_name": "Peenemünde Army Research Center",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 189,
+      "unique_subjects": 14,
+      "unique_objects": 176,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          35
+        ],
+        [
+          "description",
+          20
+        ],
+        [
+          "rdf-schema#label",
+          19
+        ]
+      ],
+      "id_stats": {
+        "Q174640": 50,
+        "Q116205601": 41,
+        "Q114502269": 35,
+        "Q123306693": 17,
+        "Q897509": 50,
+        "Q18647": 50
+      }
+    },
+    {
+      "entity_name": "British Aerospace HOTOL",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 70,
+      "unique_subjects": 11,
+      "unique_objects": 59,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          12
+        ],
+        [
+          "P527",
+          7
+        ],
+        [
+          "description",
+          5
+        ]
+      ],
+      "id_stats": {
+        "Q2426": 50,
+        "Q127000038": 30,
+        "Q69413680": 0,
+        "Q1473217": 33
+      }
+    },
+    {
+      "entity_name": "Emperor Suinin",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 282,
+      "unique_subjects": 6,
+      "unique_objects": 281,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          113
+        ],
+        [
+          "description",
+          99
+        ],
+        [
+          "P40",
+          13
+        ]
+      ],
+      "id_stats": {
+        "Q7590": 50,
+        "Q314850": 50,
+        "Q41147": 50,
+        "Q11024": 50,
+        "Q11451": 50,
+        "Q40835": 50
+      }
+    },
+    {
+      "entity_name": "Quechuan languages",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 221,
+      "unique_subjects": 55,
+      "unique_objects": 167,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          97
+        ],
+        [
+          "core#altLabel",
+          51
+        ],
+        [
+          "language",
+          50
+        ]
+      ],
+      "id_stats": {
+        "Q828": 50,
+        "Q736": 50,
+        "Q5218": 50,
+        "Q750": 50,
+        "Q134936": 50,
+        "Q419": 50
+      }
+    },
+    {
+      "entity_name": "Mission San Rafael Arcángel",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 142,
+      "unique_subjects": 63,
+      "unique_objects": 76,
+      "top_predicates": [
+        [
+          "P360",
+          50
+        ],
+        [
+          "description",
+          8
+        ],
+        [
+          "rdf-schema#label",
+          5
+        ]
+      ],
+      "id_stats": {
+        "Q115406718": 50,
+        "Q3719": 50,
+        "Q728990": 49
+      }
+    },
+    {
+      "entity_name": "Cnidocyte",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 101,
+      "unique_subjects": 5,
+      "unique_objects": 99,
+      "top_predicates": [
+        [
+          "P1082",
+          16
+        ],
+        [
+          "P10376",
+          4
+        ],
+        [
+          "P2044",
+          4
+        ]
+      ],
+      "id_stats": {
+        "Q25441": 50,
+        "Q56172965": 1,
+        "Q60934346": 1,
+        "Q46268092": 1,
+        "Q865563": 48
+      }
+    },
+    {
+      "entity_name": "Budj Bim National Park",
+      "wikidata_ids_count": 7,
+      "valid_wikidata_ids": 7,
+      "total_triples": 337,
+      "unique_subjects": 58,
+      "unique_objects": 281,
+      "top_predicates": [
+        [
+          "description",
+          117
+        ],
+        [
+          "rdf-schema#label",
+          100
+        ],
+        [
+          "P31",
+          52
+        ]
+      ],
+      "id_stats": {
+        "Q64364418": 50,
+        "Q23397": 50,
+        "Q14373": 50,
+        "Q12014035": 50,
+        "Q170321": 50,
+        "Q37492828": 50,
+        "Q1950297": 49
+      }
+    },
+    {
+      "entity_name": "Erysimum 'Chelsea Jacket'",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 92,
+      "unique_subjects": 3,
+      "unique_objects": 92,
+      "top_predicates": [
+        [
+          "description",
+          51
+        ],
+        [
+          "rdf-schema#label",
+          33
+        ],
+        [
+          "core#altLabel",
+          4
+        ]
+      ],
+      "id_stats": {
+        "Q93610447": 1,
+        "Q29533192": 50,
+        "Q17210": 50
+      }
+    },
+    {
+      "entity_name": "Mixmaster anonymous remailer",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 167,
+      "unique_subjects": 14,
+      "unique_objects": 149,
+      "top_predicates": [
+        [
+          "description",
+          20
+        ],
+        [
+          "P2671",
+          12
+        ],
+        [
+          "rdf-schema#label",
+          12
+        ]
+      ],
+      "id_stats": {
+        "Q556997": 23,
+        "Q18407833": 38,
+        "Q21557514": 41,
+        "Q126829531": 1,
+        "Q1107997": 35,
+        "Q3530234": 50
+      }
+    },
+    {
+      "entity_name": "Desmothoracid",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 120,
+      "unique_subjects": 3,
+      "unique_objects": 119,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          28
+        ],
+        [
+          "P138",
+          8
+        ],
+        [
+          "P1343",
+          6
+        ]
+      ],
+      "id_stats": {
+        "Q19106": 50,
+        "Q408": 0,
+        "Q29520": 50,
+        "Q87347133": 28,
+        "Q16": 0
+      }
+    },
+    {
+      "entity_name": "Vampyrellidae",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 161,
+      "unique_subjects": 126,
+      "unique_objects": 40,
+      "top_predicates": [
+        [
+          "P4844",
+          50
+        ],
+        [
+          "P5137",
+          45
+        ],
+        [
+          "P171",
+          23
+        ]
+      ],
+      "id_stats": {
+        "Q12136": 50,
+        "Q581102": 50,
+        "Q917169": 50,
+        "Q131575393": 13
+      }
+    },
+    {
+      "entity_name": "Antoine Thomson d'Abbadie",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 130,
+      "unique_subjects": 8,
+      "unique_objects": 122,
+      "top_predicates": [
+        [
+          "description",
+          16
+        ],
+        [
+          "P195",
+          5
+        ],
+        [
+          "P1476",
+          4
+        ]
+      ],
+      "id_stats": {
+        "Q370987": 50,
+        "Q77260101": 30,
+        "Q112168900": 4,
+        "Q22337524": 50
+      }
+    },
+    {
+      "entity_name": "Alexei Petrovich, Tsarevich of Russia",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 247,
+      "unique_subjects": 6,
+      "unique_objects": 238,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          63
+        ],
+        [
+          "core#altLabel",
+          22
+        ],
+        [
+          "description",
+          16
+        ]
+      ],
+      "id_stats": {
+        "Q110574076": 38,
+        "Q240145": 50,
+        "Q1849339": 50,
+        "Q8479": 50,
+        "Q19241386": 50,
+        "Q12681582": 50
+      }
+    },
+    {
+      "entity_name": "Feersum Endjinn",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 124,
+      "unique_subjects": 5,
+      "unique_objects": 115,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          14
+        ],
+        [
+          "description",
+          9
+        ],
+        [
+          "core#altLabel",
+          9
+        ]
+      ],
+      "id_stats": {
+        "Q30083359": 39,
+        "Q2067": 50,
+        "Q60376485": 50,
+        "Q312579": 50
+      }
+    },
+    {
+      "entity_name": "Amblycera",
+      "wikidata_ids_count": 8,
+      "valid_wikidata_ids": 8,
+      "total_triples": 309,
+      "unique_subjects": 125,
+      "unique_objects": 188,
+      "top_predicates": [
+        [
+          "description",
+          62
+        ],
+        [
+          "rdf-schema#label",
+          49
+        ],
+        [
+          "P734",
+          41
+        ]
+      ],
+      "id_stats": {
+        "Q16860120": 50,
+        "Q5113": 50,
+        "Q124075692": 49,
+        "Q1936744": 50,
+        "Q113385892": 1,
+        "Q110551885": 50,
+        "Q29729851": 21,
+        "Q1012828": 50
+      }
+    },
+    {
+      "entity_name": "Emperor Keitai",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 89,
+      "unique_subjects": 2,
+      "unique_objects": 89,
+      "top_predicates": [
+        [
+          "description",
+          55
+        ],
+        [
+          "core#altLabel",
+          18
+        ],
+        [
+          "rdf-schema#label",
+          13
+        ]
+      ],
+      "id_stats": {
+        "Q37448291": 50,
+        "Q349277": 50
+      }
+    },
+    {
+      "entity_name": "Logudorese Sardinian",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 92,
+      "unique_subjects": 2,
+      "unique_objects": 89,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          53
+        ],
+        [
+          "description",
+          13
+        ],
+        [
+          "rdf-schema#label",
+          7
+        ]
+      ],
+      "id_stats": {
+        "Q777974": 50,
+        "Q19814": 50
+      }
+    },
+    {
+      "entity_name": "Ptolemy Philadelphus (son of Cleopatra)",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 286,
+      "unique_subjects": 101,
+      "unique_objects": 186,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          56
+        ],
+        [
+          "P710",
+          51
+        ],
+        [
+          "P1343",
+          22
+        ]
+      ],
+      "id_stats": {
+        "Q40058": 50,
+        "Q39576": 50,
+        "Q24238356": 50,
+        "Q635": 50,
+        "Q51673": 50,
+        "Q4063": 50
+      }
+    },
+    {
+      "entity_name": "Gordon Michael Woolvett",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 118,
+      "unique_subjects": 7,
+      "unique_objects": 108,
+      "top_predicates": [
+        [
+          "description",
+          28
+        ],
+        [
+          "rdf-schema#label",
+          9
+        ],
+        [
+          "P212",
+          6
+        ]
+      ],
+      "id_stats": {
+        "Q60416803": 45,
+        "Q1346972": 50,
+        "Q17443716": 40
+      }
+    },
+    {
+      "entity_name": "East coast akalat",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 215,
+      "unique_subjects": 53,
+      "unique_objects": 164,
+      "top_predicates": [
+        [
+          "description",
+          59
+        ],
+        [
+          "rdf-schema#label",
+          41
+        ],
+        [
+          "P171",
+          39
+        ]
+      ],
+      "id_stats": {
+        "Q552431": 50,
+        "Q924": 50,
+        "Q200989": 50,
+        "Q2673586": 50,
+        "Q14915264": 50
+      }
+    },
+    {
+      "entity_name": "Anonymous remailer",
+      "wikidata_ids_count": 8,
+      "valid_wikidata_ids": 8,
+      "total_triples": 242,
+      "unique_subjects": 15,
+      "unique_objects": 225,
+      "top_predicates": [
+        [
+          "description",
+          65
+        ],
+        [
+          "rdf-schema#label",
+          41
+        ],
+        [
+          "core#altLabel",
+          10
+        ]
+      ],
+      "id_stats": {
+        "Q1757877": 36,
+        "Q494348": 50,
+        "Q26376949": 1,
+        "Q37437119": 50,
+        "Q19890758": 50,
+        "Q112983147": 50,
+        "Q57707006": 1,
+        "Q7573022": 22
+      }
+    },
+    {
+      "entity_name": "Geoffrey Plantagenet, Count of Anjou",
+      "wikidata_ids_count": 9,
+      "valid_wikidata_ids": 9,
+      "total_triples": 362,
+      "unique_subjects": 58,
+      "unique_objects": 290,
+      "top_predicates": [
+        [
+          "description",
+          97
+        ],
+        [
+          "core#altLabel",
+          79
+        ],
+        [
+          "rdf-schema#label",
+          76
+        ]
+      ],
+      "id_stats": {
+        "Q1563071": 50,
+        "Q1357271": 50,
+        "Q106151": 50,
+        "Q101384": 50,
+        "Q1158477": 50,
+        "Q102140": 50,
+        "Q13634607": 50,
+        "Q150872": 50,
+        "Q12681211": 50
+      }
+    },
+    {
+      "entity_name": "Microsoft",
+      "wikidata_ids_count": 7,
+      "valid_wikidata_ids": 7,
+      "total_triples": 254,
+      "unique_subjects": 106,
+      "unique_objects": 154,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          85
+        ],
+        [
+          "description",
+          34
+        ],
+        [
+          "P178",
+          31
+        ]
+      ],
+      "id_stats": {
+        "Q2283": 50,
+        "Q129597768": 14,
+        "Q2479": 50,
+        "Q5284": 50,
+        "Q581105": 50,
+        "Q7397": 50,
+        "Q162005": 50
+      }
+    },
+    {
+      "entity_name": "Geophysics",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 100,
+      "unique_subjects": 54,
+      "unique_objects": 49,
+      "top_predicates": [
+        [
+          "P921",
+          38
+        ],
+        [
+          "core#altLabel",
+          29
+        ],
+        [
+          "rdf-schema#label",
+          15
+        ]
+      ],
+      "id_stats": {
+        "Q59047395": 1,
+        "Q120656741": 1,
+        "Q126396076": 1,
+        "Q1749732": 50,
+        "Q46255": 50
+      }
+    },
+    {
+      "entity_name": "Object Management Group",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 77,
+      "unique_subjects": 2,
+      "unique_objects": 75,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          6
+        ],
+        [
+          "P10376",
+          4
+        ],
+        [
+          "rdf-schema#label",
+          4
+        ]
+      ],
+      "id_stats": {
+        "Q169411": 49,
+        "Q252733": 50
+      }
+    },
+    {
+      "entity_name": "The English Patient",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 147,
+      "unique_subjects": 4,
+      "unique_objects": 146,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          65
+        ],
+        [
+          "core#altLabel",
+          54
+        ],
+        [
+          "P161",
+          8
+        ]
+      ],
+      "id_stats": {
+        "Q63026": 50,
+        "Q362": 50,
+        "Q160082": 50,
+        "Q2060": 50
+      }
+    },
+    {
+      "entity_name": "Tomb",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 228,
+      "unique_subjects": 6,
+      "unique_objects": 225,
+      "top_predicates": [
+        [
+          "description",
+          67
+        ],
+        [
+          "rdf-schema#label",
+          34
+        ],
+        [
+          "P10565",
+          5
+        ]
+      ],
+      "id_stats": {
+        "Q12508": 49,
+        "Q30528239": 1,
+        "Q16867311": 50,
+        "Q910180": 50,
+        "Q3487323": 50,
+        "Q381885": 50
+      }
+    },
+    {
+      "entity_name": "Takeover",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 76,
+      "unique_subjects": 4,
+      "unique_objects": 71,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          24
+        ],
+        [
+          "rdf-schema#label",
+          16
+        ],
+        [
+          "description",
+          9
+        ]
+      ],
+      "id_stats": {
+        "Q1416898": 50,
+        "Q101078396": 26
+      }
+    },
+    {
+      "entity_name": "American League",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 157,
+      "unique_subjects": 51,
+      "unique_objects": 105,
+      "top_predicates": [
+        [
+          "P108",
+          25
+        ],
+        [
+          "P118",
+          15
+        ],
+        [
+          "rdf-schema#label",
+          11
+        ]
+      ],
+      "id_stats": {
+        "Q465469": 49,
+        "Q858082": 50,
+        "Q2035": 50,
+        "Q1163715": 50
+      }
+    },
+    {
+      "entity_name": "Transport in Lithuania",
+      "wikidata_ids_count": 13,
+      "valid_wikidata_ids": 13,
+      "total_triples": 590,
+      "unique_subjects": 74,
+      "unique_objects": 519,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          95
+        ],
+        [
+          "core#altLabel",
+          94
+        ],
+        [
+          "P31",
+          52
+        ]
+      ],
+      "id_stats": {
+        "Q847711": 50,
+        "Q1270460": 50,
+        "Q358078": 50,
+        "Q34442": 50,
+        "Q2678338": 50,
+        "Q1267889": 50,
+        "Q240453": 50,
+        "Q6256": 50,
+        "Q15146685": 50,
+        "Q1567799": 48,
+        "Q60933011": 45,
+        "Q318452": 50,
+        "Q1769674": 50
+      }
+    },
+    {
+      "entity_name": "History of Jordan",
+      "wikidata_ids_count": 9,
+      "valid_wikidata_ids": 9,
+      "total_triples": 357,
+      "unique_subjects": 166,
+      "unique_objects": 196,
+      "top_predicates": [
+        [
+          "description",
+          54
+        ],
+        [
+          "P735",
+          50
+        ],
+        [
+          "P131",
+          45
+        ]
+      ],
+      "id_stats": {
+        "Q11416946": 15,
+        "Q2359535": 50,
+        "Q613120": 50,
+        "Q51914601": 1,
+        "Q11358452": 50,
+        "Q14021944": 50,
+        "Q18610": 50,
+        "Q40203": 50,
+        "Q131572": 50
+      }
+    },
+    {
+      "entity_name": "Scroll Lock",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 77,
+      "unique_subjects": 2,
+      "unique_objects": 75,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          16
+        ],
+        [
+          "rdf-schema#label",
+          15
+        ],
+        [
+          "description",
+          11
+        ]
+      ],
+      "id_stats": {
+        "Q135077348": 39,
+        "Q859033": 50
+      }
+    },
+    {
+      "entity_name": "French and Indian War",
+      "wikidata_ids_count": 9,
+      "valid_wikidata_ids": 9,
+      "total_triples": 291,
+      "unique_subjects": 19,
+      "unique_objects": 274,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          71
+        ],
+        [
+          "core#altLabel",
+          53
+        ],
+        [
+          "description",
+          41
+        ]
+      ],
+      "id_stats": {
+        "Q142": 0,
+        "Q198": 50,
+        "Q7713544": 46,
+        "Q10458757": 44,
+        "Q23666": 50,
+        "Q13634623": 50,
+        "Q3536857": 27,
+        "Q154697": 50,
+        "Q13634641": 50
+      }
+    },
+    {
+      "entity_name": "Anthropology",
+      "wikidata_ids_count": 18,
+      "valid_wikidata_ids": 18,
+      "total_triples": 733,
+      "unique_subjects": 45,
+      "unique_objects": 697,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          106
+        ],
+        [
+          "core#altLabel",
+          64
+        ],
+        [
+          "description",
+          41
+        ]
+      ],
+      "id_stats": {
+        "Q28598": 50,
+        "Q47322459": 4,
+        "Q6045018": 40,
+        "Q23498": 50,
+        "Q96727602": 39,
+        "Q11042": 50,
+        "Q3769299": 50,
+        "Q23404": 50,
+        "Q8434": 50,
+        "Q2477868": 50,
+        "Q189603": 50,
+        "Q772835": 50,
+        "Q116865911": 34,
+        "Q3025404": 50,
+        "Q1129049": 50,
+        "Q27172": 50,
+        "Q100794438": 1,
+        "Q1402508": 50
+      }
+    },
+    {
+      "entity_name": "Palestinians",
+      "wikidata_ids_count": 13,
+      "valid_wikidata_ids": 13,
+      "total_triples": 504,
+      "unique_subjects": 122,
+      "unique_objects": 382,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          94
+        ],
+        [
+          "rdf-schema#label",
+          79
+        ],
+        [
+          "P921",
+          43
+        ]
+      ],
+      "id_stats": {
+        "Q2781527": 50,
+        "Q23792": 50,
+        "Q201190": 50,
+        "Q111874634": 20,
+        "Q3624078": 50,
+        "Q106039": 50,
+        "Q201022": 50,
+        "Q71981445": 1,
+        "Q6851218": 27,
+        "Q151622": 50,
+        "Q156595": 50,
+        "Q47092195": 50,
+        "Q235858": 50
+      }
+    },
+    {
+      "entity_name": "Song of the South",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 198,
+      "unique_subjects": 10,
+      "unique_objects": 188,
+      "top_predicates": [
+        [
+          "P1830",
+          45
+        ],
+        [
+          "description",
+          23
+        ],
+        [
+          "rdf-schema#label",
+          18
+        ]
+      ],
+      "id_stats": {
+        "Q3128017": 50,
+        "Q7414": 50,
+        "Q1345920": 50,
+        "Q30": 0,
+        "Q719143": 50,
+        "Q1385379": 50
+      }
+    },
+    {
+      "entity_name": "Red River",
+      "wikidata_ids_count": 7,
+      "valid_wikidata_ids": 7,
+      "total_triples": 307,
+      "unique_subjects": 62,
+      "unique_objects": 247,
+      "top_predicates": [
+        [
+          "description",
+          67
+        ],
+        [
+          "P150",
+          35
+        ],
+        [
+          "P180",
+          25
+        ]
+      ],
+      "id_stats": {
+        "Q2141830": 50,
+        "Q14373": 50,
+        "Q1649": 50,
+        "Q32826951": 50,
+        "Q79340397": 47,
+        "Q37492828": 50,
+        "Q1612": 50
+      }
+    },
+    {
+      "entity_name": "You Can't Take It with You (play)",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 144,
+      "unique_subjects": 3,
+      "unique_objects": 144,
+      "top_predicates": [
+        [
+          "description",
+          43
+        ],
+        [
+          "P7293",
+          3
+        ],
+        [
+          "P4823",
+          2
+        ]
+      ],
+      "id_stats": {
+        "Q163662": 50,
+        "Q728876": 50,
+        "Q18649": 50
+      }
+    },
+    {
+      "entity_name": "Chess",
+      "wikidata_ids_count": 9,
+      "valid_wikidata_ids": 9,
+      "total_triples": 274,
+      "unique_subjects": 19,
+      "unique_objects": 252,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          66
+        ],
+        [
+          "description",
+          18
+        ],
+        [
+          "core#altLabel",
+          14
+        ]
+      ],
+      "id_stats": {
+        "Q111362942": 43,
+        "Q3439829": 39,
+        "Q5813807": 19,
+        "Q718": 50,
+        "Q2808883": 50,
+        "Q6011488": 29,
+        "Q39897089": 1,
+        "Q65075697": 33,
+        "Q7092772": 50
+      }
+    },
+    {
+      "entity_name": "Mosaic",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 64,
+      "unique_subjects": 3,
+      "unique_objects": 63,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          15
+        ],
+        [
+          "P400",
+          7
+        ],
+        [
+          "P306",
+          6
+        ]
+      ],
+      "id_stats": {
+        "Q381047": 49,
+        "Q2065": 50,
+        "Q130824306": 1
+      }
+    },
+    {
+      "entity_name": "White Rose",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 122,
+      "unique_subjects": 3,
+      "unique_objects": 118,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          53
+        ],
+        [
+          "P527",
+          6
+        ],
+        [
+          "P463",
+          6
+        ]
+      ],
+      "id_stats": {
+        "Q7318": 50,
+        "Q18625": 50,
+        "Q1995969": 50
+      }
+    },
+    {
+      "entity_name": "Personal mobility",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 108,
+      "unique_subjects": 3,
+      "unique_objects": 107,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          39
+        ],
+        [
+          "description",
+          7
+        ],
+        [
+          "P10283",
+          3
+        ]
+      ],
+      "id_stats": {
+        "Q7170607": 17,
+        "Q53121": 50,
+        "Q6537379": 50
+      }
+    },
+    {
+      "entity_name": "Aspirin",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 153,
+      "unique_subjects": 62,
+      "unique_objects": 89,
+      "top_predicates": [
+        [
+          "P4844",
+          39
+        ],
+        [
+          "P527",
+          13
+        ],
+        [
+          "description",
+          6
+        ]
+      ],
+      "id_stats": {
+        "Q18216": 50,
+        "Q22320458": 45,
+        "Q75342836": 1,
+        "Q60380330": 42,
+        "Q130465259": 20
+      }
+    },
+    {
+      "entity_name": "National Geographic Society",
+      "wikidata_ids_count": 10,
+      "valid_wikidata_ids": 10,
+      "total_triples": 366,
+      "unique_subjects": 59,
+      "unique_objects": 316,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          54
+        ],
+        [
+          "rdf-schema#label",
+          48
+        ],
+        [
+          "description",
+          42
+        ]
+      ],
+      "id_stats": {
+        "Q280413": 50,
+        "Q1071": 50,
+        "Q309": 50,
+        "Q37680675": 1,
+        "Q11042": 50,
+        "Q55833124": 1,
+        "Q6502154": 50,
+        "Q5973845": 50,
+        "Q167186": 49,
+        "Q7829": 50
+      }
+    },
+    {
+      "entity_name": "Mountaineering",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 201,
+      "unique_subjects": 101,
+      "unique_objects": 103,
+      "top_predicates": [
+        [
+          "P641",
+          71
+        ],
+        [
+          "P971",
+          17
+        ],
+        [
+          "P527",
+          13
+        ]
+      ],
+      "id_stats": {
+        "Q128730438": 1,
+        "Q12014035": 50,
+        "Q36908": 50,
+        "Q1148495": 50,
+        "Q1154336": 50
+      }
+    },
+    {
+      "entity_name": "Beirut",
+      "wikidata_ids_count": 8,
+      "valid_wikidata_ids": 8,
+      "total_triples": 296,
+      "unique_subjects": 53,
+      "unique_objects": 248,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          55
+        ],
+        [
+          "P131",
+          47
+        ],
+        [
+          "rdf-schema#label",
+          42
+        ]
+      ],
+      "id_stats": {
+        "Q11042": 50,
+        "Q1048468": 50,
+        "Q2359535": 50,
+        "Q613120": 50,
+        "Q51914601": 1,
+        "Q3820": 50,
+        "Q601401": 50,
+        "Q150": 0
+      }
+    },
+    {
+      "entity_name": "Guitar",
+      "wikidata_ids_count": 12,
+      "valid_wikidata_ids": 12,
+      "total_triples": 461,
+      "unique_subjects": 35,
+      "unique_objects": 423,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          112
+        ],
+        [
+          "description",
+          75
+        ],
+        [
+          "P161",
+          13
+        ]
+      ],
+      "id_stats": {
+        "Q3080488": 50,
+        "Q37073": 50,
+        "Q23929011": 50,
+        "Q65245073": 25,
+        "Q43302928": 29,
+        "Q9759": 50,
+        "Q6607": 50,
+        "Q9730": 50,
+        "Q60683036": 1,
+        "Q11399": 50,
+        "Q11358452": 50,
+        "Q1731265": 50
+      }
+    },
+    {
+      "entity_name": "Internet Explorer",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 115,
+      "unique_subjects": 4,
+      "unique_objects": 113,
+      "top_predicates": [
+        [
+          "P527",
+          12
+        ],
+        [
+          "P355",
+          12
+        ],
+        [
+          "core#altLabel",
+          9
+        ]
+      ],
+      "id_stats": {
+        "Q1575": 50,
+        "Q2068": 50,
+        "Q2283": 49,
+        "Q130929298": 1
+      }
+    },
+    {
+      "entity_name": "Color code",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 202,
+      "unique_subjects": 5,
+      "unique_objects": 198,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          63
+        ],
+        [
+          "description",
+          50
+        ],
+        [
+          "core#altLabel",
+          8
+        ]
+      ],
+      "id_stats": {
+        "Q11650": 49,
+        "Q18612370": 49,
+        "Q1738927": 50,
+        "Q11023": 50,
+        "Q10566551": 50
+      }
+    },
+    {
+      "entity_name": "Search algorithm",
+      "wikidata_ids_count": 8,
+      "valid_wikidata_ids": 8,
+      "total_triples": 281,
+      "unique_subjects": 8,
+      "unique_objects": 279,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          146
+        ],
+        [
+          "core#altLabel",
+          65
+        ],
+        [
+          "description",
+          51
+        ]
+      ],
+      "id_stats": {
+        "Q117422835": 1,
+        "Q11028": 50,
+        "Q186152": 50,
+        "Q2393193": 50,
+        "Q56990438": 1,
+        "Q10884": 50,
+        "Q21198": 50,
+        "Q755673": 50
+      }
+    },
+    {
+      "entity_name": "Ammonia",
+      "wikidata_ids_count": 11,
+      "valid_wikidata_ids": 11,
+      "total_triples": 382,
+      "unique_subjects": 109,
+      "unique_objects": 280,
+      "top_predicates": [
+        [
+          "P171",
+          49
+        ],
+        [
+          "P186",
+          49
+        ],
+        [
+          "rdf-schema#label",
+          48
+        ]
+      ],
+      "id_stats": {
+        "Q53581214": 1,
+        "Q40386048": 1,
+        "Q21996249": 50,
+        "Q61596126": 50,
+        "Q15749462": 50,
+        "Q318452": 50,
+        "Q283": 50,
+        "Q83323": 50,
+        "Q25930188": 1,
+        "Q36133": 50,
+        "Q266790": 50
+      }
+    },
+    {
+      "entity_name": "Hoy",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 249,
+      "unique_subjects": 102,
+      "unique_objects": 147,
+      "top_predicates": [
+        [
+          "P734",
+          47
+        ],
+        [
+          "P921",
+          21
+        ],
+        [
+          "description",
+          18
+        ]
+      ],
+      "id_stats": {
+        "Q125500591": 50,
+        "Q59181823": 1,
+        "Q1268415": 50,
+        "Q685629": 50,
+        "Q14373": 50,
+        "Q5922741": 50
+      }
+    },
+    {
+      "entity_name": "Bentley",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 92,
+      "unique_subjects": 2,
+      "unique_objects": 92,
+      "top_predicates": [
+        [
+          "description",
+          42
+        ],
+        [
+          "P106",
+          5
+        ],
+        [
+          "P1415",
+          2
+        ]
+      ],
+      "id_stats": {
+        "Q2157": 50,
+        "Q561420": 50
+      }
+    },
+    {
+      "entity_name": "Heroin",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 171,
+      "unique_subjects": 12,
+      "unique_objects": 159,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          67
+        ],
+        [
+          "core#altLabel",
+          51
+        ],
+        [
+          "description",
+          16
+        ]
+      ],
+      "id_stats": {
+        "Q767485": 50,
+        "Q81225": 50,
+        "Q3505252": 50,
+        "Q62024745": 50,
+        "Q95618365": 1
+      }
+    },
+    {
+      "entity_name": "United States Congress",
+      "wikidata_ids_count": 10,
+      "valid_wikidata_ids": 10,
+      "total_triples": 366,
+      "unique_subjects": 112,
+      "unique_objects": 245,
+      "top_predicates": [
+        [
+          "P734",
+          48
+        ],
+        [
+          "description",
+          38
+        ],
+        [
+          "P131",
+          38
+        ]
+      ],
+      "id_stats": {
+        "Q16871935": 50,
+        "Q85808402": 6,
+        "Q136211536": 12,
+        "Q198": 50,
+        "Q56526977": 48,
+        "Q7713529": 10,
+        "Q779": 50,
+        "Q3520383": 50,
+        "Q20184686": 50,
+        "Q26643": 50
+      }
+    },
+    {
+      "entity_name": "Big South Conference",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 145,
+      "unique_subjects": 50,
+      "unique_objects": 94,
+      "top_predicates": [
+        [
+          "description",
+          44
+        ],
+        [
+          "P276",
+          18
+        ],
+        [
+          "P2541",
+          9
+        ]
+      ],
+      "id_stats": {
+        "Q2434": 50,
+        "Q2736": 0,
+        "Q5369": 50,
+        "Q1139046": 50,
+        "Q5372": 0
+      }
+    },
+    {
+      "entity_name": "Card game",
+      "wikidata_ids_count": 14,
+      "valid_wikidata_ids": 14,
+      "total_triples": 576,
+      "unique_subjects": 19,
+      "unique_objects": 554,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          157
+        ],
+        [
+          "rdf-schema#label",
+          115
+        ],
+        [
+          "description",
+          96
+        ]
+      ],
+      "id_stats": {
+        "Q142714": 50,
+        "Q12280": 50,
+        "Q756011": 50,
+        "Q4923044": 50,
+        "Q208850": 50,
+        "Q838984": 50,
+        "Q11416": 50,
+        "Q80131": 50,
+        "Q136290574": 11,
+        "Q1816033": 50,
+        "Q37473903": 50,
+        "Q47883": 50,
+        "Q2688165": 26,
+        "Q111646226": 46
+      }
+    },
+    {
+      "entity_name": "United States Attorney General",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 131,
+      "unique_subjects": 52,
+      "unique_objects": 81,
+      "top_predicates": [
+        [
+          "P39",
+          46
+        ],
+        [
+          "rdf-schema#label",
+          36
+        ],
+        [
+          "P1343",
+          13
+        ]
+      ],
+      "id_stats": {
+        "Q30461": 50,
+        "Q636207": 50,
+        "Q2570643": 50
+      }
+    },
+    {
+      "entity_name": "Human skin color",
+      "wikidata_ids_count": 12,
+      "valid_wikidata_ids": 12,
+      "total_triples": 234,
+      "unique_subjects": 47,
+      "unique_objects": 190,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          63
+        ],
+        [
+          "core#altLabel",
+          43
+        ],
+        [
+          "P101",
+          27
+        ]
+      ],
+      "id_stats": {
+        "Q247101": 50,
+        "Q115531572": 1,
+        "Q115156522": 50,
+        "Q187526": 50,
+        "Q7162": 50,
+        "Q45897637": 1,
+        "Q853516": 50,
+        "Q53178832": 1,
+        "Q28763983": 1,
+        "Q33804547": 1,
+        "Q34455084": 1,
+        "Q72681221": 1
+      }
+    },
+    {
+      "entity_name": "Video game",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 178,
+      "unique_subjects": 19,
+      "unique_objects": 163,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          45
+        ],
+        [
+          "rdf-schema#label",
+          23
+        ],
+        [
+          "description",
+          18
+        ]
+      ],
+      "id_stats": {
+        "Q64802215": 43,
+        "Q123859813": 1,
+        "Q2994645": 50,
+        "Q68": 50,
+        "Q7889": 50
+      }
+    },
+    {
+      "entity_name": "Mammoth",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 219,
+      "unique_subjects": 83,
+      "unique_objects": 137,
+      "top_predicates": [
+        [
+          "P180",
+          24
+        ],
+        [
+          "P106",
+          21
+        ],
+        [
+          "P1552",
+          8
+        ]
+      ],
+      "id_stats": {
+        "Q45874067": 50,
+        "Q25546": 50,
+        "Q12059906": 50,
+        "Q3699044": 50,
+        "Q28973631": 21
+      }
+    },
+    {
+      "entity_name": "Flag",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 75,
+      "unique_subjects": 3,
+      "unique_objects": 73,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          45
+        ],
+        [
+          "P186",
+          4
+        ],
+        [
+          "P217",
+          2
+        ]
+      ],
+      "id_stats": {
+        "Q119382787": 30,
+        "Q14660": 50,
+        "Q39035657": 1
+      }
+    },
+    {
+      "entity_name": "The Wedding Planner",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 205,
+      "unique_subjects": 6,
+      "unique_objects": 198,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          52
+        ],
+        [
+          "description",
+          23
+        ],
+        [
+          "core#altLabel",
+          16
+        ]
+      ],
+      "id_stats": {
+        "Q3136457": 50,
+        "Q108432337": 21,
+        "Q350903": 50,
+        "Q40715": 50,
+        "Q188955": 50,
+        "Q591362": 50
+      }
+    },
+    {
+      "entity_name": "Natural language",
+      "wikidata_ids_count": 14,
+      "valid_wikidata_ids": 14,
+      "total_triples": 529,
+      "unique_subjects": 178,
+      "unique_objects": 358,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          77
+        ],
+        [
+          "description",
+          72
+        ],
+        [
+          "rdf-schema#label",
+          62
+        ]
+      ],
+      "id_stats": {
+        "Q131122578": 1,
+        "Q143": 50,
+        "Q62199688": 50,
+        "Q34770": 50,
+        "Q30642": 50,
+        "Q870780": 50,
+        "Q11024": 50,
+        "Q15978631": 50,
+        "Q33683": 50,
+        "Q45779366": 1,
+        "Q33742": 50,
+        "Q72087708": 50,
+        "Q107031344": 50,
+        "Q68": 50
+      }
+    },
+    {
+      "entity_name": "Inside plant",
+      "wikidata_ids_count": 8,
+      "valid_wikidata_ids": 8,
+      "total_triples": 249,
+      "unique_subjects": 18,
+      "unique_objects": 219,
+      "top_predicates": [
+        [
+          "P407",
+          22
+        ],
+        [
+          "description",
+          13
+        ],
+        [
+          "rdf-schema#label",
+          9
+        ]
+      ],
+      "id_stats": {
+        "Q123759594": 10,
+        "Q135019061": 50,
+        "Q44127": 50,
+        "Q6037912": 14,
+        "Q5318": 50,
+        "Q4839577": 16,
+        "Q66205303": 23,
+        "Q7659110": 50
+      }
+    },
+    {
+      "entity_name": "Elementary function",
+      "wikidata_ids_count": 13,
+      "valid_wikidata_ids": 13,
+      "total_triples": 364,
+      "unique_subjects": 74,
+      "unique_objects": 291,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          118
+        ],
+        [
+          "description",
+          29
+        ],
+        [
+          "P1433",
+          20
+        ]
+      ],
+      "id_stats": {
+        "Q3137561": 23,
+        "Q4446020": 44,
+        "Q114232386": 1,
+        "Q192864": 50,
+        "Q118849531": 24,
+        "Q7754": 50,
+        "Q395": 50,
+        "Q11023": 50,
+        "Q58120240": 1,
+        "Q22615167": 32,
+        "Q126950379": 18,
+        "Q18092768": 50,
+        "Q115516437": 1
+      }
+    },
+    {
+      "entity_name": "The Gold Rush",
+      "wikidata_ids_count": 8,
+      "valid_wikidata_ids": 8,
+      "total_triples": 281,
+      "unique_subjects": 8,
+      "unique_objects": 271,
+      "top_predicates": [
+        [
+          "description",
+          63
+        ],
+        [
+          "rdf-schema#label",
+          45
+        ],
+        [
+          "P527",
+          22
+        ]
+      ],
+      "id_stats": {
+        "Q7647": 50,
+        "Q124050403": 50,
+        "Q200535": 50,
+        "Q122823996": 50,
+        "Q80928739": 1,
+        "Q19241489": 50,
+        "Q104475394": 1,
+        "Q214723": 50
+      }
+    },
+    {
+      "entity_name": "Thirty Years' War",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 48,
+      "unique_subjects": 3,
+      "unique_objects": 47,
+      "top_predicates": [
+        [
+          "description",
+          35
+        ],
+        [
+          "rdf-schema#label",
+          11
+        ],
+        [
+          "queryService#subgraph",
+          2
+        ]
+      ],
+      "id_stats": {
+        "Q29540797": 1,
+        "Q56067146": 1,
+        "Q46": 50
+      }
+    },
+    {
+      "entity_name": "Swedish language",
+      "wikidata_ids_count": 7,
+      "valid_wikidata_ids": 7,
+      "total_triples": 144,
+      "unique_subjects": 14,
+      "unique_objects": 130,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          73
+        ],
+        [
+          "description",
+          13
+        ],
+        [
+          "core#altLabel",
+          8
+        ]
+      ],
+      "id_stats": {
+        "Q9027": 50,
+        "Q125818405": 27,
+        "Q34": 0,
+        "Q9035": 0,
+        "Q9043": 0,
+        "Q3772237": 50,
+        "Q7221821": 28
+      }
+    },
+    {
+      "entity_name": "Washington County, Florida",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 203,
+      "unique_subjects": 8,
+      "unique_objects": 196,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          102
+        ],
+        [
+          "P150",
+          29
+        ],
+        [
+          "description",
+          14
+        ]
+      ],
+      "id_stats": {
+        "Q2156023": 50,
+        "Q37383": 50,
+        "Q507256": 50,
+        "Q7941924": 32,
+        "Q11451": 50
+      }
+    },
+    {
+      "entity_name": "Palma de Mallorca",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 223,
+      "unique_subjects": 37,
+      "unique_objects": 186,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          76
+        ],
+        [
+          "rdf-schema#label",
+          29
+        ],
+        [
+          "P31",
+          20
+        ]
+      ],
+      "id_stats": {
+        "Q8828": 50,
+        "Q176483": 50,
+        "Q84015776": 50,
+        "Q8826": 50,
+        "Q1298819": 49
+      }
+    },
+    {
+      "entity_name": "Transport in Ethiopia",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 202,
+      "unique_subjects": 15,
+      "unique_objects": 187,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          28
+        ],
+        [
+          "P2561",
+          25
+        ],
+        [
+          "core#altLabel",
+          18
+        ]
+      ],
+      "id_stats": {
+        "Q245233": 50,
+        "Q11416946": 15,
+        "Q1757562": 50,
+        "Q7231129": 49,
+        "Q580111": 44
+      }
+    },
+    {
+      "entity_name": "Boxing",
+      "wikidata_ids_count": 7,
+      "valid_wikidata_ids": 7,
+      "total_triples": 278,
+      "unique_subjects": 11,
+      "unique_objects": 268,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          54
+        ],
+        [
+          "core#altLabel",
+          34
+        ],
+        [
+          "description",
+          28
+        ]
+      ],
+      "id_stats": {
+        "Q36107": 50,
+        "Q7859154": 50,
+        "Q318204": 50,
+        "Q724450": 49,
+        "Q742944": 50,
+        "Q6849116": 50,
+        "Q32112": 50
+      }
+    },
+    {
+      "entity_name": "The Troubles",
+      "wikidata_ids_count": 7,
+      "valid_wikidata_ids": 7,
+      "total_triples": 306,
+      "unique_subjects": 112,
+      "unique_objects": 194,
+      "top_predicates": [
+        [
+          "P1001",
+          50
+        ],
+        [
+          "description",
+          46
+        ],
+        [
+          "rdf-schema#label",
+          40
+        ]
+      ],
+      "id_stats": {
+        "Q87278385": 50,
+        "Q134732888": 20,
+        "Q6071313": 50,
+        "Q2742116": 50,
+        "Q815436": 50,
+        "Q26": 50,
+        "Q21183767": 50
+      }
+    },
+    {
+      "entity_name": "Toxin",
+      "wikidata_ids_count": 13,
+      "valid_wikidata_ids": 13,
+      "total_triples": 492,
+      "unique_subjects": 19,
+      "unique_objects": 476,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          175
+        ],
+        [
+          "description",
+          109
+        ],
+        [
+          "core#altLabel",
+          18
+        ]
+      ],
+      "id_stats": {
+        "Q7891": 50,
+        "Q29957827": 25,
+        "Q15724569": 50,
+        "Q7108579": 36,
+        "Q411288": 50,
+        "Q15978631": 50,
+        "Q408668": 50,
+        "Q756": 50,
+        "Q1059": 50,
+        "Q728": 50,
+        "Q27725748": 50,
+        "Q10876": 50,
+        "Q9404": 50
+      }
+    },
+    {
+      "entity_name": "Basic exchange telecommunications radio service",
+      "wikidata_ids_count": 1,
+      "valid_wikidata_ids": 1,
+      "total_triples": 46,
+      "unique_subjects": 1,
+      "unique_objects": 46,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          14
+        ],
+        [
+          "core#altLabel",
+          11
+        ],
+        [
+          "description",
+          6
+        ]
+      ],
+      "id_stats": {
+        "Q1474334": 50
+      }
+    },
+    {
+      "entity_name": "ERA",
+      "wikidata_ids_count": 1,
+      "valid_wikidata_ids": 1,
+      "total_triples": 37,
+      "unique_subjects": 1,
+      "unique_objects": 37,
+      "top_predicates": [
+        [
+          "description",
+          32
+        ],
+        [
+          "rdf-schema#label",
+          3
+        ],
+        [
+          "dateModified",
+          1
+        ]
+      ],
+      "id_stats": {
+        "Q3730974": 50
+      }
+    },
+    {
+      "entity_name": "Condition number",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 48,
+      "unique_subjects": 8,
+      "unique_objects": 41,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          13
+        ],
+        [
+          "core#altLabel",
+          11
+        ],
+        [
+          "owl#sameAs",
+          3
+        ]
+      ],
+      "id_stats": {
+        "Q1147936": 50,
+        "Q56442906": 1
+      }
+    },
+    {
+      "entity_name": "The Wheel of Time",
+      "wikidata_ids_count": 8,
+      "valid_wikidata_ids": 8,
+      "total_triples": 356,
+      "unique_subjects": 167,
+      "unique_objects": 190,
+      "top_predicates": [
+        [
+          "P170",
+          56
+        ],
+        [
+          "rdf-schema#label",
+          55
+        ],
+        [
+          "P180",
+          50
+        ]
+      ],
+      "id_stats": {
+        "Q105762311": 50,
+        "Q4470": 50,
+        "Q166351": 50,
+        "Q457608": 50,
+        "Q99676523": 32,
+        "Q3283453": 50,
+        "Q16502": 50,
+        "Q81741": 50
+      }
+    },
+    {
+      "entity_name": "Fantastic Four",
+      "wikidata_ids_count": 11,
+      "valid_wikidata_ids": 11,
+      "total_triples": 447,
+      "unique_subjects": 116,
+      "unique_objects": 270,
+      "top_predicates": [
+        [
+          "P674",
+          107
+        ],
+        [
+          "rdf-schema#label",
+          45
+        ],
+        [
+          "description",
+          36
+        ]
+      ],
+      "id_stats": {
+        "Q75115362": 50,
+        "Q136528569": 47,
+        "Q865017": 50,
+        "Q430178": 50,
+        "Q510450": 50,
+        "Q584585": 50,
+        "Q152098": 50,
+        "Q910204": 50,
+        "Q173496": 50,
+        "Q11424": 0,
+        "Q11547": 50
+      }
+    },
+    {
+      "entity_name": "Crohn's disease",
+      "wikidata_ids_count": 9,
+      "valid_wikidata_ids": 9,
+      "total_triples": 437,
+      "unique_subjects": 205,
+      "unique_objects": 241,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          90
+        ],
+        [
+          "P921",
+          81
+        ],
+        [
+          "P1050",
+          57
+        ]
+      ],
+      "id_stats": {
+        "Q64791903": 50,
+        "Q12140": 50,
+        "Q40878": 50,
+        "Q718113": 50,
+        "Q24238356": 50,
+        "Q9690": 50,
+        "Q40821": 50,
+        "Q1472": 50,
+        "Q183425": 50
+      }
+    },
+    {
+      "entity_name": "A Night at the Opera (film)",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 154,
+      "unique_subjects": 8,
+      "unique_objects": 145,
+      "top_predicates": [
+        [
+          "P2723",
+          5
+        ],
+        [
+          "P437",
+          5
+        ],
+        [
+          "P577",
+          5
+        ]
+      ],
+      "id_stats": {
+        "Q193477": 50,
+        "Q73921452": 50,
+        "Q136263666": 20,
+        "Q457269": 50
+      }
+    },
+    {
+      "entity_name": "Pioneer program",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 149,
+      "unique_subjects": 4,
+      "unique_objects": 143,
+      "top_predicates": [
+        [
+          "description",
+          70
+        ],
+        [
+          "P527",
+          13
+        ],
+        [
+          "rdf-schema#label",
+          10
+        ]
+      ],
+      "id_stats": {
+        "Q5253": 50,
+        "Q2483": 50,
+        "Q190108": 50,
+        "Q309751": 50
+      }
+    },
+    {
+      "entity_name": "Photosynthesis",
+      "wikidata_ids_count": 9,
+      "valid_wikidata_ids": 9,
+      "total_triples": 304,
+      "unique_subjects": 25,
+      "unique_objects": 284,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          110
+        ],
+        [
+          "core#altLabel",
+          28
+        ],
+        [
+          "description",
+          23
+        ]
+      ],
+      "id_stats": {
+        "Q43177": 50,
+        "Q7758446": 44,
+        "Q27726931": 50,
+        "Q756": 50,
+        "Q72392916": 1,
+        "Q57191672": 1,
+        "Q7640481": 50,
+        "Q27725748": 50,
+        "Q11982": 50
+      }
+    },
+    {
+      "entity_name": "Lower Canada",
+      "wikidata_ids_count": 7,
+      "valid_wikidata_ids": 7,
+      "total_triples": 260,
+      "unique_subjects": 56,
+      "unique_objects": 203,
+      "top_predicates": [
+        [
+          "description",
+          67
+        ],
+        [
+          "rdf-schema#label",
+          60
+        ],
+        [
+          "P971",
+          23
+        ]
+      ],
+      "id_stats": {
+        "Q795427": 50,
+        "Q19241466": 50,
+        "Q13634666": 50,
+        "Q1134180": 50,
+        "Q136268840": 12,
+        "Q2470685": 50,
+        "Q1841": 50
+      }
+    },
+    {
+      "entity_name": "Raven",
+      "wikidata_ids_count": 15,
+      "valid_wikidata_ids": 15,
+      "total_triples": 554,
+      "unique_subjects": 185,
+      "unique_objects": 381,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          100
+        ],
+        [
+          "core#altLabel",
+          57
+        ],
+        [
+          "P734",
+          46
+        ]
+      ],
+      "id_stats": {
+        "Q36981357": 50,
+        "Q12678727": 50,
+        "Q214267": 50,
+        "Q204170": 50,
+        "Q16881896": 50,
+        "Q8027410": 50,
+        "Q4": 50,
+        "Q9134": 50,
+        "Q1665657": 50,
+        "Q64995684": 33,
+        "Q4785": 50,
+        "Q5674297": 50,
+        "Q39061": 50,
+        "Q8242": 50,
+        "Q463198": 50
+      }
+    },
+    {
+      "entity_name": "Malayalam",
+      "wikidata_ids_count": 1,
+      "valid_wikidata_ids": 1,
+      "total_triples": 50,
+      "unique_subjects": 50,
+      "unique_objects": 1,
+      "top_predicates": [
+        [
+          "language",
+          50
+        ]
+      ],
+      "id_stats": {
+        "Q36236": 50
+      }
+    },
+    {
+      "entity_name": "Spacecraft",
+      "wikidata_ids_count": 12,
+      "valid_wikidata_ids": 12,
+      "total_triples": 496,
+      "unique_subjects": 12,
+      "unique_objects": 491,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          173
+        ],
+        [
+          "description",
+          122
+        ],
+        [
+          "P355",
+          41
+        ]
+      ],
+      "id_stats": {
+        "Q50808462": 50,
+        "Q280413": 50,
+        "Q6502154": 50,
+        "Q131416762": 30,
+        "Q380933": 50,
+        "Q3863": 50,
+        "Q21500491": 50,
+        "Q11024": 50,
+        "Q4169": 50,
+        "Q2513": 50,
+        "Q40218": 50,
+        "Q72070929": 1
+      }
+    },
+    {
+      "entity_name": "Common Desktop Environment",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 49,
+      "unique_subjects": 17,
+      "unique_objects": 34,
+      "top_predicates": [
+        [
+          "P348",
+          11
+        ],
+        [
+          "P1414",
+          8
+        ],
+        [
+          "P1056",
+          4
+        ]
+      ],
+      "id_stats": {
+        "Q49417": 50,
+        "Q30584478": 1
+      }
+    },
+    {
+      "entity_name": "Arthritis",
+      "wikidata_ids_count": 10,
+      "valid_wikidata_ids": 10,
+      "total_triples": 422,
+      "unique_subjects": 59,
+      "unique_objects": 368,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          88
+        ],
+        [
+          "core#altLabel",
+          59
+        ],
+        [
+          "P734",
+          43
+        ]
+      ],
+      "id_stats": {
+        "Q37486727": 50,
+        "Q15763171": 49,
+        "Q170990": 50,
+        "Q187255": 50,
+        "Q12140": 50,
+        "Q62736": 50,
+        "Q12136": 50,
+        "Q40821": 50,
+        "Q109186": 50,
+        "Q70601313": 1
+      }
+    },
+    {
+      "entity_name": "Latin",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 196,
+      "unique_subjects": 58,
+      "unique_objects": 141,
+      "top_predicates": [
+        [
+          "language",
+          50
+        ],
+        [
+          "rdf-schema#label",
+          30
+        ],
+        [
+          "description",
+          17
+        ]
+      ],
+      "id_stats": {
+        "Q397": 50,
+        "Q192864": 50,
+        "Q67320810": 27,
+        "Q87283190": 28,
+        "Q57875849": 1,
+        "Q188823": 50
+      }
+    },
+    {
+      "entity_name": "National Hockey League",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 130,
+      "unique_subjects": 3,
+      "unique_objects": 128,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          58
+        ],
+        [
+          "P527",
+          35
+        ],
+        [
+          "core#altLabel",
+          20
+        ]
+      ],
+      "id_stats": {
+        "Q1215892": 50,
+        "Q49": 50,
+        "Q211872": 50
+      }
+    },
+    {
+      "entity_name": "Bulgarian language",
+      "wikidata_ids_count": 11,
+      "valid_wikidata_ids": 11,
+      "total_triples": 398,
+      "unique_subjects": 112,
+      "unique_objects": 291,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          219
+        ],
+        [
+          "language",
+          100
+        ],
+        [
+          "P17",
+          20
+        ]
+      ],
+      "id_stats": {
+        "Q7918": 50,
+        "Q43": 0,
+        "Q2648449": 33,
+        "Q9129": 50,
+        "Q41": 50,
+        "Q221": 50,
+        "Q218": 50,
+        "Q7737": 50,
+        "Q403": 50,
+        "Q219": 50,
+        "Q256": 50
+      }
+    },
+    {
+      "entity_name": "Cyclone",
+      "wikidata_ids_count": 10,
+      "valid_wikidata_ids": 10,
+      "total_triples": 374,
+      "unique_subjects": 24,
+      "unique_objects": 349,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          96
+        ],
+        [
+          "description",
+          68
+        ],
+        [
+          "P361",
+          10
+        ]
+      ],
+      "id_stats": {
+        "Q123258918": 44,
+        "Q34439356": 50,
+        "Q11081619": 50,
+        "Q283": 50,
+        "Q105320895": 50,
+        "Q2310145": 50,
+        "Q55534": 50,
+        "Q106764374": 13,
+        "Q113401164": 1,
+        "Q79602": 50
+      }
+    },
+    {
+      "entity_name": "Pacific Ocean",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 208,
+      "unique_subjects": 6,
+      "unique_objects": 203,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          83
+        ],
+        [
+          "core#altLabel",
+          43
+        ],
+        [
+          "description",
+          36
+        ]
+      ],
+      "id_stats": {
+        "Q828": 50,
+        "Q223243": 50,
+        "Q57581430": 19,
+        "Q7372": 50,
+        "Q7755858": 44,
+        "Q219329": 50
+      }
+    },
+    {
+      "entity_name": "Digital subscriber line",
+      "wikidata_ids_count": 7,
+      "valid_wikidata_ids": 7,
+      "total_triples": 167,
+      "unique_subjects": 41,
+      "unique_objects": 124,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          23
+        ],
+        [
+          "P1552",
+          18
+        ],
+        [
+          "rdf-schema#label",
+          15
+        ]
+      ],
+      "id_stats": {
+        "Q127373067": 1,
+        "Q84459973": 47,
+        "Q62258585": 50,
+        "Q42553591": 1,
+        "Q823923": 50,
+        "Q52214913": 1,
+        "Q192546": 48
+      }
+    },
+    {
+      "entity_name": "Body mass index",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 109,
+      "unique_subjects": 53,
+      "unique_objects": 59,
+      "top_predicates": [
+        [
+          "P128",
+          41
+        ],
+        [
+          "P1813",
+          24
+        ],
+        [
+          "P8872",
+          5
+        ]
+      ],
+      "id_stats": {
+        "Q47407691": 1,
+        "Q115979626": 8,
+        "Q131191": 50,
+        "Q17849328": 50
+      }
+    },
+    {
+      "entity_name": "Morality play",
+      "wikidata_ids_count": 11,
+      "valid_wikidata_ids": 11,
+      "total_triples": 464,
+      "unique_subjects": 141,
+      "unique_objects": 330,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          71
+        ],
+        [
+          "description",
+          59
+        ],
+        [
+          "P921",
+          50
+        ]
+      ],
+      "id_stats": {
+        "Q1620031": 50,
+        "Q61992480": 50,
+        "Q56018666": 1,
+        "Q212976": 50,
+        "Q69737438": 28,
+        "Q5160181": 50,
+        "Q201405": 50,
+        "Q1991011": 50,
+        "Q929047": 50,
+        "Q2416176": 50,
+        "Q294440": 50
+      }
+    },
+    {
+      "entity_name": "Transcription factor",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 148,
+      "unique_subjects": 11,
+      "unique_objects": 135,
+      "top_predicates": [
+        [
+          "P1343",
+          7
+        ],
+        [
+          "core#altLabel",
+          6
+        ],
+        [
+          "P175",
+          6
+        ]
+      ],
+      "id_stats": {
+        "Q56070931": 50,
+        "Q407384": 50,
+        "Q7868": 50,
+        "Q38632705": 1,
+        "Q37511564": 1,
+        "Q8054": 0
+      }
+    },
+    {
+      "entity_name": "Carbohydrate",
+      "wikidata_ids_count": 18,
+      "valid_wikidata_ids": 18,
+      "total_triples": 660,
+      "unique_subjects": 27,
+      "unique_objects": 637,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          310
+        ],
+        [
+          "description",
+          155
+        ],
+        [
+          "core#altLabel",
+          22
+        ]
+      ],
+      "id_stats": {
+        "Q80294": 50,
+        "Q38843578": 1,
+        "Q136192523": 30,
+        "Q11004": 50,
+        "Q11002": 50,
+        "Q11358": 50,
+        "Q122043": 50,
+        "Q57589017": 1,
+        "Q136192512": 26,
+        "Q185217": 50,
+        "Q556": 50,
+        "Q1364": 50,
+        "Q161": 50,
+        "Q623": 50,
+        "Q37525": 50,
+        "Q41534": 50,
+        "Q11972430": 41,
+        "Q629": 50
+      }
+    },
+    {
+      "entity_name": "Model (person)",
+      "wikidata_ids_count": 11,
+      "valid_wikidata_ids": 11,
+      "total_triples": 219,
+      "unique_subjects": 28,
+      "unique_objects": 194,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          73
+        ],
+        [
+          "description",
+          50
+        ],
+        [
+          "core#altLabel",
+          9
+        ]
+      ],
+      "id_stats": {
+        "Q99575204": 21,
+        "Q48470498": 1,
+        "Q6581097": 0,
+        "Q111031517": 1,
+        "Q8227356": 50,
+        "Q6581072": 0,
+        "Q130147325": 1,
+        "Q4610556": 50,
+        "Q12684": 50,
+        "Q114492845": 31,
+        "Q377192": 49
+      }
+    },
+    {
+      "entity_name": "Kurds",
+      "wikidata_ids_count": 2,
+      "valid_wikidata_ids": 2,
+      "total_triples": 94,
+      "unique_subjects": 2,
+      "unique_objects": 94,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          69
+        ],
+        [
+          "core#altLabel",
+          25
+        ]
+      ],
+      "id_stats": {
+        "Q7204": 50,
+        "Q12223": 50
+      }
+    },
+    {
+      "entity_name": "Private investigator",
+      "wikidata_ids_count": 12,
+      "valid_wikidata_ids": 12,
+      "total_triples": 352,
+      "unique_subjects": 65,
+      "unique_objects": 288,
+      "top_predicates": [
+        [
+          "P2308",
+          50
+        ],
+        [
+          "rdf-schema#label",
+          32
+        ],
+        [
+          "description",
+          25
+        ]
+      ],
+      "id_stats": {
+        "Q124081026": 16,
+        "Q43229": 50,
+        "Q136402674": 50,
+        "Q1058617": 50,
+        "Q795052": 50,
+        "Q106980539": 12,
+        "Q6045018": 40,
+        "Q7647030": 32,
+        "Q81582826": 1,
+        "Q42240": 50,
+        "Q13115914": 50,
+        "Q58667909": 1
+      }
+    },
+    {
+      "entity_name": "Prairie",
+      "wikidata_ids_count": 12,
+      "valid_wikidata_ids": 12,
+      "total_triples": 496,
+      "unique_subjects": 73,
+      "unique_objects": 425,
+      "top_predicates": [
+        [
+          "description",
+          122
+        ],
+        [
+          "rdf-schema#label",
+          110
+        ],
+        [
+          "core#altLabel",
+          73
+        ]
+      ],
+      "id_stats": {
+        "Q552431": 50,
+        "Q18099": 50,
+        "Q108059061": 26,
+        "Q49": 50,
+        "Q127511562": 31,
+        "Q161078": 50,
+        "Q37174972": 50,
+        "Q61788060": 50,
+        "Q1132459": 50,
+        "Q11451": 50,
+        "Q187943": 50,
+        "Q124394521": 49
+      }
+    },
+    {
+      "entity_name": "Spanish cuisine",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 172,
+      "unique_subjects": 6,
+      "unique_objects": 164,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          30
+        ],
+        [
+          "description",
+          28
+        ],
+        [
+          "core#altLabel",
+          23
+        ]
+      ],
+      "id_stats": {
+        "Q24023557": 49,
+        "Q120404012": 22,
+        "Q20224026": 38,
+        "Q47564": 50,
+        "Q108561297": 27
+      }
+    },
+    {
+      "entity_name": "James",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 135,
+      "unique_subjects": 5,
+      "unique_objects": 132,
+      "top_predicates": [
+        [
+          "description",
+          63
+        ],
+        [
+          "rdf-schema#label",
+          13
+        ],
+        [
+          "P161",
+          11
+        ]
+      ],
+      "id_stats": {
+        "Q677191": 50,
+        "Q103844531": 50,
+        "Q43509474": 1,
+        "Q102178337": 50,
+        "Q25999604": 50
+      }
+    },
+    {
+      "entity_name": "Cinnamon",
+      "wikidata_ids_count": 8,
+      "valid_wikidata_ids": 8,
+      "total_triples": 154,
+      "unique_subjects": 105,
+      "unique_objects": 53,
+      "top_predicates": [
+        [
+          "P348",
+          50
+        ],
+        [
+          "P735",
+          49
+        ],
+        [
+          "P921",
+          41
+        ]
+      ],
+      "id_stats": {
+        "Q67887845": 1,
+        "Q1092551": 50,
+        "Q37639482": 1,
+        "Q35786272": 1,
+        "Q15885810": 50,
+        "Q771035": 50,
+        "Q112931170": 1,
+        "Q70778923": 1
+      }
+    },
+    {
+      "entity_name": "Tundra",
+      "wikidata_ids_count": 4,
+      "valid_wikidata_ids": 4,
+      "total_triples": 99,
+      "unique_subjects": 4,
+      "unique_objects": 97,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          41
+        ],
+        [
+          "rdf-schema#label",
+          6
+        ],
+        [
+          "P1014",
+          3
+        ]
+      ],
+      "id_stats": {
+        "Q58955465": 1,
+        "Q179918": 50,
+        "Q58261787": 1,
+        "Q43262": 50
+      }
+    },
+    {
+      "entity_name": "List of Italian dishes",
+      "wikidata_ids_count": 13,
+      "valid_wikidata_ids": 13,
+      "total_triples": 511,
+      "unique_subjects": 14,
+      "unique_objects": 455,
+      "top_predicates": [
+        [
+          "description",
+          174
+        ],
+        [
+          "rdf-schema#label",
+          116
+        ],
+        [
+          "core#altLabel",
+          75
+        ]
+      ],
+      "id_stats": {
+        "Q208105": 50,
+        "Q131582": 50,
+        "Q10990": 50,
+        "Q2122098": 50,
+        "Q192935": 50,
+        "Q177": 50,
+        "Q192786": 50,
+        "Q182940": 50,
+        "Q129987031": 1,
+        "Q3897473": 50,
+        "Q500724": 50,
+        "Q876624": 50,
+        "Q37574672": 50
+      }
+    },
+    {
+      "entity_name": "Saint Vincent and the Grenadines",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 262,
+      "unique_subjects": 6,
+      "unique_objects": 259,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          218
+        ],
+        [
+          "description",
+          20
+        ],
+        [
+          "core#altLabel",
+          14
+        ]
+      ],
+      "id_stats": {
+        "Q2593736": 50,
+        "Q1247": 50,
+        "Q757": 50,
+        "Q49389": 50,
+        "Q7785": 50,
+        "Q11451": 50
+      }
+    },
+    {
+      "entity_name": "Rights",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 194,
+      "unique_subjects": 20,
+      "unique_objects": 179,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          62
+        ],
+        [
+          "description",
+          32
+        ],
+        [
+          "core#altLabel",
+          17
+        ]
+      ],
+      "id_stats": {
+        "Q780687": 50,
+        "Q74754839": 1,
+        "Q130087012": 1,
+        "Q3689650": 49,
+        "Q9465": 50,
+        "Q221373": 50
+      }
+    },
+    {
+      "entity_name": "She Done Him Wrong",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 108,
+      "unique_subjects": 3,
+      "unique_objects": 107,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          5
+        ],
+        [
+          "P5008",
+          4
+        ],
+        [
+          "P4985",
+          3
+        ]
+      ],
+      "id_stats": {
+        "Q202878": 50,
+        "Q83410": 50,
+        "Q2058654": 50
+      }
+    },
+    {
+      "entity_name": "Green Day",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 111,
+      "unique_subjects": 99,
+      "unique_objects": 13,
+      "top_predicates": [
+        [
+          "P175",
+          48
+        ],
+        [
+          "P166",
+          18
+        ],
+        [
+          "P123",
+          15
+        ]
+      ],
+      "id_stats": {
+        "Q2429": 50,
+        "Q179191": 50,
+        "Q47871": 50
+      }
+    },
+    {
+      "entity_name": "Shamanism",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 146,
+      "unique_subjects": 5,
+      "unique_objects": 145,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          57
+        ],
+        [
+          "rdf-schema#label",
+          28
+        ],
+        [
+          "description",
+          9
+        ]
+      ],
+      "id_stats": {
+        "Q103817": 50,
+        "Q37468109": 50,
+        "Q42042": 50,
+        "Q1043197": 50,
+        "Q112926875": 1
+      }
+    },
+    {
+      "entity_name": "Partial pressure",
+      "wikidata_ids_count": 5,
+      "valid_wikidata_ids": 5,
+      "total_triples": 210,
+      "unique_subjects": 5,
+      "unique_objects": 209,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          49
+        ],
+        [
+          "rdf-schema#label",
+          28
+        ],
+        [
+          "description",
+          18
+        ]
+      ],
+      "id_stats": {
+        "Q151885": 50,
+        "Q191785": 50,
+        "Q27165": 50,
+        "Q39552": 50,
+        "Q123373881": 16
+      }
+    },
+    {
+      "entity_name": "Take Me Out to the Ball Game",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 135,
+      "unique_subjects": 7,
+      "unique_objects": 128,
+      "top_predicates": [
+        [
+          "core#altLabel",
+          11
+        ],
+        [
+          "description",
+          8
+        ],
+        [
+          "P2089",
+          4
+        ]
+      ],
+      "id_stats": {
+        "Q709490": 50,
+        "Q136528569": 47,
+        "Q324526": 50
+      }
+    },
+    {
+      "entity_name": "Chalk",
+      "wikidata_ids_count": 7,
+      "valid_wikidata_ids": 7,
+      "total_triples": 111,
+      "unique_subjects": 5,
+      "unique_objects": 109,
+      "top_predicates": [
+        [
+          "description",
+          54
+        ],
+        [
+          "P123",
+          4
+        ],
+        [
+          "rdf-schema#label",
+          4
+        ]
+      ],
+      "id_stats": {
+        "Q142": 0,
+        "Q64282849": 1,
+        "Q51422827": 42,
+        "Q49468061": 21,
+        "Q30": 0,
+        "Q18041131": 50,
+        "Q21": 50
+      }
+    },
+    {
+      "entity_name": "Request for Comments",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 149,
+      "unique_subjects": 101,
+      "unique_objects": 49,
+      "top_predicates": [
+        [
+          "P31",
+          51
+        ],
+        [
+          "P123",
+          50
+        ],
+        [
+          "description",
+          19
+        ]
+      ],
+      "id_stats": {
+        "Q24705675": 50,
+        "Q212971": 50,
+        "Q217082": 50
+      }
+    },
+    {
+      "entity_name": "Kiribati",
+      "wikidata_ids_count": 3,
+      "valid_wikidata_ids": 3,
+      "total_triples": 106,
+      "unique_subjects": 11,
+      "unique_objects": 97,
+      "top_predicates": [
+        [
+          "description",
+          34
+        ],
+        [
+          "rdf-schema#label",
+          23
+        ],
+        [
+          "core#altLabel",
+          19
+        ]
+      ],
+      "id_stats": {
+        "Q172416": 50,
+        "Q710": 50,
+        "Q6458247": 23
+      }
+    },
+    {
+      "entity_name": "Space exploration",
+      "wikidata_ids_count": 12,
+      "valid_wikidata_ids": 12,
+      "total_triples": 417,
+      "unique_subjects": 75,
+      "unique_objects": 349,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          84
+        ],
+        [
+          "core#altLabel",
+          55
+        ],
+        [
+          "P921",
+          31
+        ]
+      ],
+      "id_stats": {
+        "Q36971380": 1,
+        "Q4169": 50,
+        "Q40218": 50,
+        "Q151197": 50,
+        "Q6545271": 38,
+        "Q1474376": 50,
+        "Q611075": 50,
+        "Q6999": 50,
+        "Q129186072": 1,
+        "Q180046": 50,
+        "Q18611977": 50,
+        "Q16502": 50
+      }
+    },
+    {
+      "entity_name": "North East England",
+      "wikidata_ids_count": 12,
+      "valid_wikidata_ids": 12,
+      "total_triples": 574,
+      "unique_subjects": 234,
+      "unique_objects": 338,
+      "top_predicates": [
+        [
+          "rdf-schema#label",
+          102
+        ],
+        [
+          "P7959",
+          52
+        ],
+        [
+          "P131",
+          43
+        ]
+      ],
+      "id_stats": {
+        "Q67535553": 50,
+        "Q71248244": 50,
+        "Q67300436": 50,
+        "Q47983": 50,
+        "Q110401739": 50,
+        "Q474200": 50,
+        "Q1293366": 49,
+        "Q31207": 50,
+        "Q23080": 50,
+        "Q12880211": 50,
+        "Q8434": 50,
+        "Q57357": 50
+      }
+    },
+    {
+      "entity_name": "The Price Is Right (American game show)",
+      "wikidata_ids_count": 6,
+      "valid_wikidata_ids": 6,
+      "total_triples": 277,
+      "unique_subjects": 12,
+      "unique_objects": 270,
+      "top_predicates": [
+        [
+          "description",
+          82
+        ],
+        [
+          "P106",
+          10
+        ],
+        [
+          "P69",
+          10
+        ]
+      ],
+      "id_stats": {
+        "Q357402": 50,
+        "Q5221": 50,
+        "Q21117088": 50,
+        "Q381178": 50,
+        "Q341511": 50,
+        "Q52269190": 45
+      }
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "instance_of": [
+    "instance of",
+    "is a",
+    "is",
+    "type of concept",
+    "subclass of",
+    "defined as",
+    "is a type of",
+    "is an example of",
+    "is described as"
+  ],
+  "name": [
+    "official name",
+    "original name",
+    "alternative name",
+    "alias",
+    "nickname",
+    "birth name",
+    "stage name",
+    "full name",
+    "is also known as",
+    "pseudonym",
+    "reporting mark",
+    "title",
+    "has title"
+  ],
+  "located_in": [
+    "located in the administrative territorial entity",
+    "located in",
+    "country",
+    "country of origin",
+    "capital of",
+    "headquarters location",
+    "place of birth",
+    "place of death",
+    "place of origin",
+    "place of commissioning",
+    "located on",
+    "located at",
+    "street address",
+    "administrative territorial entity",
+    "part of region",
+    "campus of",
+    "residence",
+    "seat of government"
+  ],
+  "adjacency": [
+    "located next to",
+    "borders",
+    "shares border with",
+    "adjacent to",
+    "located north of",
+    "located south of",
+    "bounded by",
+    "intersects with",
+    "connects to",
+    "near"
+  ],
+  "part_of": [
+    "part of",
+    "member of",
+    "part of the series",
+    "part of album",
+    "track on",
+    "subsidiary of",
+    "is a division of",
+    "subordinate to",
+    "component of",
+    "parent organization",
+    "consists of",
+    "composed of"
+  ],
+  "has_part": [
+    "has part",
+    "contains",
+    "includes",
+    "has member",
+    "has staff",
+    "consisted of",
+    "comprises"
+  ],
+  "inception_date": [
+    "inception",
+    "founded",
+    "date of establishment",
+    "founding year",
+    "start time",
+    "date of creation",
+    "built during",
+    "construction date",
+    "date of official opening",
+    "date of first use",
+    "premiere date"
+  ],
+  "dissolution_date": [
+    "dissolved",
+    "end time",
+    "date of dissolution",
+    "ceased existance",
+    "date of closing",
+    "date of scrapping",
+    "destruction event"
+  ],
+  "birth_date": [
+    "date of birth",
+    "birth year",
+    "born in"
+  ],
+  "death_date": [
+    "date of death",
+    "death year",
+    "died in",
+    "was the location of death of"
+  ],
+  "author": [
+    "author",
+    "writer",
+    "written by",
+    "screenwriter",
+    "creator",
+    "lyricist",
+    "songwriter",
+    "composer",
+    "devised by",
+    "author of",
+    "co-author",
+    "librettist"
+  ],
+  "performer": [
+    "cast member",
+    "performer",
+    "artist",
+    "starring",
+    "voiced by",
+    "voice actor",
+    "played character",
+    "musician",
+    "singer",
+    "group member",
+    "lead vocalist",
+    "participant"
+  ],
+  "director": [
+    "director",
+    "co-director",
+    "filmmaker",
+    "directed by",
+    "artistic director"
+  ],
+  "producer": [
+    "producer",
+    "produced by",
+    "production company",
+    "executive producer",
+    "co-producer",
+    "manufacturer",
+    "developer"
+  ],
+  "publisher": [
+    "publisher",
+    "record label",
+    "distributor",
+    "network",
+    "broadcast network",
+    "broadcast on",
+    "channel",
+    "released by",
+    "issued by"
+  ],
+  "publication_date": [
+    "publication date",
+    "release date",
+    "date of publication",
+    "air date",
+    "broadcast date",
+    "recording date",
+    "copyright date"
+  ],
+  "work_subject": [
+    "subject",
+    "topic",
+    "main subject",
+    "depicts",
+    "about",
+    "theme",
+    "genre",
+    "style",
+    "based on",
+    "inspired by",
+    "derived from"
+  ],
+  "language": [
+    "language",
+    "original language",
+    "language of work",
+    "translated from",
+    "translated into"
+  ],
+  "occupation": [
+    "occupation",
+    "profession",
+    "field of work",
+    "role",
+    "job title",
+    "specialization"
+  ],
+  "educated_at": [
+    "educated at",
+    "alma mater",
+    "college",
+    "university",
+    "school",
+    "student of"
+  ],
+  "employer": [
+    "employer",
+    "works for",
+    "employed by",
+    "organization",
+    "affiliated with"
+  ],
+  "position_held": [
+    "position held",
+    "office held",
+    "served as",
+    "title held",
+    "governor",
+    "mayor",
+    "senator",
+    "president",
+    "monarch",
+    "ruler of"
+  ],
+  "successor": [
+    "successor",
+    "succeeded by",
+    "followed by",
+    "replaced by",
+    "next in line"
+  ],
+  "predecessor": [
+    "predecessor",
+    "preceded by",
+    "follows",
+    "replaces",
+    "prior to"
+  ],
+  "sports_team": [
+    "member of sports team",
+    "team",
+    "club",
+    "played for",
+    "drafted by",
+    "current team"
+  ],
+  "sports_league": [
+    "league",
+    "conference",
+    "division",
+    "competed in",
+    "tournament"
+  ],
+  "sports_stats": [
+    "points",
+    "score",
+    "record",
+    "career games played",
+    "rank",
+    "position played",
+    "height",
+    "weight",
+    "championships won"
+  ],
+  "family_relation": [
+    "spouse",
+    "partner",
+    "married to",
+    "child",
+    "parent",
+    "father",
+    "mother",
+    "sibling",
+    "brother",
+    "sister",
+    "relative",
+    "grandparent",
+    "family"
+  ],
+  "award_received": [
+    "award received",
+    "nominated for",
+    "honored with",
+    "victory",
+    "winner",
+    "hall of fame inductee"
+  ],
+  "meta_reasoning": [
+    "mentions",
+    "does not mention",
+    "suggests",
+    "implies",
+    "refers to",
+    "describes",
+    "states",
+    "asks",
+    "checks",
+    "concludes",
+    "determines",
+    "context",
+    "evidence",
+    "reasoning",
+    "document mentions"
+  ],
+  "connection": [
+    "related to",
+    "associated with",
+    "connected to",
+    "has ties to",
+    "collaboration",
+    "partner in"
+  ]
+}

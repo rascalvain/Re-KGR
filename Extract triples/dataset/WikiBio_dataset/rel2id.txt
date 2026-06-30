@@ -1,0 +1,4995 @@
+"One 2 One"	0
+"Shakin' Not Stirred"	1
+"Straight to You"	2
+1884 ERA	3
+1884 RBI	4
+1884 batting average	5
+1884 pitching record	6
+1884 plate appearances	7
+1886 ERA	8
+1886 batting record	9
+1886 pitching record	10
+1900 election	11
+1930 Junior event finish position	12
+1930 Junior event speed	13
+1931 U.S. Open win	14
+1935 Junior Manx Grand Prix	15
+1936 350 cc European Championship	16
+1936 Junior TT	17
+1936 Senior TT	18
+1937 Senior TT	19
+1937 Snaefell Mountain Course lap record	20
+1939 Senior TT finish position	21
+1942 home run in World Series	22
+1945 RBI	23
+1945 batting average	24
+1945 doubles	25
+1945 home runs	26
+1945 on-base percentage	27
+1945 runs	28
+1945 slugging percentage	29
+1948 Junior race	30
+1949 Junior race	31
+1949 World Championship performance	32
+1951 earned run average	33
+1951 win-loss record	34
+1970s business status	35
+1985 season ERA	36
+1985 season record	37
+1990 season record	38
+1990 season saves	39
+200-meter freestyle world record time	40
+2004 teams	41
+2009 audience size	42
+2009 batting average with Fresno	43
+2009 number of stations	44
+2009 on-base percentage with Fresno	45
+2009 ranking	46
+500 cc race bike	47
+500 cc race retirement reason	48
+AP Poll rank in 1951	49
+Academy Award nomination category	50
+African American members	51
+All-Ivy League selection	52
+All-Star seasons	53
+All-Star years	54
+American Association pennants period	55
+April 2013 ranking	56
+April 2013 weekly listeners	57
+Atlanta Braves playing year	58
+Atlanta Braves playing years	59
+Attorney General cabinet leader	60
+Australian fast bowler	61
+B.S. degree year	62
+B.Sc. degree year	63
+Belfast City Council membership period	64
+Broadway debut work	65
+CEO	66
+CEO of	67
+Cabinet service term	68
+Carlos Arniches's social dramas were	69
+Chair of Board Practice at Odgers Berndtson since	70
+Chairman of Committee on the Environment term	71
+Cincinnati Reds playing years	72
+Cincinnati Reds tenure	73
+Committee on Fisheries term	74
+Committee on the Environment term	75
+County Ground	76
+Court of Appeals service end year	77
+Dean at University of Chicago	78
+Democratic National Committee membership period	79
+Democratic National Convention years	80
+English title	81
+European Parliament membership end year	82
+European Parliament membership start year	83
+Fifty-fifth Congress vacancy caused by	84
+Florida House of Representatives term end	85
+Florida House of Representatives term start	86
+Florida Senate term end	87
+Florida Senate term start	88
+General Secretary of the Alliance Party	89
+Hall of Fame induction year	90
+Hall of Fame title	91
+Hebrew name	92
+House of Commons electoral district	93
+Illinois House term end	94
+Illinois House term start	95
+Irish Senate membership end year	96
+Irish Senate membership start year	97
+Isle of Man TT wins	98
+January 8	99
+John Loder moved to	100
+June 25	101
+Legislative Assembly term	102
+Lieutenant Governor term end	103
+Lieutenant Governor term start	104
+List A debut tournament	105
+M.S. degree year	106
+M.Sc. degree year	107
+MLB career span	108
+MLB career spanned	109
+MLB debut year	110
+MP for Teck Ghee since	111
+MP period	112
+MVP ballot appearances	113
+Magdeburg Gymnasium attendance period	114
+Maine House of Representatives term end	115
+Maine House of Representatives term start	116
+Maine Senate term end	117
+Maine Senate term start	118
+Major League debut opponent	119
+Major League debut performance	120
+Major League debut role	121
+Malaysian Bar Council membership period	122
+Malaysian Youth Council membership period	123
+Managing Director of Institute for Transportation and Development Policy	124
+Managing Owner of	125
+Margrave of Meissen from	126
+Margrave of Meissen until	127
+Martina Sorbara	128
+Mayor of Valdez terms	129
+Meissen was seized by	130
+Member of Parliament for	131
+Minister of Health term end	132
+Minister of Health term start	133
+Monaco	134
+Montreal Expos playing year	135
+NBA career duration	136
+NBA career end year	137
+NBA career length	138
+NBA career start year	139
+NBA playing period	140
+NBA playing years	141
+NBA scoring average	142
+NBA teams	143
+NBA tenure with Knicks	144
+Nazi Party joining year	145
+New York recital debut location	146
+New York recital debut year	147
+New Zealand fast bowler	148
+ODI debut date	149
+ODI debut opponent	150
+Olympic Games represented	151
+Olympic medals breakdown	152
+Olympic medals count	153
+Parliamentary Committee on Welfare Issues term	154
+Parliamentary Under Secretary term	155
+Perrier and Thomas dissatisfaction	156
+Ph.D. degree year	157
+Ph.D. field	158
+Ph.D. year	159
+Pittsburgh Pirates tenure	160
+Police Commissioner term	161
+President of	162
+President of Institute for Transportation and Development Policy	163
+Professor Emeritus since	164
+Progressive Democrats membership end year	165
+Progressive Democrats membership start year	166
+Puerto Rican members	167
+RBIs in 1943	168
+RBIs in 1945	169
+Richmond Football Club position	170
+Robert Francis "Bobby" Kennedy	171
+Robert Holgate had	172
+Royal Medal award year	173
+SS joining year	174
+Scotland debut match	175
+Scotland debut year	176
+Secretary term	177
+Senate service duration	178
+Senate service end year	179
+Senate service start year	180
+Senate service tenure rank	181
+Senate status at retirement	182
+Speaker of the Assembly year	183
+Special Assistant US Attorney term	184
+St. Louis Cardinals tenure	185
+State of Origin participation year	186
+Super League debut club	187
+Super League debut year	188
+Test squad series opponent	189
+Transportation Director of Environmental Defense Fund	190
+U.S. National Team tenure	191
+US Commissioner term	192
+United States House of Representatives service end year	193
+United States House of Representatives service start year	194
+University of Halle attendance period	195
+West Indies fast bowler	196
+World Series RBI	197
+World Series appearances	198
+World Series batting average	199
+World Series games played	200
+World Series hits	201
+World Series home runs	202
+World Superbike Championship debut circuit	203
+World War II military service	204
+World War II military unit	205
+abandoned	206
+abandoned studies at age	207
+abbreviation	208
+ability	209
+abolished	210
+abolished on	211
+about £250	212
+accepted	213
+accepted position assisting Joe Torre	214
+accepted roles of	215
+accession	216
+accompanied	217
+accused	218
+achieved	219
+achieved against	220
+achieved fame with	221
+achieved fame with novel	222
+achieved first significant success	223
+achieved first victory on	224
+achieved hegemony amongst	225
+achieved highest Ligue 1 finish with	226
+achieved in	227
+achieved milestone	228
+achieved radio hit with	229
+achievement	230
+acquired along with	231
+acquired by	232
+acquired by Houston Rockets	233
+acquired services of	234
+acted as	235
+acted as executive producer on	236
+acted in	237
+acted in 1947 Spanish film version of	238
+acted in TV show	239
+acted in big studio production	240
+acted in film	241
+acted in independent film	242
+acted on Western sitcom	243
+acted opposite	244
+acting career began in	245
+acting career span	246
+acting debut	247
+acting debut in	248
+acting debut year	249
+acting period	250
+acting role assumed after	251
+active during	252
+active in	253
+active period	254
+active region	255
+active years	256
+active years in band	257
+actively supported	258
+activity	259
+activity level	260
+actress field	261
+adapted into	262
+adapted to	263
+added at	264
+added business	265
+added clause	266
+addicted to	267
+adjudged	268
+admitted	269
+admitted to	270
+admitted to bar	271
+admitted to the bar	272
+adopted	273
+adopted by	274
+adopted pseudonym Gerald Wiley to avoid	275
+advanced to	276
+advised U.S. Department of Transportation	277
+advised on	278
+adviser period	279
+advises clients on	280
+advocacy	281
+advocate for	282
+advocate of	283
+advocated	284
+advocated for	285
+advocates	286
+affiliation	287
+after	288
+after European tour	289
+after release	290
+after retiring from playing	291
+after span	292
+age	293
+age 12	294
+age 21	295
+age 33 at	296
+age 41	297
+age 5 activity	298
+age 8	299
+age at Antoine Grimaldi's death	300
+age at death	301
+age at enlistment	302
+age at escapes	303
+age at move to Queensland	304
+age at recruitment	305
+age at time of deed	306
+age began conducting interest	307
+age during 2012 Summer Olympics	308
+age group	309
+age when competing in 2008 Olympics	310
+age when discovered Chuck Berry	311
+age when joined Celtic	312
+age when winning Olympic medal	313
+aged	314
+agitated on behalf of	315
+agreed to join band	316
+aided by singles	317
+aims to identify	318
+aired	319
+aired across	320
+aired between	321
+aired from	322
+aired in	323
+aired on	324
+aired until	325
+aka	326
+album release period	327
+album released	328
+alderman from	329
+alleged	330
+allow	331
+allowed	332
+almost died while	333
+also drafted by	334
+also known as	335
+also played position	336
+also plays as	337
+also referred to as	338
+altered	339
+among	340
+ancestral name	341
+and Phil Ehart	342
+annexed	343
+annexed by	344
+annexed the state of Yong	345
+announced	346
+announced appointment of	347
+announced exploration of run as	348
+announced intent to step down	349
+announced punk EP	350
+announced retirement	351
+announced retirement due to	352
+announced retirement from politics	353
+announced retirement on	354
+answered	355
+appearance period	356
+appearances	357
+appearances for Salford Red Devils	358
+appearances for Widnes Vikings	359
+appearances for Wigan Warriors	360
+appearances restricted by	361
+appeared as	362
+appeared as backup catcher in year	363
+appeared as host on	364
+appeared as second baseman	365
+appeared at	366
+appeared for	367
+appeared in	368
+appeared in "Leave It to Beaver" episodes	369
+appeared in British film	370
+appeared in TV show	371
+appeared in TV shows	372
+appeared in advertising campaigns for	373
+appeared in all episodes	374
+appeared in episode	375
+appeared in episodes of	376
+appeared in feature film	377
+appeared in film	378
+appeared in films	379
+appeared in films between	380
+appeared in first film	381
+appeared in first film in	382
+appeared in games for	383
+appeared in games for Giants	384
+appeared in games for Phillies in 1964	385
+appeared in games for Washington Senators	386
+appeared in guest roles on	387
+appeared in mainstream film	388
+appeared in number of episodes of The Rifleman	389
+appeared in recurring roles on	390
+appeared in serial	391
+appeared in series	392
+appeared in sitcom	393
+appeared in smaller roles after	394
+appeared in soap opera	395
+appeared in spin-off	396
+appeared in spin-off series	397
+appeared in stage production	398
+appeared in television drama	399
+appeared in television movie	400
+appeared in television series	401
+appeared in television show	402
+appeared in video for	403
+appeared in western	404
+appeared in year	405
+appeared on	406
+appeared on SportsCenter	407
+appeared on television programs including	408
+appeared regularly on	409
+appeared three times in	410
+appeared with	411
+appeared with The Beau Brummels in	412
+appears in	413
+appears in music video	414
+appears on	415
+appointed	416
+appointed Associate Professor in	417
+appointed Associate Professor of Social Work at	418
+appointed Commander-in-Chief	419
+appointed Controller of Drama at Central Television in	420
+appointed Creative Director of Givenchy in	421
+appointed Governor of Alaska Territory by	422
+appointed Governor of Gibraltar	423
+appointed Lieutenant Governor	424
+appointed President of York University in	425
+appointed Professor at University of Buckingham	426
+appointed Professor of Military History at	427
+appointed Queen's Counsel	428
+appointed UUP spokesperson on environment in Assembly	429
+appointed UUP spokesperson on health	430
+appointed as	431
+appointed as Chairman and Managing Director of the State Bank of India	432
+appointed by	433
+appointed captain of	434
+appointed captain year	435
+appointed commander of the Canadian Forces in Afghanistan in	436
+appointed first president of	437
+appointed in	438
+appointed judge of	439
+appointed judge year	440
+appointed manager of Celtic	441
+appointed manager of Middlesbrough	442
+appointed manager of Scotland national team	443
+appointed position	444
+appointed president of Smith College in	445
+appointed to	446
+appointed year	447
+appointment	448
+appointment as Sheriff in Richelieu District	449
+appointment date	450
+appointment date as Senator for life	451
+appointment date for Parliamentary Secretary roles	452
+appointment decade	453
+appointment year	454
+appointment year Archbishop of Tuam	455
+appointment year as Archbishop of York	456
+appointment year as Music Director of the Bournemouth Symphony Orchestra	457
+appointment year to Quebec Superior Court	458
+apprenticed to	459
+approached	460
+are	461
+are a type of	462
+are daughters of	463
+are given by	464
+are in rotation on	465
+argued	466
+argued against	467
+argues that	468
+arranged	469
+arranged for	470
+arrested by	471
+arrested for	472
+arrived in New York as	473
+articled as	474
+articled to	475
+articling mentor	476
+artistic approach	477
+artistic career period	478
+artistic director of	479
+ascended the throne	480
+ascended the throne when	481
+asked	482
+asked Paul Taylor to rejoin Winger	483
+asked a messenger from Zhou about	484
+assassinated	485
+assassinated by	486
+assassinated in	487
+assassination year	488
+assert	489
+assigned Daniel Ménard to direct	490
+assigned to	491
+assigned to Escadrille 67 on	492
+assignment start month and year	493
+assistant conductor of	494
+assistant directed	495
+assisted by	496
+associate conductor of	497
+associated musician	498
+associated with	499
+associated with art movement	500
+assumed at least	501
+assumed identity	502
+assumed office as	503
+assured	504
+at event	505
+at time of request	506
+at-bats in 2004	507
+attached to	508
+attacked	509
+attacked and killed	510
+attempted to	511
+attempted to hire	512
+attempted to integrate	513
+attempted to kill	514
+attempted to take the place of	515
+attempted to wrest control of China from	516
+attempts to spread	517
+attended	518
+attended Duke University	519
+attended University of Richmond on	520
+attends	521
+attracted attention of	522
+attributed to	523
+audience in 2009	524
+author	525
+author of	526
+author of critical works on	527
+authored	528
+authored Amateur Scientist column	529
+authored or co-authored	530
+averaged	531
+averaged assists per game	532
+averaged assists per game in 2013-14 season	533
+averaged points for team	534
+averaged points per game	535
+averaged points per game in 2013-14 season	536
+averaged points per game with Knicks	537
+averaged rebounds per game	538
+averaged rebounds per game in 2013-14 season	539
+averaged rebounds per game with Knicks	540
+avoided talk of	541
+award	542
+award received	543
+awarded	544
+awarded "Best All-Around Drummer"	545
+awarded "Best Progressive Rock Drummer"	546
+awarded ASIST Award of Merit	547
+awarded American Swimmer of the Year	548
+awarded Elliott Cresson Medal	549
+awarded FINA Swimmer of the Year	550
+awarded German Cross in Gold	551
+awarded Guggenheim Fellowship in	552
+awarded Knight's Cross	553
+awarded Order of the White Eagle	554
+awarded Swimming World's World Swimmer of the Year	555
+awarded at	556
+awarded by	557
+awarded for	558
+awarded for performance against	559
+awarded in	560
+awarded military pilot's brevet no. 5254 on	561
+awarded to	562
+awarded year	563
+bachelor's degree from	564
+bachelor's degree year	565
+ban year	566
+band	567
+baptism location	568
+baptized by	569
+barred Michael Savage for	570
+barred from entering	571
+barred since	572
+barrister practice end year	573
+base location	574
+based in	575
+based on	576
+based on writings of	577
+bassist settled with	578
+batted	579
+batting ability	580
+batting average	581
+batting average in 2004	582
+batting average in 2008	583
+batting average in 2009	584
+batting average in rookie year	585
+batting order position	586
+batting style	587
+beat	588
+became	589
+became Assistant Sub-Inspector of Punjab Police	590
+became Baltimore Orioles manager in year	591
+became Chief Baseball Officer for Arizona Diamondbacks	592
+became Commander-in-Chief of the Navy on	593
+became Deputy Superintendent of Police	594
+became Indian Police Service officer	595
+became President	596
+became Professor at	597
+became Professor in	598
+became Professor of Social Science in	599
+became Queen's Counsel	600
+became adviser to	601
+became assistant professor in	602
+became assistant professor of physics at	603
+became associate of	604
+became chairman of	605
+became co-leader of	606
+became dominant in	607
+became extinct on	608
+became famous due to	609
+became full-time manager of Coventry City	610
+became general manager of	611
+became known as	612
+became leader of Alliance Party	613
+became major film star in	614
+became manager of	615
+became member	616
+became member in	617
+became member of	618
+became member of Sorel Board of Notaries	619
+became minister in	620
+became one of the best shooters at	621
+became one of the most prolific shooters at	622
+became overwhelmed by	623
+became owner of Portland Pirates	624
+became president in year	625
+became senior researcher for	626
+became touring guitarist with	627
+became vice-president in year	628
+became well known after	629
+before Winger	630
+befriended	631
+began	632
+began 2010 season with	633
+began NFL career	634
+began acting	635
+began acting career	636
+began acting in	637
+began airing	638
+began as	639
+began blogging	640
+began blogging about	641
+began career	642
+began career as	643
+began career at	644
+began career at age	645
+began career in	646
+began career in fashion in	647
+began career in golf industry in	648
+began career in journalism	649
+began career in sports industry	650
+began career place	651
+began career time	652
+began career with	653
+began career working in	654
+began career year	655
+began coaching at	656
+began coaching career	657
+began collecting coins	658
+began college career at	659
+began college career in	660
+began competing in	661
+began composing songs together	662
+began developing	663
+began film career	664
+began first-class career	665
+began gymnastics at age	666
+began law practice	667
+began league career	668
+began managerial career at	669
+began managerial career in	670
+began on ABC	671
+began performing in	672
+began performing stand-up comedy in	673
+began performing with	674
+began playing	675
+began playing drums at age	676
+began playing guitar at age	677
+began playing music	678
+began playing music with	679
+began playing softball	680
+began playing the violin at age	681
+began practice in	682
+began practicing law location	683
+began producing	684
+began producing lithographs	685
+began professional baseball career	686
+began professional baseball career team	687
+began professional baseball career year	688
+began professorship in	689
+began pursuing	690
+began racing	691
+began studies at	692
+began studies at Vienna Musikhochschule	693
+began swimming	694
+began swimming at age	695
+began taking	696
+began teaching himself	697
+began to luge	698
+began to paint	699
+began working in	700
+began working with	701
+began writing	702
+began writing plays in	703
+beginning	704
+believe	705
+believed purpose	706
+believed to have been shed for	707
+belong to	708
+belongs to league	709
+beloved by	710
+bequeathed to	711
+best bowling figures	712
+best bowling performance	713
+best finish	714
+best finish achieved with team	715
+best known as	716
+best known for	717
+best known for collaboration with	718
+best known for creating	719
+best known for role	720
+best known for role as	721
+best known for roles in	722
+best known for roles in film	723
+best known for work on	724
+best known for work with	725
+best known for writing	726
+best playing position	727
+best remembered for role as	728
+best season year	729
+between Georgia Tech and Colorado	730
+biggest hit of	731
+birth and death years	732
+birth city year	733
+birth date	734
+birth name	735
+birth place	736
+birth year	737
+birth-death years	738
+birthdate	739
+birthplace	740
+blamed for	741
+board member from	742
+board member of	743
+board member until	744
+bore	745
+born	746
+born as	747
+born in	748
+born on	749
+born to	750
+born with	751
+bought	752
+bought interest in	753
+bought out Tommy Nutter in	754
+bowling average	755
+bowling average in 1959-60 season	756
+bowling style	757
+bowling variation	758
+branched into	759
+breakthrough performance for	760
+breakthrough role	761
+briefly joined	762
+broadcast month	763
+broadcast on	764
+broadcast region	765
+broadcast show on Fuse TV	766
+broadcast years	767
+broadcaster	768
+broke	769
+broke 500 m record in	770
+broke into	771
+broke into Celtic first team	772
+broke junior world record at 500 m	773
+broke own junior world record at 1500 m	774
+broke up	775
+brother	776
+brought	777
+brought by	778
+brought to light	779
+builder of	780
+built	781
+built team in Indianapolis with	782
+burial place	783
+burial type	784
+buried beside	785
+buried in	786
+buried next to	787
+business partner	788
+business type	789
+by	790
+by 1851	791
+call-up date	792
+called	793
+called "Dagger John" because	794
+called Charles Lee	795
+called Jerry Leger	796
+called for	797
+called in Danish	798
+called in Faroese	799
+called to	800
+called to Bar year	801
+called to Quebec bar	802
+called to bar as	803
+called to the Bar of Quebec	804
+called to the bar	805
+called to the bar in	806
+called to the bar year	807
+called up to	808
+called up to senior France team in	809
+came from	810
+came into possession of inheritance	811
+came to Georgia as	812
+came to international prominence	813
+came to prominence in	814
+came to public limelight in	815
+came to the throne	816
+cameo appearance as	817
+cameo appearance in	818
+campaign target	819
+campaigned over	820
+can also play as	821
+can be awarded to	822
+can be classified into	823
+can be connected to	824
+can be heard on	825
+can play	826
+capped by Scotland	827
+capped for	828
+capped once by	829
+captain tenure	830
+captained	831
+captained team at	832
+captured	833
+captured All Irvine League honors	834
+captured and held as	835
+career ERA	836
+career RBI	837
+career batting average	838
+career began in	839
+career end year	840
+career hits	841
+career home runs	842
+career innings pitched	843
+career length	844
+career managerial record losses	845
+career managerial record wins	846
+career peak	847
+career period	848
+career record	849
+career span	850
+career spanned	851
+career start	852
+career start period	853
+career start year	854
+career started in	855
+career strikeouts	856
+career win-loss record	857
+carried	858
+carried on business	859
+carried out	860
+carried out by	861
+cast as	862
+cast in	863
+cast in Leave It to Beaver	864
+cast in lead role of	865
+catches taken	866
+categorized as	867
+caught	868
+caught by	869
+cause of death	870
+caused	871
+caused by	872
+ceased to last due to	873
+celebrated 90th birthday	874
+celebrated by	875
+chaired	876
+chairman of	877
+chairman of National Alliance from	878
+chairman of National Alliance until	879
+challenged	880
+challenges	881
+championed	882
+changed	883
+changed Senate districts	884
+changed lineup from	885
+changed lineup to	886
+changed role from player to	887
+character in	888
+characteristics	889
+characterized Michael Savage's views as	890
+characterized as	891
+characterized by	892
+characterized views as	893
+charged with	894
+charges	895
+charted at	896
+childhood activity	897
+childhood nickname origin	898
+children	899
+children count	900
+choreographer	901
+chose not to sign with	902
+chose to reside in	903
+chosen as	904
+chosen for	905
+citation note	906
+citation rank between 2009 and 2013	907
+cited	908
+cited as	909
+cited reason for transfer	910
+cites as main influence	911
+civilian life success	912
+claim	913
+claimed	914
+claimed Stephen George Ridzik	915
+claimed birthplace	916
+claimed that he was married to	917
+claimed to have assumed	918
+claims	919
+clients included	920
+climbed especially	921
+climbed widely	922
+clinched title for	923
+clocked	924
+co-actor	925
+co-author period	926
+co-driven with	927
+co-established	928
+co-founded	929
+co-founded Southern Records distribution company with	930
+co-founded The Rascals	931
+co-founded by	932
+co-founder of	933
+co-founder of "La Revue Légale"	934
+co-founder of Moody Marsden Band with	935
+co-founders of Winger	936
+co-founders with	937
+co-produced	938
+co-regent with	939
+co-ruled with	940
+co-wrote	941
+co-wrote and sang on	942
+co-wrote hit song	943
+co-wrote song	944
+co-wrote song "One Way Drive" with	945
+coached	946
+coached Buffalo Bills special teams	947
+coached Detroit Lions	948
+coached Detroit Pistons for	949
+coached Philadelphia Eagles	950
+coached Running Backs since	951
+coached Washington Redskins special teams	952
+coached at	953
+coached at Georgia Tech	954
+coached by	955
+coached positions at Georgia Tech	956
+coached with	957
+coaches	958
+coaching career start year	959
+coaching period at West Perth	960
+coined term	961
+coined term for Pattern is Movement	962
+coined terms	963
+collaborated with	964
+collaboration between	965
+collaborator in Young & Moody with	966
+collected coins from	967
+collector of	968
+college	969
+college football years	970
+college games played in 2004	971
+college team	972
+collided with	973
+columnist and commentator for	974
+columnist for	975
+combined	976
+combined traits	977
+commandant tenure end	978
+commandant tenure start	979
+commanded	980
+commanded Canadian Forces in Afghanistan	981
+commanded Companion cavalry on	982
+commemorated by	983
+commemorated in	984
+commenced	985
+commenced practice	986
+commenced training as	987
+commenced training in	988
+commissioned	989
+commissioned Ensign	990
+commissioned construction of	991
+committed suicide	992
+committed suicide by	993
+committed to	994
+committee membership	995
+committee membership start year	996
+commonly known as	997
+commonly referred to as	998
+company	999
+compared to	1000
+competed	1001
+competed against	1002
+competed as	1003
+competed at	1004
+competed at first international meets	1005
+competed for	1006
+competed in	1007
+competed in 2008 Olympics event	1008
+competed in Italian Formula Three Championship from	1009
+competed in Italian Formula Three Championship until	1010
+competed in event	1011
+competed on	1012
+competed on first day of 2008 US Olympic Team Trials	1013
+competes in	1014
+competes regularly in	1015
+compiled	1016
+complained about	1017
+completed	1018
+completed Bachelor's degree in Visual Arts	1019
+completed Master's degree in Fine Arts	1020
+completed and lost	1021
+completed degree in	1022
+completed passes in 2010 season	1023
+completed pilot training	1024
+completed work in	1025
+complimented	1026
+complimented Carlos Arniches in year	1027
+composed	1028
+composed of	1029
+composed original score for	1030
+composed score for	1031
+composing music for	1032
+composition of major international competition medals	1033
+comprises member	1034
+concealed	1035
+conceded defeat in favour of	1036
+concocted story	1037
+condemned	1038
+conducted	1039
+conducted Warsaw Philharmonic Orchestra from	1040
+conducted fieldwork in	1041
+conducted original nuclear test	1042
+conducted recording session of	1043
+conducted scholarly work on	1044
+conducts	1045
+conference	1046
+confirmed	1047
+confirmed by	1048
+conquered	1049
+conquered territory from	1050
+conquered territory to	1051
+consecrated Bishop of New York in	1052
+consecrated as Bishop of Raphoe	1053
+considered	1054
+considered as	1055
+considered by some	1056
+considered to be	1057
+consists of	1058
+consists of children	1059
+consolidated	1060
+constitute	1061
+consulted with	1062
+contained	1063
+contained new recording of	1064
+contains	1065
+content	1066
+contest result in 2007 New South Wales state election	1067
+contested	1068
+contested riding	1069
+continued	1070
+continued acting after Leave It to Beaver	1071
+continued and toured as	1072
+continued as	1073
+continued as editor of "La Revue Légale"	1074
+continued film appearances until	1075
+continued research at	1076
+continued to play	1077
+continued to play minor leagues until	1078
+continued to run	1079
+continued to work in	1080
+continued to write and develop	1081
+continued work of	1082
+continues to pursue	1083
+contract expired at	1084
+contract sold back to	1085
+contract sold to	1086
+contracted	1087
+contributed arrangements for	1088
+contributed to	1089
+contributed to name	1090
+contributed to preservation of	1091
+contributed to restoration of	1092
+contributed to team's 7th place finish in	1093
+contribution field	1094
+contributor to	1095
+converted into	1096
+convicted for	1097
+corresponded with	1098
+correspondent period	1099
+could have ended	1100
+could not accept invitation due to	1101
+could not manage	1102
+could not reach	1103
+could play drums for	1104
+councillor term end year	1105
+councillor term start year	1106
+counterattacked and recaptured	1107
+country	1108
+coupled with blogging	1109
+courtesy name	1110
+cover	1111
+covered	1112
+create	1113
+created	1114
+created Baronet	1115
+created a	1116
+created cardinal in	1117
+created images of	1118
+created in	1119
+created on	1120
+creators	1121
+credited as	1122
+credited in early episodes of	1123
+credited with	1124
+credited with developing	1125
+credited with formation of	1126
+credited with helping build	1127
+credited with helping develop	1128
+credited with helping to shape	1129
+credited with introduction of	1130
+credited with inventing	1131
+cricketer type	1132
+critical of	1133
+critically acclaimed	1134
+criticizes	1135
+culminates in	1136
+current club	1137
+current country	1138
+current department	1139
+current director of	1140
+current employer	1141
+current members	1142
+current membership	1143
+current name	1144
+current occupation	1145
+current political role	1146
+current position	1147
+current role	1148
+current status	1149
+current team	1150
+current two-piece sound attributed to influences	1151
+current world record-holder	1152
+currently	1153
+currently Creative Director of	1154
+currently Non-Executive Director on	1155
+currently activity	1156
+currently airing	1157
+currently based in	1158
+currently competes in	1159
+currently composed of	1160
+currently guest stars on	1161
+currently is	1162
+currently plays for	1163
+currently position	1164
+currently racing in	1165
+currently resides in	1166
+currently stars as	1167
+currently working on	1168
+currently works as	1169
+darted out of	1170
+date	1171
+date of birth	1172
+date of death	1173
+date of joining Australian Labor Party	1174
+death date	1175
+death place	1176
+death year	1177
+debut album	1178
+debut for Derbyshire	1179
+debut match	1180
+debut match level	1181
+debut match opponent	1182
+debut race	1183
+debut season	1184
+debut solo album release year	1185
+debut year	1186
+debuted at	1187
+debuted for	1188
+debuted in	1189
+debuted on	1190
+decided	1191
+decided to meet	1192
+decided upon	1193
+declared bankruptcy	1194
+declined to rejoin Winger	1195
+dedicated to	1196
+dedication	1197
+deemed	1198
+defeated	1199
+defeated at	1200
+defeated by	1201
+defeated in	1202
+defeated in election	1203
+defected to	1204
+defended title	1205
+defended title in	1206
+defender of	1207
+defined a historian as	1208
+defined as	1209
+defined laissez-faire capitalism as	1210
+degree	1211
+degree earned	1212
+degree earned in year	1213
+degree field	1214
+degree in	1215
+degree institution	1216
+degree obtained	1217
+degree year	1218
+delegate period	1219
+delegate to	1220
+delegate year	1221
+delegation member from	1222
+delegation member until	1223
+delegation membership year	1224
+demonstrate	1225
+denied	1226
+denounced	1227
+departed	1228
+depicted in	1229
+depicts	1230
+deployed to	1231
+derived from	1232
+descendant of	1233
+descended from	1234
+described	1235
+described Carlos Arniches as	1236
+described Ron Meagher as	1237
+described album All Together as	1238
+described and codified	1239
+described as	1240
+described development of chick embryos in	1241
+described first impression of Hermann Göring	1242
+describes	1243
+describes himself as	1244
+describes his business as	1245
+describes self in interview as	1246
+description	1247
+designed	1248
+designed for	1249
+designed theatre works by	1250
+determined to make success of	1251
+developed	1252
+developed The Brief in	1253
+developed concept	1254
+developed interest in	1255
+developed philosophical system	1256
+developed tendonitis before release of	1257
+devoted its time to	1258
+devoted to study of	1259
+diagnosed with cancer	1260
+did	1261
+did Social Psychology post-graduate work in	1262
+did Sociology post-graduate work in	1263
+did not cite	1264
+did not complete	1265
+did not hold down	1266
+did not make	1267
+did not pitch Major League game with	1268
+did not play as	1269
+did not play in	1270
+did not play in Test series against	1271
+did not play much	1272
+did not regain	1273
+did not win any honours with	1274
+did not win championship between	1275
+did post-graduate work in Social Psychology at	1276
+did post-graduate work in Sociology at	1277
+did session work for	1278
+did voice acting for	1279
+died	1280
+died after	1281
+died after illness of	1282
+died at	1283
+died at age	1284
+died before	1285
+died during	1286
+died from	1287
+died in	1288
+died in location	1289
+died in office on	1290
+died in year	1291
+died of	1292
+died on	1293
+died shortly before	1294
+died while	1295
+died without	1296
+died year	1297
+differed from	1298
+directed	1299
+directed by	1300
+directed episodes of	1301
+directed feature film	1302
+directed film	1303
+directed motion picture	1304
+directed music videos for	1305
+director	1306
+director of	1307
+director of Collingwood Football Club	1308
+directorial debut film	1309
+directs	1310
+disabled from playing for over a year by	1311
+disbanded in	1312
+discharged from	1313
+discharged from military after	1314
+discharged reason	1315
+discovered	1316
+discovered feeding center in the hypothalamus	1317
+dismayed by	1318
+displayed at	1319
+disqualified Alderman from	1320
+dissolved	1321
+distributed by	1322
+district judge term	1323
+disturbed by	1324
+divorce year	1325
+divorced	1326
+divorced by age	1327
+divorced in	1328
+documented	1329
+documents lineup in	1330
+does not claim to be	1331
+dominated in time period	1332
+donated	1333
+donated coin collections to	1334
+donated millions of dollars to	1335
+donated mollusk shells to	1336
+donated money for construction of	1337
+donated money to build	1338
+donated to	1339
+done session work with	1340
+doubled the size of	1341
+downgraded to	1342
+draft position	1343
+draft round	1344
+drafted	1345
+drafted Lionel Aldridge	1346
+drafted by	1347
+drafted in	1348
+drafted in draft	1349
+drafted in round	1350
+drafted in year	1351
+drafted with	1352
+dramatized in	1353
+dressed three out of four Beatles for	1354
+drew Moon over	1355
+drew caricature of	1356
+dribbled with	1357
+drove	1358
+drove Chrysler Viper GTS-R for	1359
+drove in	1360
+due to	1361
+duration	1362
+duration as Rector and President of Bocconi University in Milan	1363
+duration as mayor	1364
+duration at White Hart Lane	1365
+duration in Braves starting rotation	1366
+duration of education at Magdalen College	1367
+duration on White Rock City Council	1368
+during	1369
+during Senate tenure	1370
+early acting roles	1371
+early attempts	1372
+early sketches subject	1373
+earned	1374
+earned 50 caps	1375
+earned Bachelor of Arts degree in	1376
+earned Doctor of Philosophy degree in	1377
+earned Juris Doctor degree	1378
+earned Juris Doctor degree in	1379
+earned Master of Arts degree in	1380
+earned Ph.D. at	1381
+earned after	1382
+earned bachelor's degree at	1383
+earned berth in	1384
+earned caps at	1385
+earned degree	1386
+earned degree in	1387
+earned degrees at	1388
+earned doctorate from	1389
+earned doctorate in	1390
+earned economics degree	1391
+earned first of 14 caps for	1392
+earned for Linda Hunt	1393
+earned him	1394
+earned law degree	1395
+earned master's degree at	1396
+earned nomination	1397
+earned nominations	1398
+earned selection for	1399
+earned title	1400
+edited	1401
+editions years	1402
+editor	1403
+editor for	1404
+editor of	1405
+editor-in-chief of	1406
+editor-in-chief of Wprost	1407
+editor-in-chief period on "Wprost"	1408
+editor-in-chief period on "Wydarzenia"	1409
+editor-in-chief start date at "Newsweek Polska"	1410
+educated at	1411
+educated at home by	1412
+education	1413
+education degree	1414
+education institution	1415
+education location	1416
+effect	1417
+effective from	1418
+elected	1419
+elected Fellow of the Royal Television Society in	1420
+elected MP for	1421
+elected MP for South West Surrey in	1422
+elected as	1423
+elected at	1424
+elected council term	1425
+elected for	1426
+elected in	1427
+elected in 1923	1428
+elected mayor of Chicago	1429
+elected to	1430
+elected to Althing for	1431
+elected to Edmonton's first town council	1432
+elected to House of Commons	1433
+elected to Lok Sabha	1434
+elected to Naismith Basketball Hall of Fame	1435
+elected to Parliament	1436
+elected to Reykjavík City Council in	1437
+elected to board of	1438
+elected to federal parliament	1439
+elected to prior Assembly for North Down	1440
+election to House of Commons	1441
+election to Quebec National Assembly	1442
+election year	1443
+election year to California State Assembly	1444
+election year to House of Commons	1445
+election year to Punjab Legislative Assembly	1446
+elevated to position	1447
+elevation year	1448
+eligible to play for	1449
+eliminated by	1450
+eliminated in	1451
+embarked upon	1452
+embraces	1453
+emerged as	1454
+emerged victorious over	1455
+emigrated in	1456
+emigrated to	1457
+emigration year	1458
+employed by	1459
+employment	1460
+employs instrument	1461
+enabled	1462
+encouraged	1463
+encouraged and established	1464
+encouraged family clusters to pursue	1465
+ended	1466
+ended 1882 year as	1467
+ended acting in	1468
+ended career with	1469
+ended playing days with	1470
+engaged in	1471
+engineered Big Black's album	1472
+engineered The Jesus and Mary Chain's album	1473
+engineered and produced for	1474
+engineered recordings for	1475
+enjoy	1476
+enjoyed	1477
+enjoys	1478
+enlisted in	1479
+enlistment date	1480
+enrolled at	1481
+enrolled at Bucknell	1482
+enrolled early at Georgia Tech in	1483
+entered	1484
+entered AAGPBL	1485
+entered Academy of Fine Arts in	1486
+entered Imperial Navy	1487
+entertained Anne de Gaulle with	1488
+entombed together at	1489
+entrusted governmental matters to	1490
+escaped from police custody	1491
+escaped from police custody location	1492
+escaped prisoner of war	1493
+established	1494
+established Euston Films in	1495
+established Savile Row brand in	1496
+established as	1497
+established button-making business	1498
+established by	1499
+established himself as	1500
+established in	1501
+established own practice	1502
+established to rule	1503
+estimated	1504
+ethnicity	1505
+evaded	1506
+event	1507
+event name	1508
+eventually reached	1509
+eventually rejoined	1510
+eventually started for	1511
+evident in	1512
+evoke	1513
+evolved to include	1514
+example	1515
+excelled as	1516
+excelled in	1517
+excited after	1518
+executed at	1519
+execution year	1520
+exercised	1521
+exhibited in	1522
+exhibited work in	1523
+expanded	1524
+expanded brand into	1525
+expanded concept of	1526
+expanded into	1527
+expanded to	1528
+experienced	1529
+experienced first mainstream success	1530
+explains	1531
+explore	1532
+explores	1533
+extends beyond	1534
+extends to	1535
+faced challenges from	1536
+faced internal strife from	1537
+failed to come to agreement with	1538
+failed to make roster of	1539
+failed to protect	1540
+family background	1541
+family descent	1542
+family position	1543
+family religion	1544
+famous for	1545
+fascination	1546
+father	1547
+father nationality	1548
+father occupation	1549
+father of	1550
+father origin	1551
+father profession	1552
+father-in-law	1553
+father’s occupation	1554
+favored	1555
+featured	1556
+featured actor	1557
+featured in	1558
+featured in article	1559
+featured on	1560
+featured on cover of	1561
+featured production by	1562
+featured single	1563
+featured singles	1564
+features	1565
+features guest artist	1566
+featuring guitar work and production by	1567
+fell from	1568
+fell on change grip skill on	1569
+fellow of	1570
+fellowship	1571
+field of study	1572
+filled in on	1573
+film	1574
+film and television credits genre	1575
+film career began	1576
+film credits include	1577
+film debut role	1578
+film debut year	1579
+film release year	1580
+film year	1581
+final Minor Counties Championship appearance against	1582
+final Minor Counties Championship appearance year	1583
+final first-class match	1584
+final first-class match opponent	1585
+final test series	1586
+final year record in 1951	1587
+finalist in	1588
+financial analyst from	1589
+financial analyst until	1590
+financially backed by	1591
+finished	1592
+finished 12th at	1593
+finished 12th in Race 1 at	1594
+finished 13th in Race 2 at	1595
+finished 16th in	1596
+finished 17th at	1597
+finished 2007 Toulon Tournament as	1598
+finished 21st at	1599
+finished 29th at	1600
+finished 4th in	1601
+finished 5th in	1602
+finished 6th in	1603
+finished 8th at	1604
+finished career rebounds at Bucknell	1605
+finished career steals at Bucknell	1606
+finished career with	1607
+finished college career as	1608
+finished education as	1609
+finished education year as nurse	1610
+finished education year as nurse in neonatalalogy	1611
+finished first two seasons with FC Lorient as	1612
+finished fourth in	1613
+finished high school	1614
+finished position	1615
+finished second for	1616
+finished second in	1617
+finished third in	1618
+finished top of averages in 1959-60 with	1619
+fired bass player	1620
+fired by White Sox	1621
+first American woman to become	1622
+first Broadway appearance	1623
+first Grimaldi born in	1624
+first Grimaldi born speaking	1625
+first NFL role	1626
+first Quebec premier to hold	1627
+first United States District Judge for	1628
+first combat	1629
+first connection with guitar	1630
+first console to use	1631
+first elected	1632
+first elected in	1633
+first elected to	1634
+first elected to Northern Ireland Forum	1635
+first elected to Senate	1636
+first election year	1637
+first ever 350 cc World Champion	1638
+first football club	1639
+first major race	1640
+first married	1641
+first played for Scotland national team	1642
+first published in	1643
+first qualified as	1644
+first qualified year	1645
+first recipient of	1646
+first senior appearance for	1647
+first senior competition	1648
+first since	1649
+first single	1650
+first success	1651
+first syndicated in	1652
+first teaching period at Harvard University	1653
+first television appearance	1654
+first television appearance year	1655
+first to acquire	1656
+first to describe	1657
+first used by	1658
+first wife death year	1659
+first work	1660
+first-class debut tournament	1661
+first-class match innings	1662
+first-class match runs scored	1663
+first-class matches played	1664
+first-class team	1665
+fled	1666
+flew	1667
+flew Hermann Göring	1668
+flew Zeros	1669
+flew Zeros from Zuikaku	1670
+fluent in	1671
+focus on	1672
+focused at first on	1673
+focused on	1674
+focused on other projects	1675
+folded	1676
+folded in	1677
+followed traffic collision with	1678
+football career began at	1679
+football career began in	1680
+football career included	1681
+for	1682
+for performance in	1683
+forced	1684
+forced to leave	1685
+format	1686
+formation decade	1687
+formed	1688
+formed Company of Snakes with	1689
+formed M3 Classic Whitesnake with	1690
+formed Serotonal	1691
+formed The Cranberries in	1692
+formed The RH Factor with	1693
+formed The Rascals	1694
+formed band	1695
+formed by	1696
+formed company	1697
+formed following	1698
+formed in	1699
+formed in reaction to	1700
+formed in response to	1701
+former	1702
+former director of	1703
+former editor of	1704
+former employers	1705
+former member of	1706
+former occupation	1707
+former position	1708
+former profession	1709
+former title	1710
+former world record-holder in	1711
+formerly credited as	1712
+formerly played professional box lacrosse in	1713
+formerly represented	1714
+forwarded for advanced training at	1715
+forwarded to	1716
+forwarded to 2e Groupe d'Aviation on	1717
+fosters	1718
+fought	1719
+fought from	1720
+fought heart disease	1721
+found	1722
+found attached to	1723
+found difficult financially	1724
+found expression in	1725
+found fame with	1726
+found good form at	1727
+found guilty	1728
+found himself in conflict with	1729
+found in	1730
+founded	1731
+founded Ridzik Enterprises	1732
+founded Roll Global in	1733
+founded by	1734
+founded in	1735
+founder	1736
+founder and chairman of	1737
+founder of	1738
+founder-member of	1739
+founding member of	1740
+four miles from	1741
+fractured	1742
+frequent guest at	1743
+frequent guest on	1744
+frequent guest on radio show	1745
+frequent speaker at	1746
+frequently testified in	1747
+frequently toured	1748
+frequently wrote for	1749
+friend of	1750
+friendship	1751
+friendship compared to	1752
+friendship with	1753
+from	1754
+from album	1755
+full name	1756
+full name of	1757
+full title	1758
+function	1759
+funded by	1760
+funded through	1761
+further success in	1762
+further success on	1763
+gained	1764
+gained degree in	1765
+gained fame for playing	1766
+gained notoriety	1767
+gained promotion to	1768
+games appeared for Montreal Expos	1769
+games played	1770
+games played in 2004	1771
+games played in 2008	1772
+games played in rookie year	1773
+gave	1774
+gave back	1775
+gave birth	1776
+gave bride	1777
+gave lecture at	1778
+gave little joy to	1779
+gave up Minister of Economy and Finances portfolio	1780
+general manager start year	1781
+generally accepted as	1782
+generally maintained	1783
+generated	1784
+generated strong support from	1785
+genre	1786
+give him	1787
+given	1788
+given at	1789
+given by	1790
+given in	1791
+given title	1792
+goal	1793
+got airplay on	1794
+got involved with	1795
+got television break with	1796
+got to know	1797
+governed	1798
+governed until	1799
+government under investigation	1800
+governorship end year	1801
+governorship period	1802
+governorship start year	1803
+grabbed	1804
+graduate of	1805
+graduated	1806
+graduated from	1807
+graduated from Royal Academy of Dramatic Art	1808
+graduated from Royal Military College of Canada in	1809
+graduated from University of Virginia School of Law in	1810
+graduated from high school in	1811
+graduated in	1812
+graduated in 1937	1813
+graduated with	1814
+graduated with Bachelor of Arts in	1815
+graduated with degree in	1816
+graduated with degree in physics from	1817
+graduation year	1818
+graduation year at University of Edinburgh	1819
+grammar school attendance period	1820
+grandfather	1821
+grave	1822
+great-grandfather	1823
+grew from	1824
+grew to	1825
+grew up in	1826
+grew up on	1827
+guest appearance in episode of	1828
+guest appearance on	1829
+guest starred on	1830
+guest-starred as	1831
+guest-starred in	1832
+guided	1833
+guided Southampton to	1834
+guided White Sox to	1835
+habitat	1836
+had	1837
+had NFL career length	1838
+had a small part in	1839
+had appendectomy	1840
+had been brought up with	1841
+had career in	1842
+had child	1843
+had children	1844
+had college career at	1845
+had consecutive seasons of	1846
+had control of	1847
+had daughter	1848
+had distinguished	1849
+had done work on	1850
+had dream	1851
+had fallen out of favor with	1852
+had film and television credits	1853
+had first combat	1854
+had first success at	1855
+had four podiums in	1856
+had greatest season	1857
+had guest roles in miniseries	1858
+had guest roles in program	1859
+had guest roles on	1860
+had highest beam score at	1861
+had hit single	1862
+had hit song	1863
+had hits in	1864
+had interests	1865
+had just landed at	1866
+had leading role in film	1867
+had lived in house	1868
+had minor roles in film	1869
+had never	1870
+had one win in	1871
+had play produced on	1872
+had recently become	1873
+had record of	1874
+had recurring role	1875
+had regular cast member role on	1876
+had relationship with	1877
+had remained	1878
+had representative Karin Hartz from	1879
+had representatives from	1880
+had revenues over	1881
+had roles in	1882
+had running mate	1883
+had second highest score on	1884
+had son from first marriage	1885
+had son from second marriage	1886
+had strong interest in	1887
+had stronger trade union credentials than	1888
+had success in film	1889
+had successful run in	1890
+had surgery for tendonitis	1891
+had the whip withdrawn	1892
+had two podiums in	1893
+hailed from	1894
+handedness	1895
+happened in	1896
+happened on	1897
+has	1898
+has albums starting from	1899
+has appeared in	1900
+has appeared in television show	1901
+has arranged music for	1902
+has become	1903
+has been	1904
+has been Chair of Board Practice at	1905
+has been MLA for East Antrim since	1906
+has been advocate for	1907
+has been awarded	1908
+has been compared to	1909
+has been described as	1910
+has been featured on	1911
+has been head coach for	1912
+has been head coach since	1913
+has been heard on	1914
+has been leader for	1915
+has been leader in	1916
+has been member of	1917
+has been praised by	1918
+has been re-elected	1919
+has been ruling party in	1920
+has been ruling party since	1921
+has been seen by	1922
+has been with Kansas since	1923
+has been working mainly in	1924
+has been working since 2010 with	1925
+has broken	1926
+has collaborated with	1927
+has composed music for	1928
+has directed	1929
+has drawn attention to	1930
+has earned nickname	1931
+has estimated net worth of	1932
+has events in	1933
+has existed for	1934
+has following among	1935
+has group	1936
+has interests in	1937
+has investments in	1938
+has links with	1939
+has nationalities	1940
+has performed as	1941
+has performed at	1942
+has performed live alongside	1943
+has performed with	1944
+has played Robert Scorpio	1945
+has presence in	1946
+has presented	1947
+has produced	1948
+has produced songs for	1949
+has promotional single	1950
+has received award	1951
+has recorded	1952
+has recorded and performed with	1953
+has released	1954
+has released albums with	1955
+has represented	1956
+has rivalry with	1957
+has shared the stage with	1958
+has sound	1959
+has starred in	1960
+has total	1961
+has toured extensively	1962
+has toured extensively in	1963
+has toured extensively throughout	1964
+has toured with	1965
+has variations	1966
+has wife	1967
+has won	1968
+has won at least one medal in	1969
+has worked as	1970
+has worked since 2001	1971
+has worked with	1972
+has worked with big band	1973
+has worked with groups	1974
+has worked with symphony orchestra	1975
+has world music group	1976
+has written	1977
+has written and produced music for	1978
+has written and produced music for commercials including	1979
+has written on	1980
+has written plays for	1981
+has written songs for	1982
+have	1983
+have been shown at	1984
+have child	1985
+have children	1986
+have currency in	1987
+have focused on	1988
+head coach of	1989
+head coach of Clarkson Golden Knights	1990
+head professional at	1991
+headed by	1992
+heads of major settlements known as	1993
+heard on	1994
+height	1995
+held	1996
+held Archbishop of Tuam post until	1997
+held Home Secretary and Foreign Secretary offices	1998
+held Secretary of State for Health post until	1999
+held Visiting Chair position at University of Hull	2000
+held at	2001
+held coaching position at	2002
+held in	2003
+held in place by	2004
+held ministerial posts in government of	2005
+held office	2006
+held office as Foreign Secretary	2007
+held office as Home Secretary	2008
+held position	2009
+held position as director of Théâtre de la Renaissance	2010
+held position of touring guitarist with Henry Mancini's orchestra until	2011
+held president position at Smith College until	2012
+held rank Brigadier General	2013
+held seat in Northern Ireland Assembly	2014
+held seat until	2015
+held title	2016
+held title of	2017
+held visiting position at	2018
+held world record in	2019
+helped	2020
+helped Aberdeen win	2021
+helped France to	2022
+helped Melbourne Croatia to	2023
+helped coach	2024
+helped develop and implement	2025
+helped establish	2026
+helped form	2027
+helped found	2028
+helped guide	2029
+helped organize	2030
+heritage	2031
+hiatus	2032
+high school ERA	2033
+high school batting average	2034
+high school stolen bases	2035
+high school touchdowns	2036
+highest first-class score	2037
+highest first-class score match opponent	2038
+highest score	2039
+highest score achieved in	2040
+highest score made against	2041
+hired Anthony "Tony" La Russa Jr.	2042
+hired as	2043
+hired from	2044
+hired in 1975	2045
+hit number one	2046
+hit over .300	2047
+hits in 2004	2048
+hits in 2008	2049
+hobbies	2050
+hockey team	2051
+holdings include	2052
+holds	2053
+holds master's degrees from	2054
+holds position	2055
+holds record	2056
+holds record for	2057
+home runs	2058
+hometown club of	2059
+honored at ESPY Awards	2060
+honored by	2061
+honored with	2062
+honorific	2063
+honoured	2064
+honoured Ted Childs with	2065
+host of	2066
+identified	2067
+ideology	2068
+illustrated	2069
+illustrated books by author	2070
+illustrated cards for	2071
+immigrated to	2072
+immigrated with	2073
+immigration date	2074
+immigration year	2075
+implemented arrangements for	2076
+implemented in	2077
+implemented policies to combat	2078
+importance	2079
+important to	2080
+impostor age range	2081
+impressed	2082
+impressed with	2083
+imprisoned	2084
+imprisoned during	2085
+imprisoned on	2086
+imprisonment duration	2087
+imprisonment length	2088
+improved	2089
+improved during	2090
+in	2091
+in film	2092
+in first season	2093
+in office since	2094
+in senior year	2095
+in year	2096
+inaugural first-class appearance year	2097
+inaugural first-class match opponent	2098
+incapacitated	2099
+include	2100
+include recordings of	2101
+included	2102
+included in	2103
+included on	2104
+includes	2105
+includes live cover of	2106
+includes live version of	2107
+includes previously unreleased tracks	2108
+includes songs from	2109
+includes touring member	2110
+including	2111
+incorporated	2112
+incorporated into	2113
+increased	2114
+incurred censure from	2115
+inducted into	2116
+inducted into College Football Hall of Fame in	2117
+inducted into Green Bay Packers Hall of Fame	2118
+inducted into International Netball Federation Hall of Fame	2119
+inducted into World Golf Hall of Fame in	2120
+inducted year	2121
+induction year	2122
+inferred motive	2123
+influence	2124
+influence on	2125
+influence status	2126
+influenced	2127
+influenced by	2128
+influences	2129
+inherited after	2130
+initial IBM role	2131
+initial contract with BSO	2132
+initial name	2133
+initial novels	2134
+initial railroad job	2135
+initial reception	2136
+initial role	2137
+initially held office	2138
+initially pleaded	2139
+initially studied	2140
+injured	2141
+innings played	2142
+inspired	2143
+inspired by	2144
+installed	2145
+installed as pastor	2146
+instituted	2147
+instructed to enforce throwing rule strictly	2148
+instrument	2149
+instrumental in	2150
+instrumental in establishment of	2151
+instrumental in passage of	2152
+instrumentalist	2153
+integrated into	2154
+intellectual property matters relate to	2155
+intended to be	2156
+intended to stand down from	2157
+intends to compete in	2158
+interest	2159
+interests include	2160
+international debut	2161
+international debut date	2162
+interred in	2163
+introduced	2164
+introduced and reinforced	2165
+introduced terms	2166
+invention	2167
+invention of	2168
+invention significance	2169
+invested in	2170
+investment decade	2171
+invests in	2172
+invited	2173
+invited Fei-Ping Hsu to	2174
+invited John F. Loder to become	2175
+invited by	2176
+invited to	2177
+invited to perform for	2178
+involved in	2179
+involved in founding of	2180
+involved in planning	2181
+involvement	2182
+is	2183
+is AHL affiliate of	2184
+is Chairman of	2185
+is Chancellor of	2186
+is Fellow of	2187
+is Governor of	2188
+is Secretary-General of	2189
+is a	2190
+is a member of	2191
+is a state in	2192
+is a take-off on	2193
+is a team in	2194
+is about	2195
+is accepted as	2196
+is advocate for	2197
+is alumna of	2198
+is attracting attention from	2199
+is author of	2200
+is believed to be shared by	2201
+is best known as	2202
+is best known for	2203
+is best known for roles in	2204
+is board member of	2205
+is brother of	2206
+is character in	2207
+is character on	2208
+is closely related to	2209
+is considered	2210
+is cousin of	2211
+is credited with	2212
+is currently	2213
+is daughter of	2214
+is derived from	2215
+is described as	2216
+is director of	2217
+is distantly related to	2218
+is editor of	2219
+is eldest son of	2220
+is emblem color of	2221
+is episode of	2222
+is famous amongst	2223
+is father of	2224
+is first Miss USA to place in Miss Universe pageant since	2225
+is first woman to win	2226
+is football manager of	2227
+is for	2228
+is former Creative Director of	2229
+is former president and CEO of	2230
+is founder and chairman of	2231
+is founder of	2232
+is founder president of	2233
+is founding member of	2234
+is from	2235
+is host of	2236
+is identifiable for	2237
+is in	2238
+is integral part of	2239
+is involved in	2240
+is known for	2241
+is largely involved in	2242
+is life member of	2243
+is located in	2244
+is longer-serving Prime Minister in	2245
+is manager of	2246
+is married to	2247
+is member of	2248
+is nickname for	2249
+is no longer	2250
+is not	2251
+is not generally given	2252
+is now	2253
+is of descent	2254
+is oldest son of	2255
+is on	2256
+is only child of	2257
+is only manager to win World Series	2258
+is part of	2259
+is patron of	2260
+is professor emeritus of physics at	2261
+is regarded as	2262
+is regular guest on	2263
+is remembered for	2264
+is seen as	2265
+is serving	2266
+is set out under	2267
+is similar to	2268
+is sister of	2269
+is son of	2270
+is student at	2271
+is third-longest serving Prime Minister in	2272
+is thought to be	2273
+is to gather information on	2274
+is trustee of	2275
+is well-known for	2276
+issued by	2277
+jailed for	2278
+jobs after high school	2279
+joined	2280
+joined 141e Regiment d'Infanterie on	2281
+joined Alice Cooper band	2282
+joined All India Institute of Medical Sciences	2283
+joined Arsenal in	2284
+joined Atlético Madrid	2285
+joined Birmingham City on permanent contract	2286
+joined Birmingham City year	2287
+joined Blackburn Rovers year	2288
+joined British Army	2289
+joined Canadian Forces in	2290
+joined Celtic	2291
+joined Chicago Colleens	2292
+joined Commons Defence Select Committee after	2293
+joined ESPN	2294
+joined Eagles in	2295
+joined Edward Sexton to open	2296
+joined Fall Out Boy	2297
+joined Fall Out Boy as	2298
+joined Fenerbahçe in	2299
+joined IBM in	2300
+joined Juicy Lucy in year	2301
+joined Lady Hardinge Medical College	2302
+joined Lorient in	2303
+joined NOFX	2304
+joined Ottawa Fury	2305
+joined PGA Tour as	2306
+joined Paris Saint-Germain	2307
+joined Peoria Redwings	2308
+joined Punjab Armed Police	2309
+joined Richmond Football Club year	2310
+joined Salford Red Devils	2311
+joined Sevilla	2312
+joined Snafu in year	2313
+joined St Kilda senior side	2314
+joined Swindon Town	2315
+joined The Donnas in	2316
+joined Tours in	2317
+joined Týr in	2318
+joined Warrington Wolves	2319
+joined Whitesnake in year	2320
+joined Wigan Warriors	2321
+joined Winger	2322
+joined Wolverhampton Wanderers	2323
+joined cast of	2324
+joined club	2325
+joined faculty year	2326
+joined in month and year	2327
+joined professional club	2328
+joined side of	2329
+joined team	2330
+joined year	2331
+joined year at University of Calicut	2332
+joining year	2333
+joining year of Reform the Legal System	2334
+joked about	2335
+journalist from	2336
+journalist until	2337
+judged at	2338
+judgeship end year	2339
+judgeship period	2340
+judgeship start year	2341
+key figure in passage of	2342
+keyboard player	2343
+kicked goals	2344
+killed	2345
+killed by	2346
+killed location	2347
+killed while	2348
+knighthood year	2349
+known among followers for	2350
+known as	2351
+known for	2352
+known for being	2353
+known for involvement in	2354
+known for leading role in	2355
+known for playing	2356
+known for portrayal of	2357
+known for role	2358
+known for role as	2359
+known for role in film	2360
+known for roles in	2361
+known for roles in film	2362
+known for work with	2363
+label	2364
+laid foundation for	2365
+last acting role	2366
+last day training treat	2367
+last played for	2368
+last race for	2369
+lasted in Cabinet with John Whitaker Straw	2370
+later became	2371
+later became part of	2372
+later called	2373
+later educated at	2374
+later had recurring role as	2375
+later name	2376
+later occupation	2377
+later played for	2378
+later position	2379
+later rejoined	2380
+later sat as	2381
+later years	2382
+latest release	2383
+lauded as	2384
+lauded for ability to play	2385
+launched	2386
+launched in	2387
+launched side career as rock climber	2388
+law degree year	2389
+law practice start year	2390
+lay in repose	2391
+lay in repose at	2392
+lead singer of	2393
+leader of	2394
+leadership period	2395
+leading wicket-taker for Sri Lanka in	2396
+leads	2397
+leads to	2398
+league	2399
+league level	2400
+learned	2401
+learned language from	2402
+learned of	2403
+learned to	2404
+learned to play	2405
+lectured at	2406
+led	2407
+led Athletics to	2408
+led Cardinals to	2409
+led Coventry City to	2410
+led NFL in passing	2411
+led National Alliance duration	2412
+led National League in RBIs	2413
+led National League in double plays	2414
+led National League in fielding percentage	2415
+led National League in putouts	2416
+led Scotland to	2417
+led West Perth to premierships in	2418
+led Western League in	2419
+led all outfielders with	2420
+led by	2421
+led campaigns against	2422
+led campaigns into	2423
+led expedition to	2424
+led team	2425
+led teams to	2426
+led to	2427
+left	2428
+left "Leave It to Beaver" in	2429
+left Alice Cooper's band	2430
+left Baltimore Orioles after season	2431
+left Celtic	2432
+left Celtic in	2433
+left Celtic year	2434
+left Clarkson	2435
+left Derbyshire	2436
+left Givenchy in	2437
+left Idaho for	2438
+left Melbourne Croatia when	2439
+left Microsoft	2440
+left Microsoft in	2441
+left Middlesbrough	2442
+left Mondo Generator	2443
+left Oakland Athletics	2444
+left Petticoat Junction in	2445
+left Rangers	2446
+left The Blood Divine	2447
+left University of Georgia in 2016 to become	2448
+left Whitesnake in year	2449
+left Winger	2450
+left band	2451
+left band Winger in	2452
+left band Winger to pursue	2453
+left on tour with	2454
+left school at age	2455
+left school to	2456
+left team	2457
+left tenure at Oregon State University in	2458
+left to spend more time with	2459
+less well known than	2460
+letter recipient	2461
+liberated in	2462
+licensed to	2463
+lifespan	2464
+lifetime	2465
+limited	2466
+linked with	2467
+lived in	2468
+lived in Paris	2469
+lived in United States	2470
+lived with	2471
+lives in	2472
+lives on in	2473
+loan club	2474
+loan spell	2475
+loaned to	2476
+loaned to Burton Albion year	2477
+located along	2478
+located at	2479
+located in	2480
+located near	2481
+located on	2482
+location	2483
+location of practice	2484
+location of shooting	2485
+lost	2486
+lost 1-0	2487
+lost 1967 European Cup Final	2488
+lost 2003 FA Cup Final	2489
+lost control of	2490
+lost during	2491
+lost election in	2492
+lost power	2493
+lost right eye in	2494
+lost to	2495
+love expressed in	2496
+lowered gifts to	2497
+lowered in	2498
+made	2499
+made Archbishop of New York in	2500
+made Broadway debut in	2501
+made Broadway directing debut in	2502
+made List A debut for	2503
+made MLB debut	2504
+made Major League debut	2505
+made One Day International debut for	2506
+made Opening Day starts	2507
+made Sunshu Ao	2508
+made advances within	2509
+made appearances	2510
+made appearances for Northumberland	2511
+made appearances for Rangers	2512
+made appearances for St Mirren	2513
+made astronomical observations of	2514
+made baron	2515
+made broadcasting deal excluding	2516
+made by	2517
+made club debut	2518
+made consistent contact	2519
+made debut	2520
+made debut as leading film actress	2521
+made debut for Celtic	2522
+made debut for Clyde	2523
+made debut for Derbyshire	2524
+made debut for Rangers	2525
+made debut for Turkish national team in	2526
+made debut for Wolverhampton Wanderers	2527
+made debut in	2528
+made debut in FIA GT Championship in	2529
+made debut in county cricket for	2530
+made debut match	2531
+made drawing of Moon through telescope	2532
+made extraordinary efforts on behalf of	2533
+made feature film debut	2534
+made film debut in	2535
+made films for	2536
+made final out in first no-hit game	2537
+made first conducting appearance at	2538
+made first conducting appearance with	2539
+made first drawing of	2540
+made first public conducting appearance	2541
+made first-class cricket debut	2542
+made first-class debut for	2543
+made from	2544
+made further appearances in Minor Counties Championship after WWI	2545
+made her debut as leading film actress	2546
+made her debut film	2547
+made himself	2548
+made in	2549
+made international debut	2550
+made international debut for	2551
+made life peer in	2552
+made major league debut with	2553
+made major league debut year	2554
+made mistakes on	2555
+made national team debut on	2556
+made observations of	2557
+made on-court debut for	2558
+made over	2559
+made over 100 appearances for	2560
+made over 200 appearances for	2561
+made over 30 appearances for	2562
+made playoffs	2563
+made professional debut	2564
+made professional debut in	2565
+made professional debut in season	2566
+made professional debut with	2567
+made senior debut	2568
+made senior debut in	2569
+made senior debut league	2570
+made senior international debut	2571
+made senior international debut on	2572
+made significant contributions to	2573
+made television debut	2574
+maiden name	2575
+main claim to fame	2576
+main force behind defeating	2577
+main workplaces	2578
+mainly performed	2579
+mainstay of	2580
+mainstream success signified by	2581
+maintained	2582
+maintained critical position towards	2583
+maintained fictions during	2584
+maintains	2585
+major contributor to	2586
+major cultural influence period	2587
+major figure in	2588
+major film star status reached by	2589
+major international competitions	2590
+major investor in	2591
+major league debut year	2592
+majored in	2593
+make up	2594
+makes frequent appearances on	2595
+managed	2596
+managed Baltimore Orioles in league	2597
+managed Brooklyn Bridegrooms during years	2598
+managed Chicago White Sox	2599
+managed Louisville Colonels during years	2600
+managed Oakland Athletics	2601
+managed St. Louis Cardinals	2602
+managed Washington Senators in year	2603
+managed by	2604
+managed teams to	2605
+management years	2606
+manager of	2607
+managerial wins ranking	2608
+manifested	2609
+market area	2610
+marketed ready-to-wear clothing through	2611
+marred by	2612
+marriage date	2613
+marriage location	2614
+marriage spouse	2615
+marriage start year	2616
+marriage year	2617
+married	2618
+married Andre Gregory in	2619
+married at age	2620
+married first to	2621
+married first wife	2622
+married in	2623
+married second wife	2624
+married to	2625
+master's degree field	2626
+master's degree year	2627
+match result	2628
+matches played in 1895 season	2629
+matriculated from	2630
+matriculated to	2631
+may have first married	2632
+mayor of Chicago	2633
+mayor term	2634
+mayor term 1 end	2635
+mayor term 1 start	2636
+mayor term 2 end	2637
+mayor term 2 start	2638
+mayor term end	2639
+mayor term start	2640
+mayoral term end	2641
+mayoral term start	2642
+means	2643
+meant	2644
+member	2645
+member league	2646
+member of	2647
+member of Althing since	2648
+member of Cabinet since	2649
+member of Icelandic delegation to	2650
+member of Independence Party since	2651
+member of Kansas since	2652
+member of Legislative Council from	2653
+member of board of directors	2654
+member of committee	2655
+member of editorial board	2656
+member of organization	2657
+member of the board of directors at	2658
+member of world-record U.S. teams in	2659
+member since	2660
+members	2661
+members include	2662
+membership	2663
+membership period in All India Congress Committee	2664
+membership period in Rajya Sabha	2665
+membership period in Royal Commission on Dominion-Provincial Relations	2666
+membership period in Royal Commission on the Constitution of Canada	2667
+membership spread	2668
+membership start year in Indian National Congress	2669
+membership years in New York State Assembly	2670
+membership years in New York State Senate	2671
+met	2672
+might play	2673
+military career	2674
+military service	2675
+minor league batting average in 2010	2676
+minor league on-base percentage in 2010	2677
+minor league pitching coach for	2678
+minor league slugging percentage in 2010	2679
+missed event	2680
+mission location	2681
+modeling career	2682
+modeling career period	2683
+moniker	2684
+morphed into	2685
+most productive season	2686
+most recent album	2687
+most recently played for	2688
+mostly raced using	2689
+mother	2690
+mother nationality	2691
+mourned	2692
+move year	2693
+moved after	2694
+moved from	2695
+moved in	2696
+moved in year	2697
+moved on	2698
+moved temporarily to	2699
+moved to	2700
+moved to Celtic year	2701
+moved to Coventry City as player-coach	2702
+moved to Edmonton	2703
+moved to European Superstock 600 Championship	2704
+moved to FIM Superstock 1000 Cup	2705
+moved to International Formula 3000 Championship in	2706
+moved to Lorient	2707
+moved to New York City in	2708
+moved to Norwich City in	2709
+moved to Southampton	2710
+moved to Stockholm	2711
+moved to Third Lanark	2712
+moved to Turkey again	2713
+moved to United States	2714
+moved to Valencia	2715
+moved to year	2716
+moved up in	2717
+moved up to	2718
+moved up to single-seaters in	2719
+moved with	2720
+moved with family to	2721
+moved year	2722
+music focus	2723
+music genre	2724
+name association	2725
+name meaning	2726
+named	2727
+named Conference USA Coach of the Year	2728
+named Creative Director	2729
+named Executive Vice Chairman of	2730
+named International Female Champion of Champions by L'Équipe	2731
+named Manager of the Year	2732
+named President of	2733
+named Wisden Cricketer of the Year in	2734
+named after	2735
+named as	2736
+named assistant general manager of Boston Bruins	2737
+named director of	2738
+named general manager of Providence Bruins	2739
+named in	2740
+named in Sri Lanka's team for	2741
+named in Sri Lankan squad date	2742
+named in Sri Lankan squad for	2743
+named in Test squad date	2744
+named in Test squad for	2745
+named in honor of	2746
+named league MVP	2747
+named manager of White Sox	2748
+named menswear and accessories designer	2749
+named one of	2750
+named president and CEO of Portland Pirates	2751
+named to	2752
+named to All-NBA Second Team in	2753
+named to All-Star team in	2754
+narrated	2755
+national team debut match	2756
+nationality	2757
+nationality at birth	2758
+nationality origin	2759
+naturalized on	2760
+nature	2761
+netted	2762
+network	2763
+never associated with	2764
+never held	2765
+never received	2766
+new best time at 1500 m after November 1998	2767
+new best time at 1500 m in Nagano	2768
+new junior world record time at 500 m	2769
+new manager	2770
+newspaper	2771
+next appearance season	2772
+nickname	2773
+nickname usage context	2774
+no conclusive evidence	2775
+no-balled for throwing in	2776
+nom de guerre	2777
+nominated Academy Award for role in	2778
+nominated as Bishop of Raphoe	2779
+nominated for	2780
+nominated for Juno Award as	2781
+nominated for award	2782
+nominated for award year	2783
+nominated for film	2784
+nominated for performance in	2785
+nominated for work on	2786
+nomination work	2787
+nomination year for Nobel Peace Prize	2788
+nominee for	2789
+nominee year	2790
+normally piloted	2791
+notable for	2792
+notable performance location	2793
+notable work	2794
+noted for	2795
+noted for work in	2796
+now called	2797
+now part of	2798
+now wears	2799
+number of Süper Lig titles won with Fenerbahçe	2800
+number of Turkish Cups won with Fenerbahçe	2801
+number of Turkish Super Cups won with Fenerbahçe	2802
+number of caps for Scotland	2803
+number of children	2804
+number of dismissals in 2018 ACC Emerging Teams Asia Cup	2805
+number of episodes	2806
+number of matches played for Turkey national football team	2807
+number of members	2808
+number of world records broken during career	2809
+nurtured dream of visiting	2810
+née	2811
+obtained	2812
+obtained B.A. in	2813
+obtained Bachelor of Arts degree in History	2814
+obtained M.D. degree	2815
+obtained Master of Arts degree in History	2816
+obtained Ph.D. in	2817
+obtained commission in	2818
+obtained degree	2819
+obtained medals	2820
+occasionally played as	2821
+occupation	2822
+occupation after presidency	2823
+occupation before politics	2824
+occupation in Edmonton	2825
+occupies	2826
+occurred	2827
+occurred at	2828
+occurred before	2829
+occurred during	2830
+occurred from	2831
+occurred in	2832
+of Balbir Singh Kular's last name	2833
+offered	2834
+officiated	2835
+often cast as	2836
+often considered to be	2837
+often contain	2838
+often depict	2839
+often depicted	2840
+often focuses on themes	2841
+often played	2842
+often seen doing	2843
+often seen in public with	2844
+often used to provide	2845
+older brother	2846
+on-base percentage in rookie year	2847
+on-court debut year	2848
+one of few survivors	2849
+one of the first members to give speeches in	2850
+ongoing since	2851
+only first-class appearance	2852
+only single from "The Cure for Bad Deeds"	2853
+opened	2854
+opened fire	2855
+opened fire on	2856
+opened in	2857
+opened shop	2858
+operated store	2859
+operates	2860
+operates in	2861
+opponent	2862
+opponent of	2863
+opponent of Tranmere Rovers	2864
+opposed	2865
+opposes	2866
+opted to return	2867
+ordained a priest in	2868
+ordained as	2869
+ordained year	2870
+ordered	2871
+ordination year	2872
+organized	2873
+organized and supervised	2874
+organizes	2875
+origin	2876
+original lineup	2877
+originally called	2878
+originally drafted by	2879
+originally formed as	2880
+originally written and recorded by	2881
+other works include	2882
+outcome	2883
+overall draft pick	2884
+overcame	2885
+oversaw growth of	2886
+oversaw introduction of	2887
+own	2888
+own practice location	2889
+owned and operated	2890
+ownership	2891
+owns	2892
+owns and operates	2893
+paid fine	2894
+parent	2895
+parent occupation	2896
+parent profession	2897
+parents	2898
+parliamentary constituency	2899
+part of	2900
+part of outfield in rookie year	2901
+part of team	2902
+parted ways to	2903
+partially caused	2904
+participated in	2905
+participated in "The World Swim Against Malaria and Drowning" with	2906
+participated in Euro F3000 second season	2907
+participated in Euro F3000 with	2908
+participated in FIA Formula 3000 Championship	2909
+participated in Italian F3000 Championship	2910
+participates in	2911
+participation	2912
+participation in 2001 recording sessions	2913
+particular research focus	2914
+partner in	2915
+partnered with	2916
+party	2917
+party affiliation	2918
+party membership	2919
+passage year	2920
+passed fifty	2921
+passed for career-high touchdowns against Northern Arizona in September 2010	2922
+passed for career-high yards against Northern Arizona in September 2010	2923
+passed for interceptions in 2010 season	2924
+passed for touchdowns in 2010 season	2925
+passed titles to	2926
+patron of	2927
+paved way for	2928
+peaked at	2929
+performance in 800-meter freestyle at 2012 Summer Olympics	2930
+performed alongside	2931
+performed and recorded with	2932
+performed and recorded with many other artists	2933
+performed as	2934
+performed at	2935
+performed ballad "The Brown Girl" in	2936
+performed deeds resulting in	2937
+performed in	2938
+performed in Broadway musicals	2939
+performed many shows	2940
+performed notably at	2941
+performed scientific research at	2942
+performed scientific research during	2943
+performed studies in	2944
+performed throughout	2945
+performed vocals in	2946
+performed with	2947
+performed with Winger	2948
+performing as	2949
+perished in	2950
+permitted to immigrate to	2951
+perpetrated	2952
+personal best in women's 100-metre breaststroke	2953
+personal best in women's 200-metre breaststroke	2954
+personal name	2955
+personal traits	2956
+personality	2957
+petitioned oracle at	2958
+petitioned oracle to grant	2959
+philosophical alignment	2960
+philosophical period	2961
+philosophical school	2962
+philosophical stance	2963
+physical traits	2964
+pioneer in use of	2965
+pioneer of	2966
+pioneered	2967
+pioneered movement in	2968
+pitched	2969
+pitched at	2970
+pitched for	2971
+pitched games for Cleveland Indians	2972
+pitched in games	2973
+pitched in games for Orioles in 1886	2974
+pitched in postseason for Atlanta Braves	2975
+pitched in postseason for Cincinnati Reds	2976
+pitched over 200 innings between years	2977
+pitched over 200 innings in consecutive seasons	2978
+place of birth	2979
+place of birth and education	2980
+place of death	2981
+place of publication	2982
+placed	2983
+placed 5th in all-around at	2984
+placed as	2985
+placed behind	2986
+placed first in	2987
+placed in	2988
+placed on	2989
+placed second for Liston Trophy by single vote	2990
+placed third for Liston Trophy	2991
+placement at 2007 US National Championships	2992
+placement at 2008 US National Championships	2993
+placement at 2009 US National Championships	2994
+placement at 2010 CoverGirl Classic	2995
+placement in uneven bars at Toyota International	2996
+placement on first day of 2008 US Olympic Team Trials	2997
+planned lasting monuments to	2998
+play production years	2999
+played	3000
+played "Crankshaft" in	3001
+played 21 of 25 career seasons	3002
+played 635 league games	3003
+played Robert Scorpio	3004
+played Tests for South Africa	3005
+played all four infield positions	3006
+played alongside	3007
+played alternate Doctor in	3008
+played as	3009
+played as part of	3010
+played as youth for	3011
+played at	3012
+played at St. Johnstone	3013
+played at University of Washington	3014
+played basketball at	3015
+played best football at	3016
+played between	3017
+played briefly in Western Australia	3018
+played by	3019
+played career in	3020
+played club games for	3021
+played college basketball at	3022
+played college basketball for	3023
+played college football at	3024
+played college soccer at	3025
+played daughter of Kate Winslet	3026
+played duration	3027
+played during	3028
+played entire career for	3029
+played first gig	3030
+played first international game	3031
+played first international game at	3032
+played five years in AAGPBL	3033
+played for	3034
+played for Derbyshire	3035
+played for Eastern Suburbs Roosters	3036
+played for Giants from	3037
+played for Gloucestershire in	3038
+played for Grand Rapids Chicks	3039
+played for Green Bay Packers	3040
+played for Kent in	3041
+played for North Sydney Bears	3042
+played for Peoria Redwings	3043
+played for Princeton Tigers men's lacrosse team	3044
+played for Princeton Tigers men's soccer team	3045
+played for Scotland at	3046
+played for Seattle Reign in	3047
+played for Seattle Sounders Women	3048
+played for Seattle Sounders Women from	3049
+played for Seattle Sounders Women until	3050
+played for Washington Freedom	3051
+played from	3052
+played full 90 minutes	3053
+played games	3054
+played games for Melbourne	3055
+played games in year	3056
+played high school football at	3057
+played hockey for	3058
+played in	3059
+played in NBA for	3060
+played in consecutive Tests between	3061
+played in era	3062
+played in league	3063
+played in local bands at age	3064
+played in local bands by age	3065
+played in minor leagues duration	3066
+played in outfield	3067
+played in the Tigers backfield next to	3068
+played in the United States for	3069
+played in year	3070
+played innings	3071
+played last game for Scotland	3072
+played matches for	3073
+played matches in	3074
+played matches in 2013–14 Premier League Tournament	3075
+played most of	3076
+played on	3077
+played on Juicy Lucy's	3078
+played on Snafu's	3079
+played on Whitesnake's	3080
+played on team that won	3081
+played one match for Derbyshire	3082
+played position	3083
+played positions	3084
+played premiership the following week with	3085
+played primarily as	3086
+played professional football in	3087
+played professional football team	3088
+played professionally in	3089
+played regularly for	3090
+played return game	3091
+played role	3092
+played role in	3093
+played role of	3094
+played rugby union as	3095
+played seasons with Phillies	3096
+played seven tests for	3097
+played shows with	3098
+played some games for	3099
+played sport	3100
+played supporting role of Queen Sophie-Anne	3101
+played total games	3102
+played total games for	3103
+played total of	3104
+played under the moniker	3105
+played under-19s rugby for	3106
+played until	3107
+played with	3108
+played years in National Association	3109
+playing career end year	3110
+playing career start year	3111
+playing period	3112
+playing position	3113
+plays	3114
+plays as	3115
+plays for	3116
+plays for club	3117
+plays for national team	3118
+plays glockenspiel with	3119
+plays in	3120
+plays in league	3121
+plays mainly as	3122
+plays professional field lacrosse in	3123
+points per game (PPG) at Bucknell	3124
+political affiliation	3125
+political origin	3126
+political party	3127
+political party membership	3128
+political position	3129
+political regions	3130
+polled record votes	3131
+popularity status	3132
+population	3133
+portrayed	3134
+portrayed Sara Montiel character	3135
+portrayed by	3136
+portrayed character	3137
+portrays	3138
+position	3139
+position after football	3140
+position after resignation	3141
+position at Corona del Mar High School	3142
+position at Lady Hardinge Medical College	3143
+position at Martin Luther College	3144
+position in	3145
+position in 1988	3146
+position in 2012	3147
+position on White Rock City Council	3148
+position period at Pittsburgh Steelers	3149
+position since 1994	3150
+possessed	3151
+possibly father of	3152
+possibly the best ace	3153
+post-baseball employment	3154
+post-playing career role	3155
+post-retirement activity period	3156
+post-retirement role	3157
+posted as pilot with	3158
+posted as pilot with Escadrille N12 on	3159
+posted to	3160
+posthumous title	3161
+posthumously inducted into	3162
+posting year	3163
+potential	3164
+practiced	3165
+practiced in	3166
+practiced law at	3167
+practiced law for	3168
+practiced law in	3169
+practiced period in Minneapolis	3170
+practised law in	3171
+praised for	3172
+preceded	3173
+precursor to	3174
+predates Galileo's drawing	3175
+predeceased	3176
+predicting winner of	3177
+predominantly plays as	3178
+preferred	3179
+preliminary finals years	3180
+premiere date	3181
+premiered in	3182
+premiership period	3183
+premiership player for	3184
+presented	3185
+presented and appeared in BBC programme	3186
+presents and appears in	3187
+presided over	3188
+presidency end year	3189
+presidency period	3190
+presidency start year	3191
+president	3192
+president of	3193
+president of Smith College end year	3194
+president of Smith College start year	3195
+president of York University	3196
+president of York University from	3197
+president of York University until	3198
+presidential term	3199
+presidential term end	3200
+presidential term start	3201
+prevented	3202
+previous employer	3203
+previous employers	3204
+previous occupation	3205
+previous position	3206
+previous role	3207
+previously included	3208
+previously included member	3209
+previously married to	3210
+previously played for	3211
+previously position	3212
+previously served as	3213
+previously sung for	3214
+primarily associated with	3215
+primarily plays as	3216
+primary author of	3217
+primary position	3218
+primary pursuit of	3219
+proceeded to	3220
+proclaimed as	3221
+produced	3222
+produced album	3223
+produced albums for	3224
+produced and directed	3225
+produced by	3226
+produced debut album	3227
+produced for	3228
+produced hit singles	3229
+produced works that established	3230
+producer	3231
+produces	3232
+produces works for	3233
+profession	3234
+professional career location	3235
+professional debut was against	3236
+professional football years	3237
+professional name	3238
+professional names	3239
+professions	3240
+professor duration	3241
+professor of art at	3242
+professor of history at	3243
+professor of law at	3244
+professor period at University of Dorpat	3245
+professor tenure at University of Berlin	3246
+professor tenure at University of Kiel	3247
+professor tenure at Warsaw Conservatory	3248
+prohibits	3249
+promoted	3250
+promoted in art	3251
+promoted to	3252
+promoted to Commissioner in	3253
+promoted to Deputy Commissioner in	3254
+promoted to adjutant on	3255
+promoted to corporal on	3256
+promoted to lieutenant-general	3257
+promoted to rank	3258
+promoted to sergeant on	3259
+promoted to sous-lieutenant on	3260
+promotes	3261
+promoting albums	3262
+promotion year	3263
+promotion year to director of player personnel	3264
+prompted	3265
+proponent of	3266
+prospecting/mining period	3267
+protested	3268
+proved	3269
+provided	3270
+provided cross	3271
+provided for	3272
+provided reason for	3273
+provided voiceovers for	3274
+provides	3275
+publication types	3276
+publication year	3277
+publication years	3278
+publications count	3279
+published	3280
+published "Essay on Vertigo"	3281
+published book	3282
+published classic research work	3283
+published first play	3284
+published from	3285
+published in	3286
+published novel	3287
+published weekly newspaper	3288
+published works	3289
+publisher	3290
+publishes Hogan's work	3291
+publishes Hogan's work through	3292
+pulled out of team	3293
+pupil of	3294
+purchase year	3295
+purchased	3296
+purchased by	3297
+purchased houses	3298
+purchased properties between	3299
+purpose	3300
+purpose for Serin	3301
+purpose of moving	3302
+pursued	3303
+pursued at	3304
+pursued career	3305
+pursued research at	3306
+pursuing degree	3307
+pursuing passion for	3308
+pushed	3309
+put children in	3310
+put on performances at	3311
+putouts in rookie year	3312
+qualified for	3313
+qualified to	3314
+quit	3315
+race bike in 1930	3316
+race bike in 1948	3317
+raced for	3318
+raced in	3319
+raced in European Superstock 600 Championship in	3320
+raced in FIA GT Championship until	3321
+raced in FIM Superstock 1000 Championship since	3322
+raced in International Formula 3000 Championship until	3323
+races for	3324
+radio delivery	3325
+radio delivery characterized as	3326
+radio topics include	3327
+raised	3328
+raised in	3329
+raised to	3330
+ran an unsuccessful campaign	3331
+ran for	3332
+ran for Canadian House of Commons seat	3333
+ran for Terrebonne seat	3334
+ran for reelection	3335
+ran unsuccessfully for	3336
+ran until	3337
+rank	3338
+rank among	3339
+rank at joining	3340
+ranked	3341
+ranked among	3342
+ranked as	3343
+ranked in 2009	3344
+ranked in class of	3345
+ranked in world's top 10	3346
+ranks higher than Tony La Russa Jr.	3347
+ranks third all-time	3348
+rarely contributed to	3349
+rarely enjoyed	3350
+re-elected	3351
+re-elected as MP	3352
+re-elected in	3353
+re-elected mayor of Chicago	3354
+re-elected times	3355
+re-elected to	3356
+re-elected to Northern Ireland Assembly in	3357
+re-elected to Parliament	3358
+re-elected year	3359
+re-election to Quebec National Assembly	3360
+re-election year	3361
+re-established	3362
+re-illustrated maps during	3363
+re-illustrated maps of	3364
+re-joined	3365
+re-learned	3366
+reached	3367
+reached fourth round of	3368
+reached mainstream success with album	3369
+reached number	3370
+reached quarterfinals of	3371
+reached semi-finals of	3372
+reached the final of	3373
+read for PhD at	3374
+read letter from	3375
+realized	3376
+reappointed as Commander-in-Chief on	3377
+reason	3378
+reason for arrest	3379
+reason for declining	3380
+reason for incomplete Royal Commission task	3381
+reason for leaving Winger	3382
+reason for missing 1947 TT	3383
+reason for moving to Chicago	3384
+reason for pulling out	3385
+reason for suspension	3386
+rebounds per game (RPG) at Bucknell	3387
+rebuffed	3388
+recalled	3389
+received	3390
+received Academy Award nomination for Best Supporting Actress for role in	3391
+received Bachelor degree from	3392
+received Bachelor degree in	3393
+received Bachelor of Fine Arts from	3394
+received Bachelor of Fine Arts in	3395
+received Daytime Emmy Award nomination for	3396
+received French Legion of Honor	3397
+received Guggenheim Fellowship	3398
+received LL.D. from	3399
+received LL.D. in	3400
+received M.S. and Ph.D. from	3401
+received Master degree from	3402
+received Master degree in	3403
+received Master of Fine Arts from	3404
+received Master of Fine Arts in	3405
+received OBE in	3406
+received Order of the Rising Sun in year	3407
+received Order of the White Eagle	3408
+received Ph.D. from	3409
+received Ph.D. in	3410
+received Ph.D. in physics from	3411
+received RTS Award in	3412
+received Rotary International Foundation scholarship in	3413
+received SOCAN Award in	3414
+received Silver Star for	3415
+received acclaim for	3416
+received awards	3417
+received awards and nominations from	3418
+received baccalaureate in physics from	3419
+received baccalaureate in physics in	3420
+received bachelor's degree from	3421
+received bachelor's degree in	3422
+received by Joe Holland	3423
+received critical acclaim for	3424
+received degree	3425
+received degree from	3426
+received degree in	3427
+received doctorate from	3428
+received doctorate in	3429
+received first prize in drawing at	3430
+received first prize in drawing in	3431
+received for	3432
+received general education from	3433
+received law degree from	3434
+received law degree in	3435
+received license	3436
+received scholarship from	3437
+received scholarship in	3438
+received silver medal for	3439
+received total medals at 1968 Olympics	3440
+received votes	3441
+reception of Rand's fiction	3442
+reception of Rand's philosophy	3443
+recipient of	3444
+recipients of	3445
+recognised	3446
+recognition	3447
+recognize	3448
+recognized	3449
+recognized for	3450
+recognizes	3451
+recommended	3452
+record	3453
+recorded	3454
+recorded "Gold Medal" album	3455
+recorded "Under One Sky" for	3456
+recorded and toured with	3457
+recorded first Winger demos	3458
+recorded first album as leader in	3459
+recorded for	3460
+recorded in	3461
+recorded music of	3462
+recorded new material for	3463
+recorded on	3464
+recorded solo albums for	3465
+recorded studio albums with Winger	3466
+recorded tracks	3467
+recorded version of	3468
+recorded with	3469
+recording and touring with	3470
+records	3471
+recruited	3472
+recruited from	3473
+redshirted	3474
+reduced from	3475
+reelected in	3476
+reelected to	3477
+referred himself to	3478
+referred to as	3479
+refers to	3480
+reflect on	3481
+refused to follow	3482
+refused to heed	3483
+refused to pay attention to	3484
+regained	3485
+regarded as	3486
+regency period	3487
+regular on	3488
+regulated	3489
+rehearsed	3490
+rehearsed location	3491
+reign end	3492
+reign end date	3493
+reign ended	3494
+reign period	3495
+reign start	3496
+reign start date	3497
+reign started	3498
+reigned for	3499
+reigned until	3500
+reissued in	3501
+rejected	3502
+rejoined	3503
+rejuvenated	3504
+relate to	3505
+related to	3506
+relation	3507
+relation to Modibo Adama	3508
+relationship	3509
+release date	3510
+release year	3511
+released	3512
+released EP	3513
+released album	3514
+released albums since	3515
+released albums with The Snakes	3516
+released as	3517
+released debut album	3518
+released debut solo album	3519
+released debut studio album	3520
+released first EP	3521
+released first record	3522
+released from	3523
+released from prison	3524
+released in	3525
+released letter	3526
+released on	3527
+released on parole	3528
+released player	3529
+released players count	3530
+released second full-length album	3531
+released second studio album	3532
+released single	3533
+released singles	3534
+released solo album	3535
+released third album	3536
+released through	3537
+released videos of	3538
+relegated from top-flight	3539
+relegation first time in	3540
+relied on	3541
+relieved games in 1951	3542
+religion	3543
+religious adherence	3544
+relocated permanently to	3545
+relocated to	3546
+remained	3547
+remained Creative Director of Givenchy until	3548
+remained active in	3549
+remained assistant coach at Clarkson	3550
+remained in Winger during	3551
+remained married	3552
+remained married until	3553
+remained member of	3554
+remained vice-president until	3555
+remained with Alice Cooper's band	3556
+remained with Kenton Orchestra until	3557
+remains	3558
+remember	3559
+remembered as	3560
+remembered for	3561
+remixed	3562
+removed	3563
+removed Matthew Aylmer as	3564
+removed from post	3565
+renamed to	3566
+renounced	3567
+replaced	3568
+replaced Caitlin O'Heaney as	3569
+replaced Jeanine Riley from	3570
+replaced Jeanine Riley in	3571
+replaced by	3572
+reported for pilot's training at	3573
+reported for pilot's training on	3574
+reported investigation of	3575
+reported on	3576
+reported to have fallen into	3577
+representation period	3578
+represented	3579
+represented Australia at	3580
+represented France at	3581
+represented Gaspé in	3582
+represented New South Wales in	3583
+represented Scotland at	3584
+represented Scottish League XI	3585
+represented Scottish League XI occasions	3586
+represented South Korea at	3587
+represented United States at	3588
+represented by	3589
+represented constituency	3590
+represented in	3591
+represented in Quebec National Assembly	3592
+represented opposition to	3593
+represented political party	3594
+represented riding	3595
+represented riding since	3596
+represented state	3597
+represented the United States in Olympic Games	3598
+represents	3599
+represents constituency	3600
+represents party	3601
+reprised role	3602
+reprised role as Larry Mondello in	3603
+reprised role in	3604
+reputation	3605
+requested	3606
+research focus	3607
+research interest	3608
+research scientist period	3609
+research work	3610
+residence	3611
+residence after 1881	3612
+resignation date from Australian Labor Party	3613
+resignation reason	3614
+resigned	3615
+resigned as	3616
+resigned from	3617
+resigned from Missouri Senate	3618
+resigned from Southampton	3619
+resigned from UK Independence Party	3620
+resigned governorship year	3621
+resigned seat in provincial legislature	3622
+resigned to take position with	3623
+respect in Europe for	3624
+respected for	3625
+responded that	3626
+responsibility	3627
+responsibility period for Competition	3628
+responsibility term for Competition	3629
+responsible for	3630
+responsible for construction of	3631
+responsible for developing	3632
+responsible for development of	3633
+responsible for establishment of	3634
+responsible for planning	3635
+result	3636
+resulted in	3637
+retained control of	3638
+retains	3639
+retired	3640
+retired after	3641
+retired as	3642
+retired as Commissioner in	3643
+retired as Deputy Inspector General	3644
+retired at	3645
+retired at age	3646
+retired before	3647
+retired from	3648
+retired from Canadian Forces in	3649
+retired from Chairman and Managing Director of the State Bank of India	3650
+retired from European Parliament	3651
+retired from NBA	3652
+retired from NBA in	3653
+retired from Senate	3654
+retired from acting	3655
+retired from football	3656
+retired from football year	3657
+retired from playing	3658
+retired from playing career	3659
+retired from playing year	3660
+retired from politics	3661
+retired from professional football	3662
+retired from professional football in	3663
+retired from professional tennis	3664
+retired in	3665
+retired year	3666
+retirement year	3667
+returned home to	3668
+returned to	3669
+returned to Aberdeen	3670
+returned to Alice Cooper band	3671
+returned to Atlanta Braves	3672
+returned to Australian side	3673
+returned to General Hospital	3674
+returned to India	3675
+returned to Nigeria	3676
+returned to Premier League with	3677
+returned to Sylvan House Music imprint for album	3678
+returned to University of Georgia in 2018 as	3679
+returned to Winger	3680
+returned to backbenches after	3681
+returned to conduct Bournemouth Symphony Orchestra	3682
+returned to role of	3683
+returned to silver screen	3684
+returned to team	3685
+reunited	3686
+reviewed	3687
+revised and edited by	3688
+revised and edited textbook	3689
+rides	3690
+rides for	3691
+riding	3692
+riding style	3693
+rode Yamaha in	3694
+role	3695
+role at Boston Bruins in 1982	3696
+role at GTR	3697
+role at Microsoft	3698
+role at Monterey Jazz Festival	3699
+role at Polityka	3700
+role at St Anthony's	3701
+role description	3702
+role during Second World War	3703
+role in	3704
+role in "A Girl Walks Home Alone at Night"	3705
+role in "How I Met Your Mother"	3706
+role in "Prison Break"	3707
+role in "Seeking a Friend for the End of the World"	3708
+role in "The Odd Couple"	3709
+role in "The Rifleman"	3710
+role in 1998 biographical television film Gia	3711
+role in Bane	3712
+role in Blake's 7	3713
+role in Fall Out Boy	3714
+role in General Hospital	3715
+role in HRT	3716
+role in NOFX	3717
+role in Týr	3718
+role in debut game	3719
+role in expedition	3720
+role on	3721
+role on 1990 Cincinnati Reds pitching staff	3722
+role on Sliders	3723
+role with Cinderella	3724
+role with Senators	3725
+roles	3726
+rose quickly to	3727
+rose to fame with leading role in	3728
+rose to popularity with	3729
+routinely describes	3730
+roving instructor for	3731
+ruled	3732
+ruled Egypt for	3733
+ruled Monaco	3734
+ruled as	3735
+ruled during	3736
+ruled for	3737
+ruled from	3738
+ruled out for	3739
+ruled until	3740
+ruler type	3741
+running mate	3742
+running mates	3743
+runs	3744
+runs batted in	3745
+runs batted in rookie year	3746
+runs from	3747
+runs scored in rookie year	3748
+runs to	3749
+said	3750
+said in October 2008	3751
+said in TV archive interview	3752
+sang	3753
+sang lead on	3754
+sang on track	3755
+sat for	3756
+sat on bench behind	3757
+sat out	3758
+sat out 2007 season under	3759
+saved	3760
+saved Jewish children by	3761
+saved more Jews than	3762
+saw action at	3763
+saw potential in	3764
+schooled	3765
+scored	3766
+scored 138 goals	3767
+scored 5 goals	3768
+scored diving header	3769
+scored goal	3770
+scored goals against Beşiktaş JK	3771
+scored hat trick in	3772
+scored hat-trick	3773
+scored headed goal	3774
+scored points against	3775
+scored twice	3776
+scored winning goal in final against	3777
+season	3778
+seasons as manager	3779
+second Test appearance	3780
+second album	3781
+second child due	3782
+second edition published in	3783
+second married	3784
+second teaching period at Harvard University	3785
+secretary period	3786
+secured funding from	3787
+secured nomination for	3788
+seeks to	3789
+seeks to determine	3790
+seized	3791
+seized Meissen	3792
+selected	3793
+selected Jearl Walker as	3794
+selected Malcolm Brogdon	3795
+selected Robert Marguesse Miller as All-Conference	3796
+selected as	3797
+selected by	3798
+selected for	3799
+selected in	3800
+selected in round	3801
+selected to	3802
+selected to All-Star team in	3803
+selected to Pro Bowl	3804
+selected to attend	3805
+selected to play for	3806
+selected to tour England	3807
+selected with	3808
+semi-finalist team member	3809
+senior debut club	3810
+senior international debut opponent	3811
+senior international debut was in match against	3812
+sent	3813
+sent Frederick Thomas Brentnall to	3814
+sent down to minors for	3815
+sent in year	3816
+sentence	3817
+sentenced to	3818
+separated	3819
+serve as	3820
+served	3821
+served additional council term	3822
+served as	3823
+served as Archbishop of York	3824
+served as Archbishop of the Archdiocese of New York	3825
+served as Chairman	3826
+served as Commissioner from	3827
+served as Commissioner until	3828
+served as Head	3829
+served as Lieutenant Governor	3830
+served as Lord Chancellor	3831
+served as Lord Chancellor and Secretary of State for Justice	3832
+served as MP	3833
+served as MP for the Isle of Wight	3834
+served as MP from	3835
+served as Member of Parliament for Blackburn	3836
+served as President of York University	3837
+served as Secretary of State for Justice	3838
+served as Secretary of State for National Heritage until	3839
+served as Senator	3840
+served as Shadow Deputy Prime Minister	3841
+served as Shadow Justice Secretary	3842
+served as captain of	3843
+served as electoral officer to	3844
+served as first director of Poznań Philharmonic	3845
+served as judge on	3846
+served as junior minister in	3847
+served as leader of	3848
+served as pastor in	3849
+served as president of York University from	3850
+served as senior officer in	3851
+served at National Youth Organisation of the Independence Party until	3852
+served at Supreme Court of Ontario until	3853
+served continuously in Cabinet under Labour government	3854
+served during	3855
+served from	3856
+served in	3857
+served in Cabinet	3858
+served in Cabinet under	3859
+served in Legislative Assembly of Quebec until	3860
+served in Missouri House of Representatives	3861
+served in Office of Economic Affairs in years	3862
+served in Quebec Superior Court until	3863
+served in Rhode Island General Assembly	3864
+served in White House during	3865
+served on	3866
+served on Carrickfergus Borough Council	3867
+served on Edmonton Public School Board	3868
+served on board of	3869
+served on board of directors of	3870
+served prison time	3871
+served two terms in	3872
+served under	3873
+served under Gordon Brown as	3874
+served under Tony Blair as	3875
+served under government of	3876
+served until	3877
+serves as	3878
+serves in	3879
+service as judge	3880
+service period	3881
+service period as Managing Owner	3882
+service period in Legislative Assembly of Alberta	3883
+service recognized by	3884
+set	3885
+set 1000 m world record	3886
+set Premier League record	3887
+set in	3888
+set junior world record at 1500 m	3889
+set sprint classification world record points	3890
+set starting point of Vitaliano Brancati's career	3891
+set total points for sprint classification world record	3892
+set up	3893
+set up business in	3894
+set world record in	3895
+set world record time at 1000 m	3896
+settled	3897
+settled in	3898
+shared	3899
+shared guitar duties with	3900
+shared guitar-playing with	3901
+shared nomination with	3902
+shared stage with	3903
+shared the stage with	3904
+shared with	3905
+shortlisted for	3906
+shot with	3907
+should have been dissolved under	3908
+should not	3909
+showcased versatility in	3910
+showed	3911
+shows love for	3912
+sibling	3913
+sided with	3914
+signature song	3915
+signed	3916
+signed Laurent Koscielny	3917
+signed Long John Reilly to replace	3918
+signed a recording deal with	3919
+signed as	3920
+signed by	3921
+signed by Brisbane Roar	3922
+signed by Cincinnati Red Stockings	3923
+signed contract with	3924
+signed contract with Fox in	3925
+signed deal in	3926
+signed for	3927
+signed for Aberdeen	3928
+signed for season	3929
+signed four-year deal with	3930
+signed permanently for	3931
+signed permanently for Burton Albion year	3932
+signed record deal with	3933
+signed recording contract	3934
+signed single deal with	3935
+signed with	3936
+signed with Mariners after	3937
+signed with Seattle Mariners	3938
+signed with Seattle Sounders Women	3939
+signed with Washington Spirit	3940
+signed year	3941
+signer of	3942
+significance	3943
+signing date	3944
+signing type	3945
+singular form of	3946
+small allround classification junior world record points	3947
+smallest unit of	3948
+smash albums	3949
+sold	3950
+sold Portland Pirates to new ownership group	3951
+sold Stephen George Ridzik's contract	3952
+sold albums worldwide	3953
+sold in	3954
+sold to	3955
+sold to Swindon Town	3956
+solo album year	3957
+soloist with	3958
+son	3959
+son of	3960
+sons	3961
+sought	3962
+sought to	3963
+sound akin to genre	3964
+sound includes	3965
+sound moved away from	3966
+sound moved closer to	3967
+source of pride for	3968
+spanned	3969
+sparked	3970
+spawned	3971
+spawned single	3972
+specialized in	3973
+spent	3974
+spent 1887 season with	3975
+spent 2012–13 season on loan to	3976
+spent all of 2009 with	3977
+spent five seasons	3978
+spent four decades as	3979
+spent last three professional seasons with	3980
+spent majority of life in	3981
+spent most time	3982
+spent most time in	3983
+spent one season at	3984
+spent prime of career with	3985
+spent second half of 2008–09 season on loan to	3986
+spent seven seasons	3987
+spent three seasons with	3988
+spent time on loan at	3989
+spent time visiting	3990
+split	3991
+split 2008 season between	3992
+split in	3993
+split up	3994
+spoke	3995
+sponsored	3996
+sponsored legislation to	3997
+sport	3998
+spotted notice in	3999
+spouse	4000
+spread Ayn Rand's ideas in	4001
+spread Ayn Rand's ideas to	4002
+stabilized in	4003
+stage debut	4004
+stage name	4005
+staged	4006
+standout season	4007
+starred	4008
+starred actors	4009
+starred alongside	4010
+starred as	4011
+starred as member of	4012
+starred in	4013
+starred in "Blue Bloods" since	4014
+starred in The Facts of Life	4015
+starred in film	4016
+starred in sitcom	4017
+starred in television series	4018
+starred opposite	4019
+starred with	4020
+starring	4021
+starring Leonardo DiCaprio as	4022
+starring Tom Hanks as	4023
+stars	4024
+start of Board of Commissioners service	4025
+start year	4026
+start year as MP for Sunderland Central	4027
+started	4028
+started 2010 season at	4029
+started acting in	4030
+started all 12 games for	4031
+started all 12 games in	4032
+started articling	4033
+started as pitcher in games	4034
+started at	4035
+started at quarterback in	4036
+started business	4037
+started business year	4038
+started career	4039
+started career as	4040
+started career at	4041
+started career in	4042
+started career in NSL	4043
+started career position	4044
+started career with	4045
+started college coaching career	4046
+started football career as	4047
+started games for Giants	4048
+started games in 1951	4049
+started in	4050
+started involvement in Independence Party	4051
+started label	4052
+started life	4053
+started on Opening Day for Atlanta Braves	4054
+started position as Chief Conductor of the National Symphony Orchestra of Ukraine	4055
+started position as Principal Guest Conductor of the BBC Philharmonic	4056
+started professional career in	4057
+started professional training as	4058
+started railroad career at age	4059
+started recording and touring more on own	4060
+started representing Australia at senior international level	4061
+started senior career with	4062
+started stage career	4063
+started teaching	4064
+started to work	4065
+started war against	4066
+started work for	4067
+started year	4068
+state House of Representatives service period	4069
+state Supreme Court commissioner service period	4070
+state affiliation	4071
+state after liberation	4072
+state constitutional convention participation year	4073
+stated	4074
+status	4075
+status after 1957	4076
+status after solo	4077
+status at first international meets	4078
+status before annexation	4079
+status by 1880	4080
+status in Kansas	4081
+stayed at	4082
+stayed at St Anthony's for	4083
+stayed in	4084
+stayed on	4085
+stayed with	4086
+stayed with The Beau Brummels until	4087
+steals in college career	4088
+steals per game (SPG) at Bucknell	4089
+still attended	4090
+still head coach at Nazareth College	4091
+stolen base attempts in 2004	4092
+stolen base success rate in 2004	4093
+stolen bases in 2004	4094
+stolen bases in 2008	4095
+stolen bases in 2009	4096
+stolen bases in college season 2004	4097
+stolen bases in rookie year	4098
+stolen bases rank in league	4099
+stood as	4100
+stood down as leader of Alliance Party	4101
+stood down at	4102
+stood down from House of Commons at	4103
+stopped basketball	4104
+stopped playing	4105
+stopped playing first-class cricket	4106
+story subject	4107
+strengthened	4108
+strong arm capability	4109
+struck out	4110
+struggled with	4111
+student of	4112
+students included	4113
+studied	4114
+studied A-levels at	4115
+studied MA in History at	4116
+studied anthropology at	4117
+studied art in	4118
+studied at	4119
+studied at University of Southern California	4120
+studied cinema at	4121
+studied electrical engineering at	4122
+studied film at	4123
+studied in	4124
+studied law	4125
+studied law at	4126
+studied law in	4127
+studied law location	4128
+studied medicine at	4129
+studied music at	4130
+studied tailoring at	4131
+studied theater at	4132
+studied under	4133
+studied with	4134
+studied with guitarists	4135
+studies	4136
+studio albums with UK number one	4137
+studio engineer of choice for	4138
+style	4139
+subject	4140
+subject of	4141
+subordinate only to	4142
+succeeded	4143
+succeeded Abdullah Badawi as	4144
+succeeded Gao Wei	4145
+succeeded Gordon Hogg in	4146
+succeeded Riccardo Tisci as	4147
+succeeded brother	4148
+succeeded by	4149
+succeeded in	4150
+success as	4151
+success from film	4152
+suffered	4153
+suffered accident in childhood	4154
+supergroup type	4155
+supplied	4156
+supplied through	4157
+support	4158
+supported	4159
+supported by	4160
+supporter of	4161
+supports	4162
+supports initiatives	4163
+supports initiatives in	4164
+supposedly inflated to	4165
+supposedly worn by	4166
+surfaced in	4167
+surpassed 20 home runs	4168
+surrendered	4169
+surrendered in	4170
+surrendered to	4171
+survived	4172
+survived by	4173
+sustained on	4174
+swam for	4175
+switched position	4176
+switched role	4177
+switched to	4178
+sworn in as	4179
+sworn in date as Prime Minister	4180
+syndicated by	4181
+taken by	4182
+target	4183
+taught	4184
+taught at	4185
+taught himself to write	4186
+taught school	4187
+teaches	4188
+teaches at	4189
+teaching period	4190
+teaching period at Bryn Mawr College	4191
+teaching period at Columbia University	4192
+teaching period at University of Toronto	4193
+teaching period at University of Victoria	4194
+team	4195
+team in 1936 TT races	4196
+team leadership	4197
+team membership	4198
+teamed with	4199
+teammates	4200
+teammates in	4201
+teammates team	4202
+television debut year	4203
+television role	4204
+tell	4205
+tenure	4206
+tenure as founding director of Center for Informatics Research in Science and Scholarship	4207
+tenure as founding director of Graduate School of Library and Information Science	4208
+tenure as junior minister in Department of Health	4209
+tenure as president of Bath National Bank	4210
+tenure as president of Smith College	4211
+tenure at Bocconi University	4212
+tenure at Philadelphia Phillies	4213
+tenure at St. Louis Cardinals	4214
+tenure in band	4215
+tenure with Army Band	4216
+tenure with Army Band and Kenton Orchestra coincided with	4217
+tenure with Kenton Orchestra	4218
+term as Archbishop of New York	4219
+term as Archbishop of Tuam	4220
+term as Archbishop of York	4221
+term as Bishop of Raphoe	4222
+term as European Commissioner	4223
+term as Foreign Secretary	4224
+term as Home Secretary	4225
+term as Lord Chancellor and Secretary of State for Justice	4226
+term as MP for Blackburn	4227
+term as MP for Portsmouth South	4228
+term as Mayor of Sorel	4229
+term as Member of Parliament from	4230
+term as Member of Parliament to	4231
+term as Member of the Canadian House of Commons	4232
+term as Member of the Legislative Assembly	4233
+term as Minister Responsible for Housing	4234
+term as Minister of Agriculture and Lands	4235
+term as Minister of Public Safety and Solicitor General	4236
+term as Non-Executive Director on Bupa from	4237
+term as Non-Executive Director on Bupa to	4238
+term as President of Civic Choice	4239
+term as Prime Minister of Italy	4240
+term as Secretary of State for Health	4241
+term as Secretary of State for National Heritage	4242
+term as councillor on Portsmouth City Council	4243
+term as delegate	4244
+term as judge	4245
+term as leader of Portsmouth City Council	4246
+term as member of Defence Select Committee	4247
+term as member of Parliamentary Labour Party Defence Committee	4248
+term as member of Parliamentary Labour Party Home Affairs Committee	4249
+term as president	4250
+term as president of Pitt's Board of Trustees	4251
+term as professor at Université Laval	4252
+term end	4253
+term in Australian House of Representatives	4254
+term on Supervisory Board of Akzo Nobel NV from	4255
+term on Supervisory Board of Akzo Nobel NV to	4256
+term start	4257
+territorial senate terms	4258
+then studied	4259
+third full-length album	4260
+thought to be	4261
+threw	4262
+ticket	4263
+tied NL record	4264
+tied NL record event	4265
+tied again at	4266
+tied with	4267
+time	4268
+time 1:51.47 at 1500 m	4269
+time in 200-metre breaststroke at 2012 Canadian Olympic Trials	4270
+time in 200-metre breaststroke in 2012	4271
+time in women's 200-meter butterfly final	4272
+title	4273
+title after marriage	4274
+title won	4275
+titles	4276
+together with	4277
+told to leave	4278
+took	4279
+took 3/42	4280
+took Otto II prisoner	4281
+took a break from career	4282
+took a job with	4283
+took command of	4284
+took control of	4285
+took credit for	4286
+took degree of M.D.	4287
+took first plane ride with	4288
+took four wickets in an innings	4289
+took house at	4290
+took leave from	4291
+took office on	4292
+took over role	4293
+took part in	4294
+took part in scientific expedition in	4295
+took place during	4296
+took place in	4297
+took prisoner	4298
+took up	4299
+took up career as	4300
+took wicket of	4301
+top score	4302
+topic	4303
+total Olympic gold medals won	4304
+total Olympic medals won	4305
+total major international competition medals	4306
+total major league games played	4307
+total matches played in 1891 season	4308
+total matches played in 1892 season	4309
+toured	4310
+toured Holland	4311
+toured UK with	4312
+toured and recorded with	4313
+toured as	4314
+toured briefly with	4315
+toured extensively	4316
+toured extensively in	4317
+toured extensively with	4318
+toured throughout Europe in	4319
+toured throughout Europe with	4320
+toured with	4321
+toured with Cinderella	4322
+tours location	4323
+tours with	4324
+trade union	4325
+trade year	4326
+traded William Dean "Willie" Naulls to	4327
+traded to	4328
+traded to Boston Celtics in	4329
+traded to Cincinnati Reds in	4330
+traded to Minnesota Twins in	4331
+traded to Montreal Expos in	4332
+traded to New York Knicks in	4333
+traded to San Francisco Warriors in	4334
+trained	4335
+trained at	4336
+trained young pilots	4337
+training condition	4338
+training purpose	4339
+transcribed	4340
+transfer fee for Laurent Koscielny	4341
+transfer fee to Tours	4342
+transfer year	4343
+transferred	4344
+transferred from	4345
+transferred to	4346
+transferred to Cardiff City	4347
+transferred to Caulfield	4348
+transferred to Celtic	4349
+transferred to Escadrille SPA154 on	4350
+transferred to Escadrille SPA31 on	4351
+transferred to St. Johnstone	4352
+transformed	4353
+transformed Smith College from	4354
+transformed Smith College into	4355
+transformed into	4356
+transitioned from position	4357
+transitioned to	4358
+translated	4359
+translated into	4360
+translated to Archbishopric of Tuam	4361
+translates to	4362
+translator of	4363
+transported Hermann Göring	4364
+transported to	4365
+travel period	4366
+traveled across	4367
+traveled and studied	4368
+traveled in	4369
+traveled to	4370
+traveled with	4371
+traveled year	4372
+travelled to	4373
+treated Archie Baird as	4374
+tried out for	4375
+tried to equalize	4376
+tried to reduce	4377
+tried to regain	4378
+tried to reload	4379
+triggered	4380
+tripped by	4381
+trustee of	4382
+turned down for	4383
+turned professional	4384
+turned professional when	4385
+turned to	4386
+turned to theatre in year	4387
+tutored	4388
+type	4389
+typically wear	4390
+umpired one game	4391
+unable to	4392
+unable to make	4393
+uncle of	4394
+under influence of	4395
+under leaders	4396
+unique because of	4397
+unique for	4398
+united opposition against	4399
+unlike contemporaries	4400
+unusual characteristics	4401
+upbringing environment	4402
+use	4403
+used	4404
+used as	4405
+used eclecticism of sources and methods	4406
+used failure to capture more ships as	4407
+used film clip from	4408
+used for	4409
+used in	4410
+used influence to save	4411
+used stage name	4412
+uses	4413
+usually is	4414
+utilized	4415
+venue	4416
+vice presidential candidate alongside	4417
+vice-presidential opponent of	4418
+viewpoint	4419
+visit location	4420
+visiting professor at	4421
+vocals supplied by	4422
+voiced character	4423
+volunteered to	4424
+volunteered to join	4425
+voted Laurent Koscielny	4426
+voted to suspend	4427
+vowed to go in place of	4428
+waived	4429
+waived by	4430
+wanted to develop	4431
+wanted to pursue	4432
+was	4433
+was Air Officer Commanding	4434
+was All-American	4435
+was All-Australian in	4436
+was American League All-Star	4437
+was Atlantic Sun Conference All-Star	4438
+was Chairman of	4439
+was Chairman of BAFTA in	4440
+was Chairman of National Youth Organisation of the Independence Party from	4441
+was Chairman of National Youth Organisation of the Independence Party until	4442
+was Deputy Governor during	4443
+was Executive Assistant to the President	4444
+was Governor	4445
+was Guest of Honor at	4446
+was Libertarian Party nominee	4447
+was MLB All-Star in	4448
+was Minister for Information and Broadcasting	4449
+was Minister of Finance	4450
+was Minister of Fisheries	4451
+was NPB All-Star in	4452
+was Natal champion in	4453
+was Non-Executive Director on	4454
+was President of	4455
+was Republican Spokesperson for	4456
+was Secretary General of the Pakistan Muslim League	4457
+was Secretary of	4458
+was Vice Chairman of National Youth Organisation of the Independence Party from	4459
+was Vice Chairman of National Youth Organisation of the Independence Party until	4460
+was Vice-President	4461
+was Vice-President at	4462
+was Visiting Chair in Military History at	4463
+was a Member of	4464
+was a director of	4465
+was a forward for	4466
+was a key figure in	4467
+was a key member of	4468
+was a major figure in	4469
+was a member of	4470
+was a member of Trinidad and Tobago national team at age	4471
+was a pioneer in	4472
+was a professor of physics at	4473
+was a student at	4474
+was about	4475
+was absent without leave from	4476
+was acquired by	4477
+was activist and convener of	4478
+was advocate for	4479
+was advocate of	4480
+was age	4481
+was alleged to have engaged in	4482
+was also known for	4483
+was an author under the pseudonym	4484
+was anchor of	4485
+was appointed	4486
+was appointed to investigate	4487
+was arrested by	4488
+was arrested following	4489
+was arrested in	4490
+was arrested year	4491
+was author of	4492
+was awarded	4493
+was awarded Order of the Rising Sun	4494
+was back in	4495
+was banned from	4496
+was banned in	4497
+was beaten to death by	4498
+was between	4499
+was born in	4500
+was born near	4501
+was born with	4502
+was bowled out by	4503
+was brought up with	4504
+was buried at	4505
+was buried in	4506
+was called to the Bar	4507
+was campaigning for	4508
+was canceled	4509
+was cancelled after	4510
+was captain of	4511
+was captain of All India Schools	4512
+was captured on	4513
+was carried by	4514
+was cast in supporting role in	4515
+was catapulted over	4516
+was central to	4517
+was champion in	4518
+was chosen as	4519
+was chosen in 2008 poll by Legal Affairs	4520
+was closely associated with	4521
+was club captain	4522
+was co-produced by	4523
+was commandant of	4524
+was commissioned as	4525
+was compared to	4526
+was conceptual designer for	4527
+was considered	4528
+was consulted in	4529
+was continued by	4530
+was convicted for	4531
+was convicted of	4532
+was councillor on	4533
+was court-martialed for	4534
+was cremated in	4535
+was crowned	4536
+was defeated by	4537
+was defeated by state of Qin	4538
+was defeated in re-election	4539
+was delegate to	4540
+was diplomat	4541
+was director of player personnel for	4542
+was director of player personnel for Detroit Lions	4543
+was done primarily at	4544
+was drafted	4545
+was drafted by	4546
+was drafted during	4547
+was due to	4548
+was duped into presenting segment on	4549
+was editor of	4550
+was elected	4551
+was elected as	4552
+was elected to	4553
+was elected to Baseball Hall of Fame	4554
+was eliminated on fifth ballot at	4555
+was engineer	4556
+was enthroned alongside	4557
+was enthroned at	4558
+was enthroned at age	4559
+was enthroned by	4560
+was enthroned in	4561
+was entrusted with	4562
+was especially influential among	4563
+was executive producer for	4564
+was expelled from school at age	4565
+was featured in	4566
+was figure in	4567
+was final year of eligibility for	4568
+was finalist for	4569
+was fired	4570
+was first African-American player to be named	4571
+was first African-American woman to place in	4572
+was first American to win	4573
+was first club in 20th century to win	4574
+was first contestant from Michigan to win	4575
+was first designer of Italian origin appointed to position of	4576
+was first golfer to win PGA Championship in match play since	4577
+was first of its kind in	4578
+was first person to make drawing of	4579
+was first president of	4580
+was first professional Go player to reach	4581
+was first to be awarded	4582
+was first to conquer	4583
+was first to scale	4584
+was for	4585
+was forced to cede territory to	4586
+was formally charged with	4587
+was formed by	4588
+was former bandmate of Ron Meagher in	4589
+was former owner of	4590
+was formerly on	4591
+was founder of	4592
+was founding member of	4593
+was free to sign with	4594
+was frequent contributor to	4595
+was from	4596
+was fueled by	4597
+was good at	4598
+was head coach at	4599
+was head coach at Idaho	4600
+was head coach at Texas A&M	4601
+was head coach of Middle Tennessee Blue Raiders men's basketball team	4602
+was head of	4603
+was headmaster from 2006 to 2008	4604
+was held on	4605
+was holder of	4606
+was homeless for a time	4607
+was honored as	4608
+was identified as	4609
+was ignorant of	4610
+was important figure in	4611
+was impostor	4612
+was imprisoned on	4613
+was in	4614
+was in camp with Royal Welch Fusiliers when	4615
+was in cast of	4616
+was in command of	4617
+was in hiding from	4618
+was in lineup of Fall Out Boy	4619
+was in presence of	4620
+was in shadow of	4621
+was inducted into	4622
+was influenced by	4623
+was injured during	4624
+was inside forward	4625
+was instrumental in	4626
+was instrumental in establishing	4627
+was instrumental in founding	4628
+was interred at	4629
+was interred near	4630
+was investigated for	4631
+was involved in planning of	4632
+was involved with	4633
+was key figure in	4634
+was key part of	4635
+was killed	4636
+was killed during	4637
+was killed in	4638
+was killed on	4639
+was knighted	4640
+was knighted for	4641
+was knighted in	4642
+was known for	4643
+was leader in	4644
+was leader of	4645
+was leading wicket-taker in	4646
+was made	4647
+was major figure in	4648
+was mastermind behind	4649
+was member of	4650
+was member of U.S. Wightman Cup team	4651
+was more open and extroverted with	4652
+was mortally wounded in	4653
+was music teacher in	4654
+was music writer	4655
+was named	4656
+was named to	4657
+was named to All-Pac-10 First Team	4658
+was no-balled	4659
+was no-balled for throwing in	4660
+was nominated for	4661
+was nominated in year	4662
+was nominee for	4663
+was normally	4664
+was not restored to	4665
+was off	4666
+was oldest member of	4667
+was on loan at	4668
+was on team which lost NFL title game	4669
+was on team which won NFL Championship	4670
+was once captain of	4671
+was one of	4672
+was one of players released from	4673
+was one of the first to use	4674
+was open to	4675
+was overwhelmed with	4676
+was owner of	4677
+was part of	4678
+was part of All India Police team	4679
+was part of artistic circles including	4680
+was part of squad that reached	4681
+was part of team	4682
+was partner in	4683
+was patron of	4684
+was pilot and squadron commander in	4685
+was pioneer in	4686
+was pitched against	4687
+was popular with	4688
+was posted after	4689
+was posted to	4690
+was praised for	4691
+was present	4692
+was president of	4693
+was previously engaged to	4694
+was professor at	4695
+was professor of anatomy at	4696
+was prominent figure in	4697
+was prominent in	4698
+was proponent of	4699
+was protégé of	4700
+was published	4701
+was re-elected in	4702
+was reader of	4703
+was recipient of	4704
+was recognized as	4705
+was recorded on	4706
+was regular in	4707
+was regular presence on	4708
+was regular starter for	4709
+was released from prison	4710
+was released in	4711
+was relegated at	4712
+was replaced as Colts general manager	4713
+was replaced by	4714
+was respected by	4715
+was responsible for	4716
+was retrospectively given to	4717
+was riding along	4718
+was riding in	4719
+was riding with	4720
+was rookie starter for	4721
+was sacked from Coventry City	4722
+was sacked on	4723
+was sampled on	4724
+was second-in-command of	4725
+was seconded to	4726
+was selected by	4727
+was selected by Detroit Pistons	4728
+was selected for	4729
+was selected in	4730
+was senior editor at	4731
+was sentenced at	4732
+was sentenced in	4733
+was sentenced to	4734
+was shot	4735
+was shot by	4736
+was soldier	4737
+was son of	4738
+was staged by	4739
+was staple in	4740
+was starter for Green Bay Packers	4741
+was starting quarterback for	4742
+was starting quarterback in	4743
+was stopped by	4744
+was strong advocate of	4745
+was struck by	4746
+was struck by automobile	4747
+was succeeded as heir and co-king by	4748
+was survived by	4749
+was suspended following	4750
+was teacher of	4751
+was team president and CEO of Portland Pirates	4752
+was temporarily stationed in	4753
+was the first New Zealander inducted into	4754
+was the first to	4755
+was then-husband of	4756
+was third-place finisher for	4757
+was to be hanged by	4758
+was top 6 finalist with	4759
+was tortured by	4760
+was traded to	4761
+was uncle of	4762
+was undefeated in	4763
+was under	4764
+was venue for	4765
+was victim of	4766
+was visionary leader	4767
+was widely read	4768
+was with	4769
+was working with Reb Beach	4770
+was written by	4771
+was written in	4772
+was written under pseudonym	4773
+was younger brother of	4774
+wasted time on	4775
+wedding date	4776
+weighed more than	4777
+weight	4778
+well-known for role	4779
+went independent in	4780
+went into remission from cancer	4781
+went into studio	4782
+went into studio with	4783
+went on hiatus	4784
+went on hiatus reason	4785
+went solo in	4786
+went to	4787
+went to Dresden to study with	4788
+went to Yale University	4789
+went undrafted	4790
+went undrafted in	4791
+were	4792
+were adapted for	4793
+were anxious about	4794
+were buried in	4795
+were divided into	4796
+were due to	4797
+were killed while	4798
+were performed in	4799
+were unsatisfied with	4800
+were world champions in	4801
+were written and published	4802
+western release year	4803
+wickets taken	4804
+widely feared by	4805
+widow of	4806
+wielded Egypt's army with	4807
+wife	4808
+wife is	4809
+will attend	4810
+will start attending Harvard Law School	4811
+withdrew as official team in	4812
+withdrew from Parliamentary Labour Party	4813
+won	4814
+won "double"	4815
+won 1985 FA Cup Final	4816
+won 24 Hours of Le Mans in	4817
+won AHL Calder Cup championship	4818
+won AL ERA title	4819
+won Academy Award for role	4820
+won BAFTA	4821
+won Bagutta Prize	4822
+won Best Actor at	4823
+won Best Actor for	4824
+won Best British Group award in	4825
+won Bosnian Cup	4826
+won Bosnian Premier League title	4827
+won Brit Award	4828
+won Copeland Trophy times	4829
+won Eiji Sawamura Award in	4830
+won European Le Mans Series championship in	4831
+won FIA GT Championship in	4832
+won FIM Superstock 1000 Championship in	4833
+won Football League Cup in	4834
+won Football League Trophy with	4835
+won Football League Trophy year	4836
+won Guggenheim Fellowship in	4837
+won Hugo Award	4838
+won Ivor Novello Awards	4839
+won Ligue 1 title	4840
+won NL ERA title with ERA	4841
+won National League ERA title in	4842
+won Obie Award for performance in	4843
+won Obie Award in	4844
+won Sawamura Award	4845
+won Scottish Cup in	4846
+won Scottish League Cup in	4847
+won Simpson Medal in	4848
+won Syd Barker Medal as	4849
+won Syd Barker Medal in	4850
+won Süper Lig titles with	4851
+won Turkish Cups with	4852
+won Turkish Super Cups with	4853
+won UEFA Europa League	4854
+won US Girls' 18s National Championship	4855
+won W-League Championship	4856
+won World Fantasy Award	4857
+won all games in	4858
+won at Celtic	4859
+won award	4860
+won award for performance in	4861
+won bronze medal in	4862
+won by Michigan State Spartans	4863
+won doubles title at	4864
+won election to	4865
+won event	4866
+won first championship	4867
+won first no-hit game	4868
+won for	4869
+won from	4870
+won game 3-0 over	4871
+won gold in	4872
+won gold medal as member of	4873
+won gold medal at	4874
+won gold medals in	4875
+won in	4876
+won multiple domestic league and cup honours	4877
+won premiership	4878
+won re-election	4879
+won silver medal in	4880
+won silver medals at 2008 Olympics	4881
+won silver medals in	4882
+won singles title at	4883
+won third consecutive	4884
+won top prizes in	4885
+won with Rangers	4886
+won with Tottenham Hotspur	4887
+won year	4888
+wore	4889
+wore black armbands	4890
+wore on opening day for Cincinnati Red Stockings	4891
+work	4892
+work areas	4893
+work dominates	4894
+work draws from	4895
+work draws on	4896
+work focused on	4897
+work on	4898
+worked as	4899
+worked as engineer on	4900
+worked as physicist until	4901
+worked at	4902
+worked at Boston College during	4903
+worked at Harvard University during	4904
+worked at School of the Museum of Fine Arts during	4905
+worked at the New School during	4906
+worked for	4907
+worked in	4908
+worked in aeronautical industry for	4909
+worked in media	4910
+worked in offices of	4911
+worked in studio with	4912
+worked on	4913
+worked on development of	4914
+worked on film	4915
+worked on staff of	4916
+worked on television series	4917
+worked primarily in	4918
+worked with	4919
+working since	4920
+workplace	4921
+works at	4922
+works for	4923
+works include	4924
+works to improve	4925
+works to promote	4926
+world premiere	4927
+world record-holder in	4928
+worth more than	4929
+would have been forced out of Missouri Senate	4930
+wounded	4931
+writes	4932
+writings topics	4933
+written	4934
+written and directed	4935
+written and produced	4936
+written and published	4937
+written by	4938
+written extensively on	4939
+written for television show	4940
+written works include	4941
+written year	4942
+wrote	4943
+wrote about	4944
+wrote and directed	4945
+wrote and produced songs for	4946
+wrote and sang	4947
+wrote and/or directed	4948
+wrote article in	4949
+wrote articles for	4950
+wrote biography of	4951
+wrote book	4952
+wrote book on Shakespeare	4953
+wrote books on	4954
+wrote comedy under	4955
+wrote end credit song for	4956
+wrote extensively on	4957
+wrote for	4958
+wrote for television company	4959
+wrote for television program	4960
+wrote letter to	4961
+wrote novel	4962
+wrote on	4963
+wrote on topics	4964
+wrote or co-wrote	4965
+wrote parts of	4966
+wrote play	4967
+wrote plays for	4968
+wrote screenplay for	4969
+wrote script for	4970
+wrote short story	4971
+wrote song	4972
+wrote songs	4973
+year	4974
+year appointed Dean of Clonfert	4975
+year became Bishop of Exeter	4976
+year became Bishop of Llandaff	4977
+year commissioned in Royal Welch Fusiliers	4978
+year inducted into Australian Football Hall of Fame	4979
+year joined Celtic	4980
+year named in All-Australian team	4981
+year of B.S. degree	4982
+year of Hall of Fame induction	4983
+year of M.A. degree	4984
+year of Minnesota Basketball Hall of Fame induction	4985
+year of Ph.D.	4986
+year of induction	4987
+year of induction into Music Producers Guild Hall of Fame	4988
+year raised to peerage	4989
+years	4990
+years active	4991
+years active for Wood	4992
+years in Victorian state team	4993
+years played for Perth Azzurri	4994
